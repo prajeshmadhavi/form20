@@ -120,3 +120,12 @@ We do not have bird eye view of what is under process right now. We have near ab
 
 --
 
+I want to convert json data i.e. every json file generated for every pdf in folder parsedData into csv format, I understand some values will be repeated in multiple rows, because one csv row defines one distinct record. 
+
+Create a CSV with following headers. 
+
+District Name,District No,Jilha,Constituency Name,Constituency No,Total No. of Electors,Serial Poll,Total No. Valid Votes,No. of Rejected Votes,NOTA,Total,No. of Tendered Votes,Elected Person Name,Party Name of Elected Person,No. of Valid Votes Cast in Favour of Elected Person,Other Candidate Votes,Female,Male,Others,Total EMV Votes ,Total Postal ballot votes ,Total Votes Polled
+
+map columns with json fields as given below:
+
+
