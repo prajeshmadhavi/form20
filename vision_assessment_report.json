@@ -1,0 +1,2520 @@
+{
+  "timestamp": "2025-10-04T14:28:22.863197",
+  "total_files": 171,
+  "size_failures": 40,
+  "quality_failures": 40,
+  "pending_files": [
+    {
+      "ac_number": 113,
+      "file_name": "AC_113.json",
+      "reason": "file size 276 < 600 bytes, quality score 10/100",
+      "file_size": 276,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 25,
+      "file_name": "AC_25.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 31,
+      "file_name": "AC_31.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 32,
+      "file_name": "AC_32.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 33,
+      "file_name": "AC_33.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 34,
+      "file_name": "AC_34.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 38,
+      "file_name": "AC_38.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 40,
+      "file_name": "AC_40.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 42,
+      "file_name": "AC_42.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 43,
+      "file_name": "AC_43.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 44,
+      "file_name": "AC_44.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 45,
+      "file_name": "AC_45.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 46,
+      "file_name": "AC_46.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 47,
+      "file_name": "AC_47.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 48,
+      "file_name": "AC_48.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 50,
+      "file_name": "AC_50.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 51,
+      "file_name": "AC_51.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 53,
+      "file_name": "AC_53.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 54,
+      "file_name": "AC_54.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 56,
+      "file_name": "AC_56.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 57,
+      "file_name": "AC_57.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 59,
+      "file_name": "AC_59.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 6,
+      "file_name": "AC_6.json",
+      "reason": "file size 274 < 600 bytes, quality score 10/100",
+      "file_size": 274,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 61,
+      "file_name": "AC_61.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 64,
+      "file_name": "AC_64.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 67,
+      "file_name": "AC_67.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 68,
+      "file_name": "AC_68.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 69,
+      "file_name": "AC_69.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 70,
+      "file_name": "AC_70.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 71,
+      "file_name": "AC_71.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 72,
+      "file_name": "AC_72.json",
+      "reason": "file size 317 < 600 bytes, quality score 10/100",
+      "file_size": 317,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 73,
+      "file_name": "AC_73.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 74,
+      "file_name": "AC_74.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 75,
+      "file_name": "AC_75.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 76,
+      "file_name": "AC_76.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 81,
+      "file_name": "AC_81.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 82,
+      "file_name": "AC_82.json",
+      "reason": "file size 303 < 600 bytes, quality score 10/100",
+      "file_size": 303,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 92,
+      "file_name": "AC_92.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 93,
+      "file_name": "AC_93.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    },
+    {
+      "ac_number": 94,
+      "file_name": "AC_94.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10
+    }
+  ],
+  "good_files": [
+    {
+      "ac_number": 102,
+      "file_name": "AC_102.json",
+      "file_size": 139511,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 107,
+      "file_name": "AC_107.json",
+      "file_size": 122981,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 111,
+      "file_name": "AC_111.json",
+      "file_size": 142062,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 120,
+      "file_name": "AC_120.json",
+      "file_size": 126655,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 122,
+      "file_name": "AC_122.json",
+      "file_size": 142894,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 125,
+      "file_name": "AC_125.json",
+      "file_size": 142888,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 15,
+      "file_name": "AC_15.json",
+      "file_size": 124353,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 154,
+      "file_name": "AC_154.json",
+      "file_size": 102865,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 159,
+      "file_name": "AC_159.json",
+      "file_size": 109382,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 162,
+      "file_name": "AC_162.json",
+      "file_size": 53141,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 165,
+      "file_name": "AC_165.json",
+      "file_size": 116065,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 168,
+      "file_name": "AC_168.json",
+      "file_size": 163987,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 169,
+      "file_name": "AC_169.json",
+      "file_size": 8304,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 170,
+      "file_name": "AC_170.json",
+      "file_size": 99621,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 172,
+      "file_name": "AC_172.json",
+      "file_size": 102205,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 178,
+      "file_name": "AC_178.json",
+      "file_size": 10777,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 186,
+      "file_name": "AC_186.json",
+      "file_size": 87955,
+      "quality_score": 95
+    },
+    {
+      "ac_number": 190,
+      "file_name": "AC_190.json",
+      "file_size": 133386,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 191,
+      "file_name": "AC_191.json",
+      "file_size": 138640,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 196,
+      "file_name": "AC_196.json",
+      "file_size": 131976,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 207,
+      "file_name": "AC_207.json",
+      "file_size": 183962,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 213,
+      "file_name": "AC_213.json",
+      "file_size": 198121,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 216,
+      "file_name": "AC_216.json",
+      "file_size": 115540,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 217,
+      "file_name": "AC_217.json",
+      "file_size": 107265,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 218,
+      "file_name": "AC_218.json",
+      "file_size": 104894,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 219,
+      "file_name": "AC_219.json",
+      "file_size": 105181,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 220,
+      "file_name": "AC_220.json",
+      "file_size": 116836,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 221,
+      "file_name": "AC_221.json",
+      "file_size": 106974,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 222,
+      "file_name": "AC_222.json",
+      "file_size": 137877,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 223,
+      "file_name": "AC_223.json",
+      "file_size": 117388,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 224,
+      "file_name": "AC_224.json",
+      "file_size": 140962,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 225,
+      "file_name": "AC_225.json",
+      "file_size": 111204,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 226,
+      "file_name": "AC_226.json",
+      "file_size": 129496,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 227,
+      "file_name": "AC_227.json",
+      "file_size": 137764,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 228,
+      "file_name": "AC_228.json",
+      "file_size": 165448,
+      "quality_score": 85
+    },
+    {
+      "ac_number": 229,
+      "file_name": "AC_229.json",
+      "file_size": 148111,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 230,
+      "file_name": "AC_230.json",
+      "file_size": 145175,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 243,
+      "file_name": "AC_243.json",
+      "file_size": 12679,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 253,
+      "file_name": "AC_253.json",
+      "file_size": 118266,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 26,
+      "file_name": "AC_26.json",
+      "file_size": 116589,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 265,
+      "file_name": "AC_265.json",
+      "file_size": 113912,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 27,
+      "file_name": "AC_27.json",
+      "file_size": 121486,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 272,
+      "file_name": "AC_272.json",
+      "file_size": 22036,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 273,
+      "file_name": "AC_273.json",
+      "file_size": 129440,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 28,
+      "file_name": "AC_28.json",
+      "file_size": 140079,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 281,
+      "file_name": "AC_281.json",
+      "file_size": 103893,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 29,
+      "file_name": "AC_29.json",
+      "file_size": 132632,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 30,
+      "file_name": "AC_30.json",
+      "file_size": 98955,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 35,
+      "file_name": "AC_35.json",
+      "file_size": 212719,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 36,
+      "file_name": "AC_36.json",
+      "file_size": 143669,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 37,
+      "file_name": "AC_37.json",
+      "file_size": 129870,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 41,
+      "file_name": "AC_41.json",
+      "file_size": 135512,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 55,
+      "file_name": "AC_55.json",
+      "file_size": 117236,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 58,
+      "file_name": "AC_58.json",
+      "file_size": 193446,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 60,
+      "file_name": "AC_60.json",
+      "file_size": 139745,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 63,
+      "file_name": "AC_63.json",
+      "file_size": 126927,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 65,
+      "file_name": "AC_65.json",
+      "file_size": 133935,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 77,
+      "file_name": "AC_77.json",
+      "file_size": 130859,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 78,
+      "file_name": "AC_78.json",
+      "file_size": 162281,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 79,
+      "file_name": "AC_79.json",
+      "file_size": 19120,
+      "quality_score": 70
+    },
+    {
+      "ac_number": 80,
+      "file_name": "AC_80.json",
+      "file_size": 139604,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 83,
+      "file_name": "AC_83.json",
+      "file_size": 123766,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 84,
+      "file_name": "AC_84.json",
+      "file_size": 126708,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 85,
+      "file_name": "AC_85.json",
+      "file_size": 131401,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 86,
+      "file_name": "AC_86.json",
+      "file_size": 137289,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 87,
+      "file_name": "AC_87.json",
+      "file_size": 119317,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 88,
+      "file_name": "AC_88.json",
+      "file_size": 128181,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 89,
+      "file_name": "AC_89.json",
+      "file_size": 134104,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 90,
+      "file_name": "AC_90.json",
+      "file_size": 136227,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 91,
+      "file_name": "AC_91.json",
+      "file_size": 142065,
+      "quality_score": 100
+    },
+    {
+      "ac_number": 97,
+      "file_name": "AC_97.json",
+      "file_size": 31938,
+      "quality_score": 70
+    }
+  ],
+  "assessment_details": {
+    "102": {
+      "file_size": 139511,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 366,
+        "has_elected_person": true
+      }
+    },
+    "107": {
+      "file_size": 122981,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 320,
+        "has_elected_person": true
+      }
+    },
+    "111": {
+      "file_size": 142062,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 372,
+        "has_elected_person": true
+      }
+    },
+    "113": {
+      "file_size": 276,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "120": {
+      "file_size": 126655,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 329,
+        "has_elected_person": true
+      }
+    },
+    "122": {
+      "file_size": 142894,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 373,
+        "has_elected_person": true
+      }
+    },
+    "125": {
+      "file_size": 142888,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 374,
+        "has_elected_person": true
+      }
+    },
+    "15": {
+      "file_size": 124353,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 322,
+        "has_elected_person": true
+      }
+    },
+    "154": {
+      "file_size": 102865,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 9,
+        "polling_stations_count": 292,
+        "has_elected_person": false
+      }
+    },
+    "159": {
+      "file_size": 109382,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 286,
+        "has_elected_person": true
+      }
+    },
+    "162": {
+      "file_size": 53141,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 149,
+        "polling_stations_count": 116,
+        "has_elected_person": false
+      }
+    },
+    "165": {
+      "file_size": 116065,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 8,
+        "polling_stations_count": 301,
+        "has_elected_person": true
+      }
+    },
+    "168": {
+      "file_size": 163987,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 14,
+        "polling_stations_count": 402,
+        "has_elected_person": false
+      }
+    },
+    "169": {
+      "file_size": 8304,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Insufficient candidates data"
+        ],
+        "extraction_method": "",
+        "candidates_count": 1,
+        "polling_stations_count": 21,
+        "has_elected_person": true
+      }
+    },
+    "170": {
+      "file_size": 99621,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 8,
+        "polling_stations_count": 257,
+        "has_elected_person": true
+      }
+    },
+    "172": {
+      "file_size": 102205,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 9,
+        "polling_stations_count": 262,
+        "has_elected_person": true
+      }
+    },
+    "178": {
+      "file_size": 10777,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 16,
+        "polling_stations_count": 24,
+        "has_elected_person": false
+      }
+    },
+    "186": {
+      "file_size": 87955,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 95,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 2,
+        "polling_stations_count": 233,
+        "has_elected_person": true
+      }
+    },
+    "190": {
+      "file_size": 133386,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 347,
+        "has_elected_person": true
+      }
+    },
+    "191": {
+      "file_size": 138640,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 10,
+        "polling_stations_count": 381,
+        "has_elected_person": false
+      }
+    },
+    "196": {
+      "file_size": 131976,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 341,
+        "has_elected_person": true
+      }
+    },
+    "207": {
+      "file_size": 183962,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 477,
+        "has_elected_person": true
+      }
+    },
+    "213": {
+      "file_size": 198121,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 521,
+        "has_elected_person": true
+      }
+    },
+    "216": {
+      "file_size": 115540,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 9,
+        "polling_stations_count": 297,
+        "has_elected_person": true
+      }
+    },
+    "217": {
+      "file_size": 107265,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 281,
+        "has_elected_person": true
+      }
+    },
+    "218": {
+      "file_size": 104894,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 8,
+        "polling_stations_count": 271,
+        "has_elected_person": true
+      }
+    },
+    "219": {
+      "file_size": 105181,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 272,
+        "has_elected_person": true
+      }
+    },
+    "220": {
+      "file_size": 116836,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 304,
+        "has_elected_person": true
+      }
+    },
+    "221": {
+      "file_size": 106974,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 276,
+        "has_elected_person": true
+      }
+    },
+    "222": {
+      "file_size": 137877,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 360,
+        "has_elected_person": true
+      }
+    },
+    "223": {
+      "file_size": 117388,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 308,
+        "has_elected_person": true
+      }
+    },
+    "224": {
+      "file_size": 140962,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 366,
+        "has_elected_person": true
+      }
+    },
+    "225": {
+      "file_size": 111204,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 290,
+        "has_elected_person": true
+      }
+    },
+    "226": {
+      "file_size": 129496,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 338,
+        "has_elected_person": true
+      }
+    },
+    "227": {
+      "file_size": 137764,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 356,
+        "has_elected_person": true
+      }
+    },
+    "228": {
+      "file_size": 165448,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 85,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors"
+        ],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 433,
+        "has_elected_person": true
+      }
+    },
+    "229": {
+      "file_size": 148111,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 389,
+        "has_elected_person": true
+      }
+    },
+    "230": {
+      "file_size": 145175,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Insufficient candidates data"
+        ],
+        "extraction_method": "",
+        "candidates_count": 1,
+        "polling_stations_count": 384,
+        "has_elected_person": true
+      }
+    },
+    "243": {
+      "file_size": 12679,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 21,
+        "polling_stations_count": 36,
+        "has_elected_person": false
+      }
+    },
+    "25": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "253": {
+      "file_size": 118266,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 309,
+        "has_elected_person": true
+      }
+    },
+    "26": {
+      "file_size": 116589,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 306,
+        "has_elected_person": true
+      }
+    },
+    "265": {
+      "file_size": 113912,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 8,
+        "polling_stations_count": 336,
+        "has_elected_person": false
+      }
+    },
+    "27": {
+      "file_size": 121486,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 10,
+        "polling_stations_count": 340,
+        "has_elected_person": false
+      }
+    },
+    "272": {
+      "file_size": 22036,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 6,
+        "polling_stations_count": 76,
+        "has_elected_person": false
+      }
+    },
+    "273": {
+      "file_size": 129440,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 334,
+        "has_elected_person": true
+      }
+    },
+    "28": {
+      "file_size": 140079,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 360,
+        "has_elected_person": true
+      }
+    },
+    "281": {
+      "file_size": 103893,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 17,
+        "polling_stations_count": 252,
+        "has_elected_person": false
+      }
+    },
+    "29": {
+      "file_size": 132632,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 347,
+        "has_elected_person": true
+      }
+    },
+    "30": {
+      "file_size": 98955,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 15,
+        "polling_stations_count": 267,
+        "has_elected_person": false
+      }
+    },
+    "31": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "32": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "33": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "34": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "35": {
+      "file_size": 212719,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 30,
+        "polling_stations_count": 361,
+        "has_elected_person": false
+      }
+    },
+    "36": {
+      "file_size": 143669,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 378,
+        "has_elected_person": true
+      }
+    },
+    "37": {
+      "file_size": 129870,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 342,
+        "has_elected_person": true
+      }
+    },
+    "38": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "40": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "41": {
+      "file_size": 135512,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 10,
+        "polling_stations_count": 356,
+        "has_elected_person": true
+      }
+    },
+    "42": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "43": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "44": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "45": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "46": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "47": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "48": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "50": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "51": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "53": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "54": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "55": {
+      "file_size": 117236,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 308,
+        "has_elected_person": true
+      }
+    },
+    "56": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "57": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "58": {
+      "file_size": 193446,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 510,
+        "has_elected_person": true
+      }
+    },
+    "59": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "6": {
+      "file_size": 274,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "60": {
+      "file_size": 139745,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 367,
+        "has_elected_person": true
+      }
+    },
+    "61": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "63": {
+      "file_size": 126927,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 331,
+        "has_elected_person": true
+      }
+    },
+    "64": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "65": {
+      "file_size": 133935,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 12,
+        "polling_stations_count": 353,
+        "has_elected_person": true
+      }
+    },
+    "67": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "68": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "69": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "70": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "71": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "72": {
+      "file_size": 317,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "73": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "74": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "75": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "76": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "77": {
+      "file_size": 130859,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 338,
+        "has_elected_person": true
+      }
+    },
+    "78": {
+      "file_size": 162281,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 427,
+        "has_elected_person": true
+      }
+    },
+    "79": {
+      "file_size": 19120,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 25,
+        "polling_stations_count": 33,
+        "has_elected_person": false
+      }
+    },
+    "80": {
+      "file_size": 139604,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 365,
+        "has_elected_person": true
+      }
+    },
+    "81": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "82": {
+      "file_size": 303,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "83": {
+      "file_size": 123766,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 324,
+        "has_elected_person": true
+      }
+    },
+    "84": {
+      "file_size": 126708,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 332,
+        "has_elected_person": true
+      }
+    },
+    "85": {
+      "file_size": 131401,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 344,
+        "has_elected_person": true
+      }
+    },
+    "86": {
+      "file_size": 137289,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 359,
+        "has_elected_person": true
+      }
+    },
+    "87": {
+      "file_size": 119317,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 312,
+        "has_elected_person": true
+      }
+    },
+    "88": {
+      "file_size": 128181,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 331,
+        "has_elected_person": true
+      }
+    },
+    "89": {
+      "file_size": 134104,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 10,
+        "polling_stations_count": 350,
+        "has_elected_person": true
+      }
+    },
+    "90": {
+      "file_size": 136227,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 351,
+        "has_elected_person": true
+      }
+    },
+    "91": {
+      "file_size": 142065,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 100,
+        "quality_passed": true,
+        "issues": [],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 366,
+        "has_elected_person": true
+      }
+    },
+    "92": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "93": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "94": {
+      "file_size": 275,
+      "size_ok": false,
+      "quality_ok": false,
+      "quality_details": {
+        "quality_score": 10,
+        "quality_passed": false,
+        "issues": [
+          "Missing or invalid total electors",
+          "No polling station details",
+          "Insufficient candidates data",
+          "Missing elected person"
+        ],
+        "extraction_method": "manual_structure_analysis",
+        "candidates_count": 0,
+        "polling_stations_count": 0,
+        "has_elected_person": false
+      }
+    },
+    "97": {
+      "file_size": 31938,
+      "size_ok": true,
+      "quality_ok": true,
+      "quality_details": {
+        "quality_score": 70,
+        "quality_passed": true,
+        "issues": [
+          "Missing or invalid total electors",
+          "Missing elected person"
+        ],
+        "extraction_method": "",
+        "candidates_count": 11,
+        "polling_stations_count": 113,
+        "has_elected_person": false
+      }
+    }
+  }
+}

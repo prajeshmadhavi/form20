@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test JSON Links</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-link { display: block; margin: 10px 0; padding: 10px; background: #f0f0f0; border-radius: 4px; }
+        .console { background: #222; color: #0f0; padding: 10px; font-family: monospace; height: 200px; overflow-y: scroll; }
+    </style>
+</head>
+<body>
+    <h1>Test JSON Link Opening</h1>
+
+    <h2>Test Links:</h2>
+
+    <!-- Direct JSON -->
+    <a href="parsedData/AC_1.json" target="_blank" class="test-link" onclick="log('Direct JSON link clicked')">
+        1. Direct JSON Link: parsedData/AC_1.json
+    </a>
+
+    <!-- JSON Viewer -->
+    <a href="json_viewer.html?file=parsedData/AC_1.json" target="_blank" class="test-link" onclick="log('JSON viewer link clicked')">
+        2. JSON Viewer Link: json_viewer.html?file=parsedData/AC_1.json
+    </a>
+
+    <!-- Test with JavaScript -->
+    <button onclick="testJSONOpening()" style="padding: 10px; margin: 10px;">
+        3. Test JavaScript JSON Opening (like dashboard)
+    </button>
+
+    <h2>Console:</h2>
+    <div id="console" class="console"></div>
+
+    <script>
+        function log(message) {
+            const console = document.getElementById('console');
+            const timestamp = new Date().toLocaleTimeString();
+            console.innerHTML += `[${timestamp}] ${message}\n`;
+            console.scrollTop = console.scrollHeight;
+        }
+
+        function testJSONOpening() {
+            log('Testing JSON opening like in dashboard...');
+
+            const url = 'parsedData/AC_1.json';
+            const acNumber = 1;
+
+            try {
+                // Use the JSON viewer for better formatting (same as dashboard)
+                const viewerUrl = `json_viewer.html?file=${encodeURIComponent(url)}`;
+                log(`Attempting to open: ${viewerUrl}`);
+
+                const popup = window.open(viewerUrl, '_blank');
+
+                if (popup) {
+                    log(`SUCCESS: Opened JSON viewer for AC_${acNumber}`);
+                } else {
+                    log(`ERROR: Popup blocked for JSON AC_${acNumber}`);
+
+                    // Try alternative: direct JSON file
+                    log('Trying fallback: direct JSON file');
+                    const popup2 = window.open(url, '_blank');
+                    if (popup2) {
+                        log('SUCCESS: Fallback direct JSON opened');
+                    } else {
+                        log('ERROR: Both JSON viewer and direct JSON failed');
+                    }
+                }
+            } catch (error) {
+                log(`ERROR: ${error.message}`);
+            }
+        }
+
+        // Test JSON file accessibility
+        async function testJSONAccess() {
+            log('Testing JSON file accessibility...');
+
+            try {
+                const response = await fetch('parsedData/AC_1.json');
+                log(`JSON fetch response: ${response.status} ${response.statusText}`);
+
+                const data = await response.json();
+                log(`JSON content preview: AC ${data['Constituency Number']}, Electors: ${data['Total Number of Electors']}`);
+            } catch (error) {
+                log(`JSON access error: ${error.message}`);
+            }
+        }
+
+        log('JSON Link Test initialized');
+        testJSONAccess();
+    </script>
+</body>
+</html>

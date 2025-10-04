@@ -1,0 +1,64 @@
+2025-10-04 14:38:38,034 - INFO - 🚀 STARTING VISION-ONLY REPROCESSING
+2025-10-04 14:38:38,034 - INFO - 📋 Strategy: Claude Vision LLM ONLY - No OCR fallback
+2025-10-04 14:38:38,034 - INFO - 📊 Total files to reprocess: 40
+2025-10-04 14:38:38,034 - INFO - ============================================================
+2025-10-04 14:38:38,034 - INFO - 📊 Progress: 1/40 - Processing AC_113
+2025-10-04 14:38:38,034 - INFO - 📋 Previous issue: file size 276 < 600 bytes, quality score 10/100
+2025-10-04 14:38:38,034 - INFO - 🤖 Vision-only extraction for AC_113
+2025-10-04 14:38:38,034 - INFO - 📦 Backed up existing file to AC_113_pre_vision_1759588718.json
+2025-10-04 14:38:38,117 - ERROR - ❌ Vision extraction failed for AC_113: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:38,117 - ERROR - ❌ AC_113 reprocessing failed - No output file
+2025-10-04 14:38:40,117 - INFO - 📊 Progress: 2/40 - Processing AC_25
+2025-10-04 14:38:40,118 - INFO - 📋 Previous issue: file size 275 < 600 bytes, quality score 10/100
+2025-10-04 14:38:40,118 - INFO - 🤖 Vision-only extraction for AC_25
+2025-10-04 14:38:40,118 - INFO - 📦 Backed up existing file to AC_25_pre_vision_1759588720.json
+2025-10-04 14:38:40,215 - ERROR - ❌ Vision extraction failed for AC_25: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:40,216 - ERROR - ❌ AC_25 reprocessing failed - No output file
+2025-10-04 14:38:42,216 - INFO - 📊 Progress: 3/40 - Processing AC_31
+2025-10-04 14:38:42,216 - INFO - 📋 Previous issue: file size 275 < 600 bytes, quality score 10/100
+2025-10-04 14:38:42,217 - INFO - 🤖 Vision-only extraction for AC_31
+2025-10-04 14:38:42,217 - INFO - 📦 Backed up existing file to AC_31_pre_vision_1759588722.json
+2025-10-04 14:38:42,311 - ERROR - ❌ Vision extraction failed for AC_31: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:42,311 - ERROR - ❌ AC_31 reprocessing failed - No output file
+2025-10-04 14:38:44,312 - INFO - 📊 Progress: 4/40 - Processing AC_32
+2025-10-04 14:38:44,312 - INFO - 📋 Previous issue: file size 275 < 600 bytes, quality score 10/100
+2025-10-04 14:38:44,313 - INFO - 🤖 Vision-only extraction for AC_32
+2025-10-04 14:38:44,313 - INFO - 📦 Backed up existing file to AC_32_pre_vision_1759588724.json
+2025-10-04 14:38:44,410 - ERROR - ❌ Vision extraction failed for AC_32: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:44,410 - ERROR - ❌ AC_32 reprocessing failed - No output file
+2025-10-04 14:38:46,410 - INFO - 📊 Progress: 5/40 - Processing AC_33
+2025-10-04 14:38:46,410 - INFO - 📋 Previous issue: file size 275 < 600 bytes, quality score 10/100
+2025-10-04 14:38:46,411 - INFO - 🤖 Vision-only extraction for AC_33
+2025-10-04 14:38:46,411 - INFO - 📦 Backed up existing file to AC_33_pre_vision_1759588726.json
+2025-10-04 14:38:46,508 - ERROR - ❌ Vision extraction failed for AC_33: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:46,508 - ERROR - ❌ AC_33 reprocessing failed - No output file
+2025-10-04 14:38:48,508 - INFO - 📊 Progress: 6/40 - Processing AC_34
+2025-10-04 14:38:48,509 - INFO - 📋 Previous issue: file size 275 < 600 bytes, quality score 10/100
+2025-10-04 14:38:48,509 - INFO - 🤖 Vision-only extraction for AC_34
+2025-10-04 14:38:48,509 - INFO - 📦 Backed up existing file to AC_34_pre_vision_1759588728.json
+2025-10-04 14:38:48,602 - ERROR - ❌ Vision extraction failed for AC_34: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/claude_vision_extractor.py", line 11, in <module>
+    from pdf2image import convert_from_path
+ModuleNotFoundError: No module named 'pdf2image'
+
+2025-10-04 14:38:48,602 - ERROR - ❌ AC_34 reprocessing failed - No output file

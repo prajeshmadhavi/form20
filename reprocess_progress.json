@@ -1,0 +1,289 @@
+{
+  "session_start": "2025-10-04T04:52:25.734192",
+  "total_files": 40,
+  "processed": 40,
+  "successful": 40,
+  "failed": 0,
+  "results": [
+    {
+      "ac_number": 6,
+      "original_score": 50,
+      "success": true,
+      "processing_time": 65.45214676856995,
+      "timestamp": "2025-10-04T04:53:31.186429"
+    },
+    {
+      "ac_number": 25,
+      "original_score": 20,
+      "success": true,
+      "processing_time": 66.10236287117004,
+      "timestamp": "2025-10-04T04:54:38.289999"
+    },
+    {
+      "ac_number": 31,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 130.07238507270813,
+      "timestamp": "2025-10-04T04:56:49.363321"
+    },
+    {
+      "ac_number": 32,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 38.30754017829895,
+      "timestamp": "2025-10-04T04:57:28.671901"
+    },
+    {
+      "ac_number": 33,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 49.57446241378784,
+      "timestamp": "2025-10-04T04:58:19.247167"
+    },
+    {
+      "ac_number": 34,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 28.271640062332153,
+      "timestamp": "2025-10-04T04:58:48.519766"
+    },
+    {
+      "ac_number": 38,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 51.61935496330261,
+      "timestamp": "2025-10-04T04:59:41.139552"
+    },
+    {
+      "ac_number": 40,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 77.03242611885071,
+      "timestamp": "2025-10-04T05:00:59.173008"
+    },
+    {
+      "ac_number": 42,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 55.98447513580322,
+      "timestamp": "2025-10-04T05:01:56.158335"
+    },
+    {
+      "ac_number": 43,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 261.3591558933258,
+      "timestamp": "2025-10-04T05:06:18.518378"
+    },
+    {
+      "ac_number": 44,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 27.114159107208252,
+      "timestamp": "2025-10-04T05:06:46.633603"
+    },
+    {
+      "ac_number": 45,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 48.950963735580444,
+      "timestamp": "2025-10-04T05:07:36.585532"
+    },
+    {
+      "ac_number": 46,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 71.14313673973083,
+      "timestamp": "2025-10-04T05:08:48.729537"
+    },
+    {
+      "ac_number": 47,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 36.92743372917175,
+      "timestamp": "2025-10-04T05:09:26.657845"
+    },
+    {
+      "ac_number": 48,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 32.02642321586609,
+      "timestamp": "2025-10-04T05:09:59.685112"
+    },
+    {
+      "ac_number": 50,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 39.776270151138306,
+      "timestamp": "2025-10-04T05:10:40.461844"
+    },
+    {
+      "ac_number": 51,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 59.45637130737305,
+      "timestamp": "2025-10-04T05:11:40.918701"
+    },
+    {
+      "ac_number": 53,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 27.094632863998413,
+      "timestamp": "2025-10-04T05:12:09.014140"
+    },
+    {
+      "ac_number": 54,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 39.259507179260254,
+      "timestamp": "2025-10-04T05:12:49.274615"
+    },
+    {
+      "ac_number": 56,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 39.44533014297485,
+      "timestamp": "2025-10-04T05:13:29.722999"
+    },
+    {
+      "ac_number": 57,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 45.529072284698486,
+      "timestamp": "2025-10-04T05:14:16.252952"
+    },
+    {
+      "ac_number": 59,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 43.468424558639526,
+      "timestamp": "2025-10-04T05:15:00.722276"
+    },
+    {
+      "ac_number": 61,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 33.527501821517944,
+      "timestamp": "2025-10-04T05:15:35.250903"
+    },
+    {
+      "ac_number": 64,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 45.4486608505249,
+      "timestamp": "2025-10-04T05:16:21.700601"
+    },
+    {
+      "ac_number": 67,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 46.232927560806274,
+      "timestamp": "2025-10-04T05:17:08.934592"
+    },
+    {
+      "ac_number": 68,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 48.2262442111969,
+      "timestamp": "2025-10-04T05:17:58.161753"
+    },
+    {
+      "ac_number": 69,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 47.25928783416748,
+      "timestamp": "2025-10-04T05:18:46.422544"
+    },
+    {
+      "ac_number": 70,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 56.57417631149292,
+      "timestamp": "2025-10-04T05:19:43.997741"
+    },
+    {
+      "ac_number": 71,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 81.39248085021973,
+      "timestamp": "2025-10-04T05:21:06.391134"
+    },
+    {
+      "ac_number": 72,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 46.76243352890015,
+      "timestamp": "2025-10-04T05:21:54.154114"
+    },
+    {
+      "ac_number": 73,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 34.118812799453735,
+      "timestamp": "2025-10-04T05:22:29.273952"
+    },
+    {
+      "ac_number": 74,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 31.87162947654724,
+      "timestamp": "2025-10-04T05:23:02.146182"
+    },
+    {
+      "ac_number": 75,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 41.37737798690796,
+      "timestamp": "2025-10-04T05:23:44.524497"
+    },
+    {
+      "ac_number": 76,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 34.93977665901184,
+      "timestamp": "2025-10-04T05:24:20.464828"
+    },
+    {
+      "ac_number": 81,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 73.02385544776917,
+      "timestamp": "2025-10-04T05:25:34.489565"
+    },
+    {
+      "ac_number": 82,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 78.87110543251038,
+      "timestamp": "2025-10-04T05:26:54.361901"
+    },
+    {
+      "ac_number": 92,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 68.54967284202576,
+      "timestamp": "2025-10-04T05:28:03.912513"
+    },
+    {
+      "ac_number": 93,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 34.49790072441101,
+      "timestamp": "2025-10-04T05:28:39.411421"
+    },
+    {
+      "ac_number": 94,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 38.859028577804565,
+      "timestamp": "2025-10-04T05:29:19.271469"
+    },
+    {
+      "ac_number": 113,
+      "original_score": 40,
+      "success": true,
+      "processing_time": 13.319037675857544,
+      "timestamp": "2025-10-04T05:29:33.591462"
+    }
+  ]
+}

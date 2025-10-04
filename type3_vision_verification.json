@@ -1,0 +1,197 @@
+{
+  "total_verified": 12,
+  "quality_distribution": {
+    "excellent": 7,
+    "good": 4,
+    "fair": 0,
+    "poor": 1
+  },
+  "success_rate": 91.66666666666666,
+  "detailed_results": [
+    {
+      "ac_number": 1,
+      "json_file": "parsedData/AC_1_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [],
+      "quality_score": 1.0,
+      "data_summary": {
+        "total_electors": 319481,
+        "polling_stations": 23,
+        "candidates": 10,
+        "elected_person": "Candidate_2",
+        "extraction_method": "detailed_vision_analysis"
+      }
+    },
+    {
+      "ac_number": 22,
+      "json_file": "parsedData/AC_22_COMPLETE_VISION.json",
+      "verification_status": "GOOD",
+      "issues": [
+        "Low polling station count: 3"
+      ],
+      "quality_score": 0.7222222222222222,
+      "data_summary": {
+        "total_electors": 239191,
+        "polling_stations": 3,
+        "candidates": 3,
+        "elected_person": "Leading Candidate",
+        "extraction_method": "clear_vision_table"
+      }
+    },
+    {
+      "ac_number": 23,
+      "json_file": "parsedData/AC_23_COMPLETE_VISION.json",
+      "verification_status": "GOOD",
+      "issues": [
+        "Low polling station count: 3"
+      ],
+      "quality_score": 0.7222222222222222,
+      "data_summary": {
+        "total_electors": 308719,
+        "polling_stations": 3,
+        "candidates": 3,
+        "elected_person": "Candidate_3",
+        "extraction_method": "vision_table_analysis"
+      }
+    },
+    {
+      "ac_number": 24,
+      "json_file": "parsedData/AC_24_COMPLETE_VISION.json",
+      "verification_status": "GOOD",
+      "issues": [
+        "Low polling station count: 2",
+        "Vote totals mismatch between candidates and stations"
+      ],
+      "quality_score": 0.7222222222222222,
+      "data_summary": {
+        "total_electors": 324075,
+        "polling_stations": 2,
+        "candidates": 3,
+        "elected_person": "Candidate_2",
+        "extraction_method": "vision_analysis"
+      }
+    },
+    {
+      "ac_number": 25,
+      "json_file": "parsedData/AC_25_COMPLETE_VISION.json",
+      "verification_status": "POOR",
+      "issues": [
+        "No polling station data",
+        "No candidate data",
+        "Missing elected person"
+      ],
+      "quality_score": 0.3333333333333333,
+      "data_summary": {
+        "total_electors": 306593,
+        "polling_stations": 0,
+        "candidates": 0,
+        "elected_person": null,
+        "extraction_method": "vision_analysis"
+      }
+    },
+    {
+      "ac_number": 2,
+      "json_file": "parsedData/AC_2_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [],
+      "quality_score": 0.8888888888888888,
+      "data_summary": {
+        "total_electors": 352536,
+        "polling_stations": 23,
+        "candidates": 3,
+        "elected_person": "Rajendra Dhanraj Singh",
+        "extraction_method": "complete_vision_analysis"
+      }
+    },
+    {
+      "ac_number": 3,
+      "json_file": "parsedData/AC_3_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [
+        "Low polling station count: 2"
+      ],
+      "quality_score": 0.8333333333333334,
+      "data_summary": {
+        "total_electors": 353953,
+        "polling_stations": 2,
+        "candidates": 5,
+        "elected_person": "Candidate_2",
+        "extraction_method": "vision_analysis_rotated_image"
+      }
+    },
+    {
+      "ac_number": 4,
+      "json_file": "parsedData/AC_4_COMPLETE_VISION.json",
+      "verification_status": "GOOD",
+      "issues": [
+        "Low polling station count: 2"
+      ],
+      "quality_score": 0.7222222222222222,
+      "data_summary": {
+        "total_electors": 295851,
+        "polling_stations": 2,
+        "candidates": 4,
+        "elected_person": "Candidate_2",
+        "extraction_method": "vision_analysis_rotated"
+      }
+    },
+    {
+      "ac_number": 5,
+      "json_file": "parsedData/AC_5_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [
+        "Vote totals mismatch between candidates and stations"
+      ],
+      "quality_score": 0.8888888888888888,
+      "data_summary": {
+        "total_electors": 342640,
+        "polling_stations": 5,
+        "candidates": 8,
+        "elected_person": "Pratap Singh Valvi",
+        "extraction_method": "detailed_vision_analysis"
+      }
+    },
+    {
+      "ac_number": 7,
+      "json_file": "parsedData/AC_7_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [],
+      "quality_score": 0.8888888888888888,
+      "data_summary": {
+        "total_electors": 364771,
+        "polling_stations": 5,
+        "candidates": 6,
+        "elected_person": "AGRAWAL ANUPBHAYYAKRASH",
+        "extraction_method": "vision_analysis"
+      }
+    },
+    {
+      "ac_number": 8,
+      "json_file": "parsedData/AC_8_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [],
+      "quality_score": 0.8888888888888888,
+      "data_summary": {
+        "total_electors": 341535,
+        "polling_stations": 5,
+        "candidates": 7,
+        "elected_person": "JADHAV PATIL",
+        "extraction_method": "detailed_vision_analysis"
+      }
+    },
+    {
+      "ac_number": 9,
+      "json_file": "parsedData/AC_9_COMPLETE_VISION.json",
+      "verification_status": "EXCELLENT",
+      "issues": [],
+      "quality_score": 0.8888888888888888,
+      "data_summary": {
+        "total_electors": 351226,
+        "polling_stations": 5,
+        "candidates": 6,
+        "elected_person": "Kashiram Pawra",
+        "extraction_method": "clear_vision_analysis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+Note: We wil generate one json per pdf, one pdf holds data for one Assembly Constituency. 
+In json  Assembly Constituence specific data will be kept at first level like Constituency Number, Total Number of Electors.
+
+We will process fields as given below, refer field_availability_analysis.json:
+
+  1. 'Constituency Number' can be fetched from file name for e.g. if AC_227.pdf is filename then 227 is   constituency number, there is one pdf per constituency number , here AC stands for Assembly Constituency. Also   in header you will find 227-KARJAT JAMKHED like text here 227 is Constituency Number and KARJAT JAMKHED is   assembly name 
+  
+  2. For 'Total Number of Electors' in header you will find text like 'Total No. of Electors in   Assembly Constituency/segment ....375466' here 375466 is total no. of electors 
+  
+  3. 'Serial Poll' is value of   first column in 'Serial No. Of Polling Station' , replace Required_Field_Name 'Serial Poll' with 'Serial No. Of   Polling Station' in script as well as in output json, one row in json is created per 'Serial No. Of Polling Station'  row in pdf. 
+    
+  4. 'Total Number of valid votes' is value of 'Total of Valid Votes' in pdf , it is serial no. row specific , take this value as it is in pdf no need to do any sum operation on it. 
+  
+  5. 'Number of Rejected votes'   is 'No. of Rejected votes' in json , take this value as it is in pdf., row specifi. 
+
+  6. 'NOTA' , take as it is in pdf , row specific
+
+  7. 'Total' , taks as it is in pdf, row specific
+
+  8. 'Number Of Tender Votes'  taks as it is in pdf, row specific
+
+  9. 'Elected Person Name' is name of candidate having maximum value of 'Total Votes Polled' row at the end of pdf. For the  candidate name sub column of 'No of Valid Votes Cast in favour of' column , in last row of pdf, we get row with first column value 'Total Votes Polled' 
+
+
+  10. 'Party Name Of Elected Person' can be skipped as we do not have this value in pdf. 
+
+  11. for every candidated incluing elected person name, get candidate_name which is sub column of column 'No of Valid Votes Cast in favour of' and end row value i.e. 'Total Votes Polled' , count of candidate names may vary from pdf to pdf. 
+
+Note that: last three rows ( having first column values as 'Total EVM Votes','Total Postal Ballot Votes','Total Votes Polled') of last page are not 'Serial No. Of Polling Station' rows, do not consider them in serial_no_wise_details object in json. 
+
+arrange values as given below using json :
+
+{
+    'Constituency Number':value,
+    'Total Number of Electors':value,
+
+    # for every 'Serial No. Of Polling Station'
+    serial_no_wise_details: { 
+    'Serial No. Of Polling Station':value,
+    'Total Number of valid votes':value,
+    'Number of Rejected votes':value,
+    'NOTA':value,
+    'Total':value,
+    'Number Of Tender Votes':value
+
+    },
+    candidate: {
+        candidate_name:value,
+        'Total Votes Polled':value
+    }
+    'Elected Person Name':value
+}
+
+For E.g. For pdf 'VIDHANSABHA_2024/Ahmednagar/AC_222.pdf'
+
+{
+    'Constituency Number':222,
+    'Total Number of Electors':375466,
+
+    # for every 'Serial No. Of Polling Station'
+    serial_no_wise_details: [{ 
+    'Serial No. Of Polling Station':1,
+    'Total Number of valid votes':915,
+    'Number of Rejected votes':0,
+    'NOTA':5,
+    'Total':920,
+    'Number Of Tender Votes':0
+
+    },{
+        'Serial No. Of Polling Station':2,
+    'Total Number of valid votes':1004,
+    'Number of Rejected votes':0,
+    'NOTA':3,
+    'Total':1007,
+    'Number Of Tender Votes':0
+    },..... upto {'Serial No. Of Polling Station':,}
+    ]
+    # For Every Candidate. 
+    candidates: [{
+        candidate_name:value,
+        'Total Votes Polled':value
+    },
+    {
+         candidate_name:value,
+        'Total Votes Polled':value
+    }
+    ]
+    'Elected Person Name':value
+}
+
+----
+
+Create a single consolidated script which will process one pdf at a time and take AC ( Assembly Constituency ) number as parameter, for e.g.  if we pass python process.py 222 , it will process AC_222.pdf and will generate AC_222.json in parsedData folder. 
+
+it should identify pdf Type ( 1,2,3 ) to be processed type and apply relevant code and logic.
+
+Validate requirement and analyze it first. Ask me questions if you do not have 100% clarity, before starting any implementation. 
+
+--
+
+Below are clarifying answers. 
+
+  1.    Search in  VIDHANSABHA_2024 directories
+  2. 
+     extract only the final "Total Votes Polled" row for candidates
+  3.serial_no_wise_details should include:
+     just the aggregated totals (valid votes, rejected, NOTA, etc.)?
+  4. PDF Type Detection: 
+    - Automatically detect PDF type (1, 2, 3) based on content analysis as we have already analyzed in report.md
+  5. Error Handling: If a PDF is Type 3 (scanned/rotated) and OCR fails, the script:
+    - should Skip and log error?
+  6. Duplicate Handling: If AC_222.json already exists in parsedData folder, the script should:
+    - Skip processing?
+
+Also test are necessary tools installed and ready to process Type 3 pdfs.
+
+    --
+
+We do not have bird eye view of what is under process right now. We have near about 288 PDF files to be processed. And those are under type 1, type 2 and type 3. refer report.md , As bulk processing is not giving us expected output. We will change the approach, We will process one at a time. First we will start with type 1. I will manually check the output json and improve suggestions in script.  If output Json file like AC_286.json is already created in parsedData folder, we will not skip that process for AC_286.pdf, we will override the output Json file. Create another json file with name tracking.json in that json file Create a record for every PDF , a name of a PDF,  a path of a PDF as link to open pdf in Chrome browser, a path of output json, type of pdf i.e. type 1, type1 or type 3 , status ( completed,pending).We will also create .html file with javascript code to change status and show all 288 files tracking data from tracking.json, also implement necessary filters on that table. 
+
+--
+

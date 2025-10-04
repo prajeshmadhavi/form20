@@ -1,0 +1,82 @@
+{
+  "session_start": "2025-10-04T14:38:38.034258",
+  "strategy": "vision_only",
+  "total_files": 40,
+  "processed": 6,
+  "successful": 0,
+  "failed": 6,
+  "results": [
+    {
+      "ac_number": 113,
+      "original_issue": "file size 276 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.08308935165405273,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:38.117461"
+    },
+    {
+      "ac_number": 25,
+      "original_issue": "file size 275 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.09774327278137207,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:40.216120"
+    },
+    {
+      "ac_number": 31,
+      "original_issue": "file size 275 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.09488844871520996,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:42.311980"
+    },
+    {
+      "ac_number": 32,
+      "original_issue": "file size 275 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.0970754623413086,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:44.410257"
+    },
+    {
+      "ac_number": 33,
+      "original_issue": "file size 275 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.09725046157836914,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:46.508466"
+    },
+    {
+      "ac_number": 34,
+      "original_issue": "file size 275 < 600 bytes, quality score 10/100",
+      "success": false,
+      "processing_time": 0.09346818923950195,
+      "quality_check": {
+        "valid": false,
+        "reason": "No output file",
+        "file_size": 0
+      },
+      "timestamp": "2025-10-04T14:38:48.602952"
+    }
+  ]
+}

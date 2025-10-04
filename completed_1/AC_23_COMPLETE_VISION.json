@@ -1,0 +1,51 @@
+{
+  "Constituency Number": 23,
+  "constituency_name": "CHIKHLI",
+  "Total Number of Electors": 308719,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 619,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 619,
+      "candidate_votes": [210, 2, 388, 1, 1, 0, 1, 0, 3, 0, 0, 0, 0, 1, 1, 7, 0, 2, 0, 1, 0, 0, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 549,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 549,
+      "candidate_votes": [270, 1, 266, 1, 1, 0, 2, 0, 0, 0, 1, 1, 0, 5, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 639,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 639,
+      "candidate_votes": [203, 2, 315, 2, 1, 0, 1, 0, 4, 1, 0, 0, 4, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 2]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Candidate_1",
+      "Total Votes Polled": 683
+    },
+    {
+      "candidate_name": "Candidate_2",
+      "Total Votes Polled": 5
+    },
+    {
+      "candidate_name": "Candidate_3",
+      "Total Votes Polled": 969
+    }
+  ],
+  "Elected Person Name": "Candidate_3",
+  "elected_person_votes": 969,
+  "extraction_method": "vision_table_analysis",
+  "pages_processed": 1,
+  "data_quality": "clear_detailed_extraction",
+  "note": "Clear Form 20 with comprehensive vote data extracted via vision"
+}

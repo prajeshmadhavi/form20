@@ -1,0 +1,22 @@
+{
+  "Constituency Number": 113,
+  "Constituency Name": "KARJAT JAMKHED",
+  "Total Number of Electors": null,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 0,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 0,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": []
+    }
+  ],
+  "candidates": [],
+  "Elected Person Name": null,
+  "extraction_method": "safe_fallback",
+  "pages_processed": 2,
+  "processing_note": "Processed with reduced DPI due to decompression bomb protection",
+  "timestamp": "2025-10-03 18:45:09"
+}

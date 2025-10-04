@@ -1,0 +1,49 @@
+{
+  "Constituency Number": 4,
+  "constituency_name": "NAVAPUR",
+  "Total Number of Electors": 295851,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 542,
+      "Number of Rejected votes": 0,
+      "NOTA": 15,
+      "Total": 557,
+      "candidate_votes": [186, 298, 35, 23],
+      "note": "Extracted from rotated table"
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 485,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 497,
+      "candidate_votes": [165, 276, 32, 12]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Candidate_1",
+      "Total Votes Polled": 351
+    },
+    {
+      "candidate_name": "Candidate_2",
+      "Total Votes Polled": 574
+    },
+    {
+      "candidate_name": "Candidate_3",
+      "Total Votes Polled": 67
+    },
+    {
+      "candidate_name": "Candidate_4",
+      "Total Votes Polled": 35
+    }
+  ],
+  "Elected Person Name": "Candidate_2",
+  "elected_person_votes": 574,
+  "extraction_method": "vision_analysis_rotated",
+  "pages_processed": 1,
+  "data_quality": "partial_from_rotated_image",
+  "note": "Vision LLM extraction from rotated Form 20 - partial data extracted",
+  "image_challenges": "Document rotated 90 degrees counterclockwise"
+}

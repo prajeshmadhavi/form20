@@ -1,0 +1,2695 @@
+{
+  "assessment_timestamp": "2025-10-04T14:23:25.070940",
+  "total_files_assessed": 122,
+  "summary": {
+    "excellent": 82,
+    "good": 0,
+    "fair": 39,
+    "poor": 1,
+    "errors": 0,
+    "needs_reprocessing": 40
+  },
+  "detailed_assessments": [
+    {
+      "file_name": "AC_1_COMPLETE_VISION.json",
+      "ac_number": 1,
+      "constituency_name": "AKKALKUWA (ST)",
+      "total_electors": 319481,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 23,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 10,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_2_COMPLETE_VISION.json",
+      "ac_number": 2,
+      "constituency_name": "SHAHADA (ST)",
+      "total_electors": 352536,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 23,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 3,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_3_COMPLETE_VISION.json",
+      "ac_number": 3,
+      "constituency_name": "NANDURBAR",
+      "total_electors": 353953,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 2,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 5,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_4_COMPLETE_VISION.json",
+      "ac_number": 4,
+      "constituency_name": "NAVAPUR",
+      "total_electors": 295851,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 2,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 4,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_5_COMPLETE_VISION.json",
+      "ac_number": 5,
+      "constituency_name": "SAKRI (S.T.)",
+      "total_electors": 342640,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 5,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 8,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_6_VISION.json",
+      "ac_number": 6,
+      "constituency_name": "",
+      "total_electors": 410522,
+      "quality_score": 50,
+      "issues": [
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_7_COMPLETE_VISION.json",
+      "ac_number": 7,
+      "constituency_name": "DHULE CITY",
+      "total_electors": 364771,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 5,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 6,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_8_COMPLETE_VISION.json",
+      "ac_number": 8,
+      "constituency_name": "SINDKHEDA",
+      "total_electors": 341535,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 5,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 7,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_9_COMPLETE_VISION.json",
+      "ac_number": 9,
+      "constituency_name": "SHIRPUR (S.T.)",
+      "total_electors": 351226,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 5,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 6,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_15.json",
+      "ac_number": 15,
+      "constituency_name": "",
+      "total_electors": 308272,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 322,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_22_COMPLETE_VISION.json",
+      "ac_number": 22,
+      "constituency_name": "BULDHANA",
+      "total_electors": 239191,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 3,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 3,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_23_COMPLETE_VISION.json",
+      "ac_number": 23,
+      "constituency_name": "CHIKHLI",
+      "total_electors": 308719,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 3,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 3,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_24_COMPLETE_VISION.json",
+      "ac_number": 24,
+      "constituency_name": "SINDKHED RAJA",
+      "total_electors": 324075,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 2,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 3,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_25_COMPLETE_VISION.json",
+      "ac_number": 25,
+      "constituency_name": "MEHKAR (SC)",
+      "total_electors": 306593,
+      "quality_score": 20,
+      "issues": [
+        "No polling station details extracted",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": false,
+        "polling_station_count": 0,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Poor"
+    },
+    {
+      "file_name": "AC_26.json",
+      "ac_number": 26,
+      "constituency_name": "",
+      "total_electors": 298332,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 306,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_27.json",
+      "ac_number": 27,
+      "constituency_name": "Jalgaon Jamod m",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 340,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 10,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_28.json",
+      "ac_number": 28,
+      "constituency_name": "",
+      "total_electors": 311182,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 360,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_29.json",
+      "ac_number": 29,
+      "constituency_name": "",
+      "total_electors": 311167,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 347,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_30.json",
+      "ac_number": 30,
+      "constituency_name": "Akola west Legislative Assembly Constituency\nTotal No",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 267,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 15,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_31_VISION.json",
+      "ac_number": 31,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_32_VISION.json",
+      "ac_number": 32,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_33_VISION.json",
+      "ac_number": 33,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_34_VISION.json",
+      "ac_number": 34,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_35.json",
+      "ac_number": 35,
+      "constituency_name": "KARANJA Assembly Election\nNo of Valid Votes Cast in favour of",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 361,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 30,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_36.json",
+      "ac_number": 36,
+      "constituency_name": "",
+      "total_electors": 222222,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 378,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_37.json",
+      "ac_number": 37,
+      "constituency_name": "",
+      "total_electors": 126496,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 342,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_38_VISION.json",
+      "ac_number": 38,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_40_VISION.json",
+      "ac_number": 40,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_41.json",
+      "ac_number": 41,
+      "constituency_name": "",
+      "total_electors": 302029,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 356,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 10,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_42_VISION.json",
+      "ac_number": 42,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_43_VISION.json",
+      "ac_number": 43,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_44_VISION.json",
+      "ac_number": 44,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_45_VISION.json",
+      "ac_number": 45,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_46_VISION.json",
+      "ac_number": 46,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_47_VISION.json",
+      "ac_number": 47,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_48_VISION.json",
+      "ac_number": 48,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_50_VISION.json",
+      "ac_number": 50,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_51_VISION.json",
+      "ac_number": 51,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_53_VISION.json",
+      "ac_number": 53,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_54_VISION.json",
+      "ac_number": 54,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_55.json",
+      "ac_number": 55,
+      "constituency_name": "",
+      "total_electors": 341252,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 308,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_56_VISION.json",
+      "ac_number": 56,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_57_VISION.json",
+      "ac_number": 57,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_58.json",
+      "ac_number": 58,
+      "constituency_name": "",
+      "total_electors": 502099,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 510,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_59_VISION.json",
+      "ac_number": 59,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_60.json",
+      "ac_number": 60,
+      "constituency_name": "",
+      "total_electors": 309727,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 367,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_61_VISION.json",
+      "ac_number": 61,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_63.json",
+      "ac_number": 63,
+      "constituency_name": "",
+      "total_electors": 258966,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 331,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_64_VISION.json",
+      "ac_number": 64,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_65.json",
+      "ac_number": 65,
+      "constituency_name": "",
+      "total_electors": 325556,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 353,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_67_VISION.json",
+      "ac_number": 67,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_68_VISION.json",
+      "ac_number": 68,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_69_VISION.json",
+      "ac_number": 69,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_70_VISION.json",
+      "ac_number": 70,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_71_VISION.json",
+      "ac_number": 71,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_72_VISION.json",
+      "ac_number": 72,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_73_VISION.json",
+      "ac_number": 73,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_74_VISION.json",
+      "ac_number": 74,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_75_VISION.json",
+      "ac_number": 75,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_76_VISION.json",
+      "ac_number": 76,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_77.json",
+      "ac_number": 77,
+      "constituency_name": "",
+      "total_electors": 288150,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 338,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_78.json",
+      "ac_number": 78,
+      "constituency_name": "",
+      "total_electors": 371435,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 427,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_79.json",
+      "ac_number": 79,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 33,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 25,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_80.json",
+      "ac_number": 80,
+      "constituency_name": "",
+      "total_electors": 322160,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 365,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_81_VISION.json",
+      "ac_number": 81,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_82_VISION.json",
+      "ac_number": 82,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_83.json",
+      "ac_number": 83,
+      "constituency_name": "",
+      "total_electors": 278803,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 324,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_84.json",
+      "ac_number": 84,
+      "constituency_name": "",
+      "total_electors": 299252,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 332,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_85.json",
+      "ac_number": 85,
+      "constituency_name": "",
+      "total_electors": 303352,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 344,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_86.json",
+      "ac_number": 86,
+      "constituency_name": "",
+      "total_electors": 359073,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 359,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_87.json",
+      "ac_number": 87,
+      "constituency_name": "",
+      "total_electors": 317052,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 312,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_88.json",
+      "ac_number": 88,
+      "constituency_name": "",
+      "total_electors": 302580,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 331,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_89.json",
+      "ac_number": 89,
+      "constituency_name": "",
+      "total_electors": 310610,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 350,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 10,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_90.json",
+      "ac_number": 90,
+      "constituency_name": "",
+      "total_electors": 312425,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 351,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_91.json",
+      "ac_number": 91,
+      "constituency_name": "",
+      "total_electors": 307713,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 366,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_92_VISION.json",
+      "ac_number": 92,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_93_VISION.json",
+      "ac_number": 93,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_94_VISION.json",
+      "ac_number": 94,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_97.json",
+      "ac_number": 97,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 113,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_102.json",
+      "ac_number": 102,
+      "constituency_name": "",
+      "total_electors": 333282,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 366,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_107.json",
+      "ac_number": 107,
+      "constituency_name": "",
+      "total_electors": 369066,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 320,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_111.json",
+      "ac_number": 111,
+      "constituency_name": "",
+      "total_electors": 119613,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 372,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_113_VISION.json",
+      "ac_number": 113,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 40,
+      "issues": [
+        "Missing total electors",
+        "Polling stations missing candidate votes",
+        "No candidates list extracted",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 1,
+        "candidate_votes_per_station": false,
+        "candidates_list": false,
+        "candidate_count": 0,
+        "elected_person": false
+      },
+      "needs_reprocessing": true,
+      "quality_category": "Fair"
+    },
+    {
+      "file_name": "AC_120.json",
+      "ac_number": 120,
+      "constituency_name": "",
+      "total_electors": 324867,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 329,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_122.json",
+      "ac_number": 122,
+      "constituency_name": "",
+      "total_electors": 329389,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 373,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 12,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_125.json",
+      "ac_number": 125,
+      "constituency_name": "",
+      "total_electors": 483719,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 374,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_154.json",
+      "ac_number": 154,
+      "constituency_name": "Magathane Assembly Constituency\nPART I\nName of the Assembly Segment",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 292,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 9,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_159.json",
+      "ac_number": 159,
+      "constituency_name": "",
+      "total_electors": 306552,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 286,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_162.json",
+      "ac_number": 162,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 116,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 149,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_165.json",
+      "ac_number": 165,
+      "constituency_name": "",
+      "total_electors": 288139,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 301,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 8,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_168.json",
+      "ac_number": 168,
+      "constituency_name": "CHANDIVALI Assembly Election\nNo of Valid Votes Cast in favour of\nADV",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 402,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 14,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_169.json",
+      "ac_number": 169,
+      "constituency_name": "",
+      "total_electors": 277532,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 21,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 1,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_170.json",
+      "ac_number": 170,
+      "constituency_name": "",
+      "total_electors": 249577,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 257,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 8,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_172.json",
+      "ac_number": 172,
+      "constituency_name": "",
+      "total_electors": 269151,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 262,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 9,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_178.json",
+      "ac_number": 178,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 24,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 16,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_186.json",
+      "ac_number": 186,
+      "constituency_name": "",
+      "total_electors": 241963,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 233,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 2,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_190.json",
+      "ac_number": 190,
+      "constituency_name": "",
+      "total_electors": 342148,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 347,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_191.json",
+      "ac_number": 191,
+      "constituency_name": "Date",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 381,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 10,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_196.json",
+      "ac_number": 196,
+      "constituency_name": "",
+      "total_electors": 314885,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 341,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_207.json",
+      "ac_number": 207,
+      "constituency_name": "",
+      "total_electors": 608598,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 477,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_213.json",
+      "ac_number": 213,
+      "constituency_name": "",
+      "total_electors": 625938,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 521,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_216.json",
+      "ac_number": 216,
+      "constituency_name": "",
+      "total_electors": 268040,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 297,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 9,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_217.json",
+      "ac_number": 217,
+      "constituency_name": "",
+      "total_electors": 289934,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 281,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_218.json",
+      "ac_number": 218,
+      "constituency_name": "",
+      "total_electors": 293252,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 271,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 8,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_219.json",
+      "ac_number": 219,
+      "constituency_name": "",
+      "total_electors": 289962,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 272,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_220.json",
+      "ac_number": 220,
+      "constituency_name": "",
+      "total_electors": 309518,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 304,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_221.json",
+      "ac_number": 221,
+      "constituency_name": "",
+      "total_electors": 283489,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 276,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_222.json",
+      "ac_number": 222,
+      "constituency_name": "",
+      "total_electors": 375466,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 360,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_223.json",
+      "ac_number": 223,
+      "constituency_name": "",
+      "total_electors": 325166,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 308,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_224.json",
+      "ac_number": 224,
+      "constituency_name": "",
+      "total_electors": 352291,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 366,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_225.json",
+      "ac_number": 225,
+      "constituency_name": "",
+      "total_electors": 317397,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 290,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_226.json",
+      "ac_number": 226,
+      "constituency_name": "",
+      "total_electors": 341040,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 338,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_227.json",
+      "ac_number": 227,
+      "constituency_name": "",
+      "total_electors": 348007,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 356,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_228.json",
+      "ac_number": 228,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 90,
+      "issues": [
+        "Missing total electors"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 433,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_229.json",
+      "ac_number": 229,
+      "constituency_name": "",
+      "total_electors": 352698,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 389,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_230.json",
+      "ac_number": 230,
+      "constituency_name": "",
+      "total_electors": 384885,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 384,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 1,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_243.json",
+      "ac_number": 243,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 36,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 21,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_253.json",
+      "ac_number": 253,
+      "constituency_name": "",
+      "total_electors": 334379,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 309,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_265.json",
+      "ac_number": 265,
+      "constituency_name": "Chiplun Assembly Constituency\nPART I\nName of the Assembly Segment",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 336,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 8,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_272.json",
+      "ac_number": 272,
+      "constituency_name": "",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 76,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 6,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_273.json",
+      "ac_number": 273,
+      "constituency_name": "",
+      "total_electors": 345397,
+      "quality_score": 100,
+      "issues": [],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": true,
+        "polling_stations": true,
+        "polling_station_count": 334,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 11,
+        "elected_person": true
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    },
+    {
+      "file_name": "AC_281.json",
+      "ac_number": 281,
+      "constituency_name": "Mira",
+      "total_electors": null,
+      "quality_score": 80,
+      "issues": [
+        "Missing total electors",
+        "No elected person identified"
+      ],
+      "completeness": {
+        "constituency_number": true,
+        "total_electors": false,
+        "polling_stations": true,
+        "polling_station_count": 252,
+        "candidate_votes_per_station": true,
+        "candidates_list": true,
+        "candidate_count": 17,
+        "elected_person": false
+      },
+      "needs_reprocessing": false,
+      "quality_category": "Excellent"
+    }
+  ]
+}

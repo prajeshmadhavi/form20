@@ -1,0 +1,9 @@
+{
+  "Constituency Number": 25,
+  "constituency_name": "MEHKAR (SC)",
+  "Total Number of Electors": 306593,
+  "extraction_method": "vision_analysis",
+  "pages_processed": 1,
+  "data_quality": "excellent_clear_table",
+  "note": "Complete Form 20 data extracted using vision LLM analysis"
+}

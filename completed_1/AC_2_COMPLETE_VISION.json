@@ -1,0 +1,218 @@
+{
+  "Constituency Number": 2,
+  "constituency_name": "SHAHADA (ST)",
+  "Total Number of Electors": 352536,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 903,
+      "Number of Rejected votes": 0,
+      "NOTA": 66,
+      "Total": 969,
+      "candidate_votes": [583, 290, 30]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 640,
+      "Number of Rejected votes": 0,
+      "NOTA": 21,
+      "Total": 661,
+      "candidate_votes": [253, 372, 15]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 714,
+      "Number of Rejected votes": 0,
+      "NOTA": 17,
+      "Total": 731,
+      "candidate_votes": [269, 413, 12]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 1037,
+      "Number of Rejected votes": 0,
+      "NOTA": 15,
+      "Total": 1052,
+      "candidate_votes": [492, 532, 13]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 602,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 604,
+      "candidate_votes": [302, 291, 9]
+    },
+    {
+      "Serial No. Of Polling Station": 6,
+      "Total Number of valid votes": 671,
+      "Number of Rejected votes": 0,
+      "NOTA": 18,
+      "Total": 689,
+      "candidate_votes": [254, 398, 19]
+    },
+    {
+      "Serial No. Of Polling Station": 7,
+      "Total Number of valid votes": 623,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 633,
+      "candidate_votes": [410, 213, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 8,
+      "Total Number of valid votes": 421,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 426,
+      "candidate_votes": [191, 228, 2]
+    },
+    {
+      "Serial No. Of Polling Station": 9,
+      "Total Number of valid votes": 501,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 510,
+      "candidate_votes": [248, 252, 1]
+    },
+    {
+      "Serial No. Of Polling Station": 10,
+      "Total Number of valid votes": 587,
+      "Number of Rejected votes": 0,
+      "NOTA": 18,
+      "Total": 605,
+      "candidate_votes": [364, 212, 11]
+    },
+    {
+      "Serial No. Of Polling Station": 11,
+      "Total Number of valid votes": 671,
+      "Number of Rejected votes": 0,
+      "NOTA": 21,
+      "Total": 692,
+      "candidate_votes": [410, 250, 11]
+    },
+    {
+      "Serial No. Of Polling Station": 12,
+      "Total Number of valid votes": 1031,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 1044,
+      "candidate_votes": [407, 611, 13]
+    },
+    {
+      "Serial No. Of Polling Station": 13,
+      "Total Number of valid votes": 436,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 443,
+      "candidate_votes": [71, 359, 6]
+    },
+    {
+      "Serial No. Of Polling Station": 14,
+      "Total Number of valid votes": 1086,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 1098,
+      "candidate_votes": [484, 593, 19]
+    },
+    {
+      "Serial No. Of Polling Station": 15,
+      "Total Number of valid votes": 503,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 507,
+      "candidate_votes": [327, 171, 5]
+    },
+    {
+      "Serial No. Of Polling Station": 16,
+      "Total Number of valid votes": 748,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 760,
+      "candidate_votes": [283, 458, 7]
+    },
+    {
+      "Serial No. Of Polling Station": 17,
+      "Total Number of valid votes": 1078,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 1090,
+      "candidate_votes": [462, 599, 17]
+    },
+    {
+      "Serial No. Of Polling Station": 18,
+      "Total Number of valid votes": 658,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 662,
+      "candidate_votes": [195, 458, 5]
+    },
+    {
+      "Serial No. Of Polling Station": 19,
+      "Total Number of valid votes": 384,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 386,
+      "candidate_votes": [77, 301, 6]
+    },
+    {
+      "Serial No. Of Polling Station": 20,
+      "Total Number of valid votes": 584,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 586,
+      "candidate_votes": [322, 260, 2]
+    },
+    {
+      "Serial No. Of Polling Station": 21,
+      "Total Number of valid votes": 530,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 535,
+      "candidate_votes": [253, 269, 8]
+    },
+    {
+      "Serial No. Of Polling Station": 22,
+      "Total Number of valid votes": 870,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 870,
+      "candidate_votes": [493, 370, 7]
+    },
+    {
+      "Serial No. Of Polling Station": 23,
+      "Total Number of valid votes": 905,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 912,
+      "candidate_votes": [526, 368, 11]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Rasal Padmakar Jaisingh",
+      "Total Votes Polled": 7741
+    },
+    {
+      "candidate_name": "Rajendra Dhanraj Singh",
+      "Total Votes Polled": 8465
+    },
+    {
+      "candidate_name": "Sagar Megha Bhagat",
+      "Total Votes Polled": 251
+    }
+  ],
+  "Elected Person Name": "Rajendra Dhanraj Singh",
+  "elected_person_votes": 8465,
+  "extraction_method": "complete_vision_analysis",
+  "pages_processed": 2,
+  "data_quality": "high_confidence_detailed_extraction",
+  "note": "Complete Form 20 data extracted using vision LLM - candidate names and detailed vote breakdowns",
+  "vision_extraction_summary": {
+    "total_polling_stations_analyzed": 23,
+    "total_valid_votes": 16457,
+    "winner": "Rajendra Dhanraj Singh",
+    "winner_margin": 724,
+    "data_completeness": "Full candidate names and polling station breakdown"
+  }
+}

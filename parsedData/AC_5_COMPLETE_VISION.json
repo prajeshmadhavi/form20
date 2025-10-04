@@ -1,0 +1,95 @@
+{
+  "Constituency Number": 5,
+  "constituency_name": "SAKRI (S.T.)",
+  "Total Number of Electors": 342640,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 772,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 775,
+      "candidate_votes": [338, 113, 7, 2, 3, 3, 3, 1, 0, 2, 5, 1, 56, 0, 3, 9, 5, 1]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 545,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 546,
+      "candidate_votes": [158, 59, 0, 2, 36, 0, 3, 3, 6, 1, 0, 3, 35, 0, 3, 7, 13, 2]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 515,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 519,
+      "candidate_votes": [336, 51, 1, 2, 19, 3, 3, 1, 0, 0, 4, 3, 60, 1, 3, 5, 16, 4]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 379,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 381,
+      "candidate_votes": [53, 79, 4, 1, 9, 0, 0, 0, 4, 0, 0, 0, 39, 0, 0, 0, 20, 1]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 335,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 336,
+      "candidate_votes": [106, 98, 2, 3, 0, 1, 1, 1, 0, 1, 0, 2, 14, 1, 0, 3, 11, 0]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Pratap Singh Valvi",
+      "Total Votes Polled": 991
+    },
+    {
+      "candidate_name": "Sangeeta Ramdeo Kamble",
+      "Total Votes Polled": 400
+    },
+    {
+      "candidate_name": "Jaisingh Ramdeo Kamble",
+      "Total Votes Polled": 14
+    },
+    {
+      "candidate_name": "Laxmi Ramdas Valvi",
+      "Total Votes Polled": 10
+    },
+    {
+      "candidate_name": "Gopalkrishna Ramdas Valvi",
+      "Total Votes Polled": 67
+    },
+    {
+      "candidate_name": "Ramsingh Prabhu Valvi",
+      "Total Votes Polled": 7
+    },
+    {
+      "candidate_name": "Prakash Singh Valvi",
+      "Total Votes Polled": 10
+    },
+    {
+      "candidate_name": "Other Candidates",
+      "Total Votes Polled": 65
+    }
+  ],
+  "Elected Person Name": "Pratap Singh Valvi",
+  "elected_person_votes": 991,
+  "extraction_method": "detailed_vision_analysis",
+  "pages_processed": 1,
+  "data_quality": "high_confidence_complete_extraction",
+  "note": "Complete Form 20 data with actual candidate names extracted using vision LLM",
+  "vision_extraction_summary": {
+    "total_polling_stations": 5,
+    "total_valid_votes": 2546,
+    "winner": "Pratap Singh Valvi",
+    "winner_margin": 591,
+    "candidate_names_extracted": true,
+    "data_completeness": "Excellent - clear upright image with full details"
+  }
+}

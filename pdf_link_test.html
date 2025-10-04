@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Link Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-link {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background: #f0f0f0;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #0066cc;
+        }
+        .test-link:hover { background: #e0e0e0; }
+        .console-output {
+            background: #222;
+            color: #0f0;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            margin: 20px 0;
+            height: 200px;
+            overflow-y: scroll;
+        }
+        .btn {
+            background: #007cba;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            margin: 5px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>PDF Link Test - Diagnosing Open PDF Issues</h1>
+
+    <h2>Test Different PDF Access Methods:</h2>
+
+    <!-- Test 1: Direct file:// link -->
+    <a href="file:///home/prajesh/test/chandrakant/form20/VIDHANSABHA_2024/Nandurbar/AC_01.pdf"
+       target="_blank" class="test-link" onclick="logClick('file:// link')">
+        1. Direct file:// link (like current dashboard)
+    </a>
+
+    <!-- Test 2: HTTP served PDF -->
+    <a href="VIDHANSABHA_2024/Nandurbar/AC_01.pdf"
+       target="_blank" class="test-link" onclick="logClick('HTTP served PDF')">
+        2. HTTP served PDF via web server
+    </a>
+
+    <!-- Test 3: JavaScript window.open -->
+    <button class="btn" onclick="openPDFWithJS()">
+        3. JavaScript window.open() method
+    </button>
+
+    <!-- Test 4: Download link -->
+    <a href="VIDHANSABHA_2024/Nandurbar/AC_01.pdf"
+       download class="test-link" onclick="logClick('Download link')">
+        4. Download link
+    </a>
+
+    <h2>Console Output:</h2>
+    <div class="console-output" id="console-output"></div>
+
+    <button class="btn" onclick="clearLog()">Clear Log</button>
+
+    <script>
+        const consoleOutput = document.getElementById('console-output');
+
+        function log(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString();
+            const div = document.createElement('div');
+            div.style.color = type === 'error' ? '#ff4444' : '#00ff00';
+            div.textContent = `[${timestamp}] ${message}`;
+            consoleOutput.appendChild(div);
+            consoleOutput.scrollTop = consoleOutput.scrollHeight;
+        }
+
+        function logClick(method) {
+            log(`Clicked: ${method}`);
+        }
+
+        function openPDFWithJS() {
+            log('Attempting to open PDF with JavaScript...');
+            try {
+                // Try file:// first
+                const fileUrl = 'file:///home/prajesh/test/chandrakant/form20/VIDHANSABHA_2024/Nandurbar/AC_01.pdf';
+                const popup = window.open(fileUrl, '_blank');
+
+                if (popup) {
+                    log('window.open() succeeded with file:// URL', 'success');
+                } else {
+                    log('window.open() was blocked or failed with file:// URL', 'error');
+
+                    // Try HTTP URL as fallback
+                    const httpUrl = 'VIDHANSABHA_2024/Nandurbar/AC_01.pdf';
+                    const popup2 = window.open(httpUrl, '_blank');
+
+                    if (popup2) {
+                        log('Fallback: window.open() succeeded with HTTP URL', 'success');
+                    } else {
+                        log('Both file:// and HTTP URLs failed', 'error');
+                    }
+                }
+            } catch (error) {
+                log(`JavaScript error: ${error.message}`, 'error');
+            }
+        }
+
+        function clearLog() {
+            consoleOutput.innerHTML = '';
+        }
+
+        // Capture console errors
+        window.addEventListener('error', (e) => {
+            log(`JS Error: ${e.message} at ${e.filename}:${e.lineno}`, 'error');
+        });
+
+        // Capture click events on links
+        document.addEventListener('click', (e) => {
+            if (e.target.tagName === 'A') {
+                log(`Link clicked: ${e.target.href}`);
+
+                // Check if it's a file:// URL
+                if (e.target.href.startsWith('file://')) {
+                    log('Warning: file:// URLs may be blocked by browser security', 'error');
+                }
+            }
+        });
+
+        // Test PDF existence
+        async function testPDFAccess() {
+            log('Testing PDF file accessibility...');
+
+            try {
+                const response = await fetch('VIDHANSABHA_2024/Nandurbar/AC_01.pdf', { method: 'HEAD' });
+                log(`HTTP PDF access: ${response.status} ${response.statusText}`, response.ok ? 'success' : 'error');
+            } catch (error) {
+                log(`HTTP PDF access failed: ${error.message}`, 'error');
+            }
+        }
+
+        // Run tests on load
+        log('PDF Link Test initialized');
+        testPDFAccess();
+    </script>
+</body>
+</html>

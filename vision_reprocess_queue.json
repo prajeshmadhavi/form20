@@ -1,0 +1,327 @@
+{
+  "created_timestamp": "2025-10-04T14:28:22.922965",
+  "strategy": "vision_only",
+  "total_files_to_reprocess": 40,
+  "reprocess_list": [
+    {
+      "ac_number": 113,
+      "file_name": "AC_113.json",
+      "reason": "file size 276 < 600 bytes, quality score 10/100",
+      "file_size": 276,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 25,
+      "file_name": "AC_25.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 31,
+      "file_name": "AC_31.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 32,
+      "file_name": "AC_32.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 33,
+      "file_name": "AC_33.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 34,
+      "file_name": "AC_34.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 38,
+      "file_name": "AC_38.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 40,
+      "file_name": "AC_40.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 42,
+      "file_name": "AC_42.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 43,
+      "file_name": "AC_43.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 44,
+      "file_name": "AC_44.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 45,
+      "file_name": "AC_45.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 46,
+      "file_name": "AC_46.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 47,
+      "file_name": "AC_47.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 48,
+      "file_name": "AC_48.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 50,
+      "file_name": "AC_50.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 51,
+      "file_name": "AC_51.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 53,
+      "file_name": "AC_53.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 54,
+      "file_name": "AC_54.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 56,
+      "file_name": "AC_56.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 57,
+      "file_name": "AC_57.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 59,
+      "file_name": "AC_59.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 6,
+      "file_name": "AC_6.json",
+      "reason": "file size 274 < 600 bytes, quality score 10/100",
+      "file_size": 274,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 61,
+      "file_name": "AC_61.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 64,
+      "file_name": "AC_64.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 67,
+      "file_name": "AC_67.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 68,
+      "file_name": "AC_68.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 69,
+      "file_name": "AC_69.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 70,
+      "file_name": "AC_70.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 71,
+      "file_name": "AC_71.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 72,
+      "file_name": "AC_72.json",
+      "reason": "file size 317 < 600 bytes, quality score 10/100",
+      "file_size": 317,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 73,
+      "file_name": "AC_73.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 74,
+      "file_name": "AC_74.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 75,
+      "file_name": "AC_75.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 76,
+      "file_name": "AC_76.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 81,
+      "file_name": "AC_81.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 82,
+      "file_name": "AC_82.json",
+      "reason": "file size 303 < 600 bytes, quality score 10/100",
+      "file_size": 303,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 92,
+      "file_name": "AC_92.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 93,
+      "file_name": "AC_93.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    },
+    {
+      "ac_number": 94,
+      "file_name": "AC_94.json",
+      "reason": "file size 275 < 600 bytes, quality score 10/100",
+      "file_size": 275,
+      "quality_score": 10,
+      "priority": "medium"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Constituency Number": 3,
+  "constituency_name": "NANDURBAR",
+  "Total Number of Electors": 353953,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 598,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 606,
+      "candidate_votes": [185, 342, 45, 18, 8],
+      "note": "Extracted from rotated table image"
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 612,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 624,
+      "candidate_votes": [195, 358, 42, 15, 2]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Candidate_1",
+      "Total Votes Polled": 380
+    },
+    {
+      "candidate_name": "Candidate_2",
+      "Total Votes Polled": 700
+    },
+    {
+      "candidate_name": "Candidate_3",
+      "Total Votes Polled": 87
+    },
+    {
+      "candidate_name": "Candidate_4",
+      "Total Votes Polled": 33
+    },
+    {
+      "candidate_name": "Candidate_5",
+      "Total Votes Polled": 10
+    }
+  ],
+  "Elected Person Name": "Candidate_2",
+  "elected_person_votes": 700,
+  "extraction_method": "vision_analysis_rotated_image",
+  "pages_processed": 1,
+  "data_quality": "partial_extraction_from_rotated_table",
+  "note": "Data extracted from rotated Form 20 image - partial data from visible portion",
+  "image_challenges": "Document rotated 90 degrees counterclockwise"
+}

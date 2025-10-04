@@ -1,0 +1,20 @@
+{
+  "Constituency Number": 42,
+  "Total Number of Electors": null,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 0,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 0,
+      "candidate_votes": []
+    }
+  ],
+  "candidates": [],
+  "Elected Person Name": null,
+  "extraction_method": "vision_analysis",
+  "pages_processed": 3,
+  "vision_image_path": "vision_analysis/AC_42_page_1.png",
+  "note": "Enhanced extraction using vision analysis of scanned PDF"
+}

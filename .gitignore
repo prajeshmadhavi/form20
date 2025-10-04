@@ -1,0 +1,13 @@
+# RAR archives
+FORM_20.rar
+
+# Data directories
+LOKSABHA_2024/
+VIDHANSABHA_2024/
+
+# Image files
+*.png
+
+# Vision processing directories
+vision_pages/
+vision_analysis/

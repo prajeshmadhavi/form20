@@ -1,0 +1,165 @@
+{
+  "total_type3_pdfs": 216,
+  "sample_analyzed": 11,
+  "complexity_distribution": {
+    "tier1_simple": 98,
+    "tier2_medium": 117,
+    "tier3_complex": 0
+  },
+  "time_estimates": {
+    "tier1_hours": 0.8166666666666667,
+    "tier2_hours": 2.925,
+    "tier3_hours": 0.0,
+    "total_hours": 3.7416666666666667
+  },
+  "processing_order": [
+    "tier1_simple_pdfs",
+    "tier2_medium_pdfs",
+    "tier3_complex_pdfs"
+  ],
+  "sample_analyses": [
+    {
+      "ac_number": 1,
+      "file_path": "VIDHANSABHA_2024/Nandurbar/AC_01.pdf",
+      "file_size_mb": 6.65,
+      "page_count": 17,
+      "total_images": 17,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    },
+    {
+      "ac_number": 22,
+      "file_path": "VIDHANSABHA_2024/Buldhana/AC_22.pdf",
+      "file_size_mb": 4.47,
+      "page_count": 18,
+      "total_images": 18,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 1,
+      "estimated_processing_time": 30,
+      "ocr_confidence_estimate": "high"
+    },
+    {
+      "ac_number": 51,
+      "file_path": "VIDHANSABHA_2024/Nagpur/AC_51.pdf",
+      "file_size_mb": 8.02,
+      "page_count": 14,
+      "total_images": 14,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    },
+    {
+      "ac_number": 76,
+      "file_path": "VIDHANSABHA_2024/Yavatmal/AC_76.pdf",
+      "file_size_mb": 4.83,
+      "page_count": 11,
+      "total_images": 22,
+      "images_per_page": 2.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 1,
+      "estimated_processing_time": 30,
+      "ocr_confidence_estimate": "high"
+    },
+    {
+      "ac_number": 113,
+      "file_path": "VIDHANSABHA_2024/Nashik/AC_113.pdf",
+      "file_size_mb": 4.28,
+      "page_count": 10,
+      "total_images": 20,
+      "images_per_page": 2.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 1,
+      "estimated_processing_time": 30,
+      "ocr_confidence_estimate": "high"
+    },
+    {
+      "ac_number": 136,
+      "file_path": "VIDHANSABHA_2024/Thane/AC_136.pdf",
+      "file_size_mb": 2.51,
+      "page_count": 8,
+      "total_images": 8,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 1,
+      "estimated_processing_time": 30,
+      "ocr_confidence_estimate": "high"
+    },
+    {
+      "ac_number": 157,
+      "file_path": "VIDHANSABHA_2024/Mumbai_Suburban_District/AC_157.pdf",
+      "file_size_mb": 3.7,
+      "page_count": 12,
+      "total_images": 12,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 1,
+      "estimated_processing_time": 30,
+      "ocr_confidence_estimate": "high"
+    },
+    {
+      "ac_number": 185,
+      "file_path": "VIDHANSABHA_2024/Mumbai_City_District/AC_185.pdf",
+      "file_size_mb": 6.54,
+      "page_count": 7,
+      "total_images": 7,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    },
+    {
+      "ac_number": 210,
+      "file_path": "VIDHANSABHA_2024/Pune/AC_210.pdf",
+      "file_size_mb": 5.72,
+      "page_count": 12,
+      "total_images": 12,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    },
+    {
+      "ac_number": 247,
+      "file_path": "VIDHANSABHA_2024/Solapur/AC_247.pdf",
+      "file_size_mb": 10.79,
+      "page_count": 12,
+      "total_images": 73,
+      "images_per_page": 6.083333333333333,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    },
+    {
+      "ac_number": 270,
+      "file_path": "VIDHANSABHA_2024/Sindhudurg/AC_270.pdf",
+      "file_size_mb": 6.97,
+      "page_count": 12,
+      "total_images": 12,
+      "images_per_page": 1.0,
+      "text_extractable": false,
+      "text_length": 0,
+      "complexity_tier": 2,
+      "estimated_processing_time": 90,
+      "ocr_confidence_estimate": "medium"
+    }
+  ]
+}
