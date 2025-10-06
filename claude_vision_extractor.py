@@ -12,7 +12,13 @@ from pdf2image import convert_from_path
 import anthropic
 
 # Set up Anthropic client
-ANTHROPIC_API_KEY = "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"
+# Get API key from environment variable
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+if not ANTHROPIC_API_KEY:
+    print("⚠️ ANTHROPIC_API_KEY environment variable not set.")
+    print("Please set it: export ANTHROPIC_API_KEY='your-api-key-here'")
+    sys.exit(1)
+
 client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
 def image_to_base64(image_path):
@@ -38,8 +44,6 @@ def extract_form20_with_claude_vision(image_path):
        - NOTA votes
        - Total votes
     4. Candidate names (from column headers)
-    5. Calculate total votes for each candidate across all polling stations
-    6. Identify the elected person (candidate with highest votes)
 
     Please provide the data in this exact JSON structure:
     {
@@ -58,12 +62,9 @@ def extract_form20_with_claude_vision(image_path):
         ],
         "candidates": [
             {
-                "candidate_name": "<actual name from header>",
-                "Total Votes Polled": <total across all stations>
+                "candidate_name": "<actual name from header>"
             }
-        ],
-        "Elected Person Name": "<winner name>",
-        "elected_person_votes": <winner total votes>
+        ]
     }
 
     Read the table carefully and extract all visible polling station data. Pay attention to candidate names in the column headers.
@@ -71,7 +72,7 @@ def extract_form20_with_claude_vision(image_path):
 
     try:
         response = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-3-7-sonnet-20250219",
             max_tokens=4000,
             messages=[
                 {
@@ -146,35 +147,75 @@ def process_type3_pdf_with_claude_vision(ac_number):
             page_files.append(page_file)
             print(f"💾 Saved: {page_file}")
 
-        # Process first page with Claude Vision
-        print(f"🤖 Analyzing page 1 with Claude Vision LLM...")
-        first_page_data = extract_form20_with_claude_vision(page_files[0])
+        # Process all pages except last 2 (summary pages)
+        # Skip last 2 pages as they may contain summary data
+        pages_to_process = page_files[:-2] if len(page_files) > 2 else page_files
 
-        if first_page_data:
-            print("✅ Claude Vision analysis successful!")
+        print(f"🤖 Processing {len(pages_to_process)} pages (skipping last 2 if present)...")
+
+        combined_data = {
+            "Constituency Number": None,
+            "constituency_name": None,
+            "Total Number of Electors": None,
+            "serial_no_wise_details": [],
+            "candidates": [],
+            "candidate_names": []
+        }
+
+        pages_processed = 0
+
+        for i, page_file in enumerate(pages_to_process):
+            print(f"🤖 Analyzing page {i+1}/{len(pages_to_process)} with Claude Vision LLM...")
+            page_data = extract_form20_with_claude_vision(page_file)
+
+            if page_data:
+                print(f"✅ Page {i+1} analysis successful!")
+                pages_processed += 1
+
+                # Extract constituency info from first page
+                if i == 0:
+                    combined_data["Constituency Number"] = page_data.get("Constituency Number")
+                    combined_data["constituency_name"] = page_data.get("constituency_name")
+                    combined_data["Total Number of Electors"] = page_data.get("Total Number of Electors")
+
+                    # Get candidate names from first page
+                    if page_data.get("candidates"):
+                        combined_data["candidates"] = page_data["candidates"]
+                        combined_data["candidate_names"] = [c.get("candidate_name", "") for c in page_data["candidates"]]
+
+                # Merge polling station details from all pages
+                if page_data.get("serial_no_wise_details"):
+                    combined_data["serial_no_wise_details"].extend(page_data["serial_no_wise_details"])
+                    print(f"📊 Page {i+1}: Added {len(page_data['serial_no_wise_details'])} polling stations")
+            else:
+                print(f"⚠️ Page {i+1} analysis failed, continuing...")
+
+        if pages_processed > 0:
+            print(f"✅ Successfully processed {pages_processed}/{len(pages_to_process)} pages")
 
             # Save complete extraction
             output_file = f"parsedData/AC_{ac_number}_CLAUDE_VISION.json"
-            first_page_data["extraction_method"] = "claude_vision_llm"
-            first_page_data["api_model"] = "claude-3-5-sonnet-20241022"
-            first_page_data["pages_available"] = len(page_files)
-            first_page_data["pages_processed"] = 1
+            combined_data["extraction_method"] = "claude_vision_llm"
+            combined_data["api_model"] = "claude-3-7-sonnet-20250219"
+            combined_data["pages_available"] = len(page_files)
+            combined_data["pages_processed"] = pages_processed
+            combined_data["pages_skipped"] = len(page_files) - len(pages_to_process)
 
             with open(output_file, 'w') as f:
-                json.dump(first_page_data, f, indent=2)
+                json.dump(combined_data, f, indent=2)
 
             print(f"💾 Results saved: {output_file}")
-            print(f"📊 Constituency: {first_page_data.get('Constituency Number')} - {first_page_data.get('constituency_name', 'Unknown')}")
-            print(f"📊 Total Electors: {first_page_data.get('Total Number of Electors', 'None'):,}" if first_page_data.get('Total Number of Electors') else "📊 Total Electors: None")
-            print(f"📊 Polling Stations: {len(first_page_data.get('serial_no_wise_details', []))}")
-            print(f"📊 Candidates: {len(first_page_data.get('candidates', []))}")
+            print(f"📊 Constituency: {combined_data.get('Constituency Number')} - {combined_data.get('constituency_name', 'Unknown')}")
+            print(f"📊 Total Electors: {combined_data.get('Total Number of Electors', 'None'):,}" if combined_data.get('Total Number of Electors') else "📊 Total Electors: None")
+            print(f"📊 Polling Stations: {len(combined_data.get('serial_no_wise_details', []))}")
+            print(f"📊 Candidates: {len(combined_data.get('candidates', []))}")
 
-            if first_page_data.get('Elected Person Name'):
-                print(f"🏆 Winner: {first_page_data['Elected Person Name']} ({first_page_data.get('elected_person_votes', 0):,} votes)")
+            if combined_data.get('Elected Person Name'):
+                print(f"🏆 Winner: {combined_data['Elected Person Name']} ({combined_data.get('elected_person_votes', 0):,} votes)")
 
             return True
         else:
-            print("❌ Claude Vision analysis failed")
+            print("❌ All page analyses failed")
             return False
 
     except Exception as e:

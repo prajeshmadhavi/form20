@@ -1,13 +1,39 @@
-# RAR archives
-FORM_20.rar
+# Environment variables
+.env
 
-# Data directories
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Batch processing outputs
+batch_logs/
+batch_processing_tracking.json
+batch_processing_master.log
+batch_processing_output.log
+batch_main_output.log
+batch_restart.log
+
+# Vision pages (too large)
+vision_pages/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF files (too large)
+*.pdf
+*.rar
 LOKSABHA_2024/
 VIDHANSABHA_2024/
 
-# Image files
-*.png
-
-# Vision processing directories
-vision_pages/
-vision_analysis/
+# Parsed data output
+parsedData/

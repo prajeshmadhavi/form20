@@ -1,0 +1,66 @@
+flowchart TD
+    Start([Start: python gemini_vision_extractor.py AC_NUMBER]) --> Init[Initialize Gemini Client<br/>API Key: AIzaSyBeoWVTupDwKCPeewiFX2anlOwJsIPY7wo]
+
+    Init --> FindPDF[Search for PDF in VIDHANSABHA_2024<br/>Pattern: AC_XX.pdf]
+
+    FindPDF --> CheckPDF{PDF Found?}
+    CheckPDF -->|No| ErrorPDF[❌ Print Error & Exit]
+    CheckPDF -->|Yes| ConvertPDF[Convert PDF to Images<br/>DPI: 300, Format: PNG]
+
+    ConvertPDF --> SaveImages[Save Images to vision_pages/AC_X/<br/>Files: page_01.png, page_02.png, etc.]
+
+    SaveImages --> CountPages[Count Total Pages<br/>Determine Pages to Process]
+
+    CountPages --> SkipLast[Skip Last 2 Pages<br/>Summary pages not needed]
+
+    SkipLast --> InitData[Initialize Combined Data Structure:<br/>- Constituency Number<br/>- Constituency Name<br/>- Total Electors<br/>- Polling Stations Array<br/>- Candidates Array]
+
+    InitData --> LoopStart{More Pages<br/>to Process?}
+
+    LoopStart -->|Yes| LoadImage[Load PNG Image using PIL]
+
+    LoadImage --> BuildPrompt[Build Extraction Prompt<br/>Request JSON with:<br/>- Constituency info<br/>- Polling station data<br/>- Candidate names<br/>- Vote counts]
+
+    BuildPrompt --> CallGemini[🤖 Call Gemini API<br/>Model: gemini-2.0-flash-exp<br/>Contents: [image, prompt]]
+
+    CallGemini --> GetResponse[Receive Response Text from API]
+
+    GetResponse --> ParseJSON{Extract JSON<br/>using Regex?}
+
+    ParseJSON -->|Success| CheckPage{First Page?}
+    ParseJSON -->|Fail| LogError[⚠️ Log Parse Error<br/>Continue to Next Page]
+
+    CheckPage -->|Yes| ExtractMeta[Extract Metadata:<br/>- Constituency Number<br/>- Constituency Name<br/>- Total Electors<br/>- Candidate Names]
+
+    CheckPage -->|No| MergeData[Merge Polling Station Data<br/>Append to serial_no_wise_details array]
+
+    ExtractMeta --> MergeData
+
+    MergeData --> IncrementCount[Increment pages_processed counter]
+
+    IncrementCount --> LoopStart
+    LogError --> LoopStart
+
+    LoopStart -->|No| CheckSuccess{Any Pages<br/>Processed?}
+
+    CheckSuccess -->|No| ErrorProcess[❌ All Pages Failed<br/>Return False]
+
+    CheckSuccess -->|Yes| AddMetadata[Add Processing Metadata:<br/>- extraction_method: gemini_vision_llm<br/>- api_model: gemini-2.0-flash-exp<br/>- pages_available<br/>- pages_processed<br/>- pages_skipped]
+
+    AddMetadata --> SaveJSON[💾 Save Combined JSON<br/>File: parsedData/AC_X_GEMINI_VISION.json]
+
+    SaveJSON --> PrintStats[Print Statistics:<br/>- Constituency & Name<br/>- Total Electors<br/>- Polling Stations Count<br/>- Candidates Count]
+
+    PrintStats --> Success[✅ Return True]
+
+    Success --> End([End])
+    ErrorPDF --> End
+    ErrorProcess --> End
+
+    style Start fill:#90EE90
+    style End fill:#FFB6C6
+    style CallGemini fill:#87CEEB
+    style SaveJSON fill:#DDA0DD
+    style Success fill:#98FB98
+    style ErrorPDF fill:#FF6B6B
+    style ErrorProcess fill:#FF6B6B
