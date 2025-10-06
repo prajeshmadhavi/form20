@@ -1,0 +1,259 @@
+🔍 PROCESSING AC_1 WITH GEMINI VISION LLM
+📁 PDF: VIDHANSABHA_2024/Nandurbar/AC_01.pdf
+📄 Converting PDF to images...
+📊 Converted 17 pages
+💾 Saved: vision_pages/AC_1/page_01.png
+💾 Saved: vision_pages/AC_1/page_02.png
+💾 Saved: vision_pages/AC_1/page_03.png
+💾 Saved: vision_pages/AC_1/page_04.png
+💾 Saved: vision_pages/AC_1/page_05.png
+💾 Saved: vision_pages/AC_1/page_06.png
+💾 Saved: vision_pages/AC_1/page_07.png
+💾 Saved: vision_pages/AC_1/page_08.png
+💾 Saved: vision_pages/AC_1/page_09.png
+💾 Saved: vision_pages/AC_1/page_10.png
+💾 Saved: vision_pages/AC_1/page_11.png
+💾 Saved: vision_pages/AC_1/page_12.png
+💾 Saved: vision_pages/AC_1/page_13.png
+💾 Saved: vision_pages/AC_1/page_14.png
+💾 Saved: vision_pages/AC_1/page_15.png
+💾 Saved: vision_pages/AC_1/page_16.png
+💾 Saved: vision_pages/AC_1/page_17.png
+🤖 Processing 15 pages (skipping last 2 if present)...
+
+============================================================
+📄 PAGE 1/15
+============================================================
+📂 Loading image: page_01.png
+✅ Image loaded successfully (2467x3492 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 81.5 seconds
+📝 Response length: 9303 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 1 COMPLETED successfully!
+
+📋 CONSTITUENCY INFO:
+   Number: 1
+   Name: AKKALKUWA
+   Electors: 319,481
+   Candidates: 6
+📊 Total polling stations collected so far: 23
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 2/15
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (2471x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 66.5 seconds
+📝 Response length: 9873 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 2 COMPLETED successfully!
+📊 Total polling stations collected so far: 46
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 3/15
+============================================================
+📂 Loading image: page_03.png
+✅ Image loaded successfully (2471x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 65.7 seconds
+📝 Response length: 9856 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 3 COMPLETED successfully!
+📊 Total polling stations collected so far: 69
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 4/15
+============================================================
+📂 Loading image: page_04.png
+✅ Image loaded successfully (2471x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 64.4 seconds
+📝 Response length: 9842 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 4 COMPLETED successfully!
+📊 Total polling stations collected so far: 92
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 5/15
+============================================================
+📂 Loading image: page_05.png
+✅ Image loaded successfully (2467x3488 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 70.2 seconds
+📝 Response length: 9850 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 5 COMPLETED successfully!
+📊 Total polling stations collected so far: 115
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 6/15
+============================================================
+📂 Loading image: page_06.png
+✅ Image loaded successfully (2471x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 59.3 seconds
+📝 Response length: 9294 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 6 COMPLETED successfully!
+📊 Total polling stations collected so far: 138
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 7/15
+============================================================
+📂 Loading image: page_07.png
+✅ Image loaded successfully (2467x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 77.5 seconds
+📝 Response length: 9359 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 7 COMPLETED successfully!
+📊 Total polling stations collected so far: 161
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 8/15
+============================================================
+📂 Loading image: page_08.png
+✅ Image loaded successfully (2471x3500 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 65.9 seconds
+📝 Response length: 9826 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 8 COMPLETED successfully!
+📊 Total polling stations collected so far: 184
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 9/15
+============================================================
+📂 Loading image: page_09.png
+✅ Image loaded successfully (2471x3500 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 53.4 seconds
+📝 Response length: 9815 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 9 COMPLETED successfully!
+📊 Total polling stations collected so far: 207
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 10/15
+============================================================
+📂 Loading image: page_10.png
+✅ Image loaded successfully (2467x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 51.1 seconds
+📝 Response length: 9354 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 10 COMPLETED successfully!
+📊 Total polling stations collected so far: 230
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 11/15
+============================================================
+📂 Loading image: page_11.png
+✅ Image loaded successfully (2467x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 65.6 seconds
+📝 Response length: 9366 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 11 COMPLETED successfully!
+📊 Total polling stations collected so far: 253
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 12/15
+============================================================
+📂 Loading image: page_12.png
+✅ Image loaded successfully (2471x3492 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 46.5 seconds
+📝 Response length: 9797 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 12 COMPLETED successfully!
+📊 Total polling stations collected so far: 276
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 13/15
+============================================================
+📂 Loading image: page_13.png
+✅ Image loaded successfully (2467x3496 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 51.6 seconds
+📝 Response length: 9316 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 13 COMPLETED successfully!
+📊 Total polling stations collected so far: 299
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 14/15
+============================================================
+📂 Loading image: page_14.png
+✅ Image loaded successfully (2467x3500 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 51.8 seconds
+📝 Response length: 9847 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 14 COMPLETED successfully!
+📊 Total polling stations collected so far: 322
+💾 Progress saved to parsedData/AC_1_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 15/15
+============================================================
+📂 Loading image: page_15.png
+✅ Image loaded successfully (2471x3500 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 46.8 seconds
+📝 Response length: 9355 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+✅ Page 15 COMPLETED successfully!
+📊 Total polling stations collected so far: 345
+💾 Progress saved to parsedData/AC_1_progress.json
+✅ Successfully processed 15/15 pages
+💾 Results saved: parsedData/AC_1.json
+📊 Constituency: 1 - AKKALKUWA
+📊 Total Electors: 319,481
+📊 Polling Stations: 345
+📊 Candidates: 6
+✅ AC_1 processing completed successfully

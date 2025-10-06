@@ -120,12 +120,56 @@ We do not have bird eye view of what is under process right now. We have near ab
 
 --
 
-I want to convert json data i.e. every json file generated for every pdf in folder parsedData into csv format, I understand some values will be repeated in multiple rows, because one csv row defines one distinct record. 
+I want to convert json data i.e. every json file generated for every pdf in folder parsedData into csv format, Write a script in python to convert every .json to .csv keeping file name same.  I understand some values will be repeated in multiple rows, because one csv row defines one distinct record. 
+
+Below example value in json defines one row, i.e. one row for every polling station. 
+
+"Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 828,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 839,
+      "candidate_votes": [474, 12, 38, 5, 246, 53]
+
+rest values will be repeated based on "Constituency Number":
+
 
 Create a CSV with following headers. 
 
-District Name,District No,Jilha,Constituency Name,Constituency No,Total No. of Electors,Serial Poll,Total No. Valid Votes,No. of Rejected Votes,NOTA,Total,No. of Tendered Votes,Elected Person Name,Party Name of Elected Person,No. of Valid Votes Cast in Favour of Elected Person,Other Candidate Votes,Female,Male,Others,Total EMV Votes ,Total Postal ballot votes ,Total Votes Polled
+District Name,District No,Jilha,Constituency Name,Constituency No,Total No. of Electors,Serial Poll,Total No. Valid Votes,No. of Rejected Votes,NOTA,Total,No. of Tendered Votes,Elected Person Name,Party Name of Elected Person,No. of Valid Votes Cast in Favour of Elected Person,Other Candidate Votes,Total EMV Votes ,Total Postal ballot votes ,Total Votes Polled
 
 map columns with json fields as given below:
 
+1. District Name: map "Constituency Number" with column 'Assembly Constituency Number' in maharashtra_assembly_constituencies.csv to get 'District Name'
 
+2. District No: leave this blank
+
+3. Jilha: leave this blank
+
+4. Constituency Name: "constituency_name"
+
+5. Constituency No:"Constituency Number"
+
+6. Total No. of Electors:"Total Number of Electors"
+
+7. Serial Poll: "Serial No. Of Polling Station"
+
+8. Total No. Valid Votes:"Total Number of valid votes"
+
+9. No. of Rejected Votes:"Number of Rejected votes"
+
+10. NOTA:"NOTA"
+11. Total:"Total"
+
+12. No. of Tendered Votes:"Number Of Tender Votes"
+
+13. Elected Person Name:"Elected Person Name"
+14. Party Name of Elected Person: Leave Blank
+15. No. of Valid Votes Cast in Favour of Elected Person: "elected_person_votes"
+
+16. Other Candidate Votes: Sum of "Total Votes Polled" in candidates array - "elected_person_votes"
+
+17. Total EMV Votes :  Sum of "Total Votes Polled" in candidates array
+
+18. Total Postal ballot votes : Leave Blank
+19. l Votes Polled: Sum of "Total of Valid Votes"
