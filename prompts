@@ -138,7 +138,7 @@ Create a CSV with following headers.
 
 District Name,District No,Jilha,Constituency Name,Constituency No,Total No. of Electors,Serial Poll,Total No. Valid Votes,No. of Rejected Votes,NOTA,Total,No. of Tendered Votes,Elected Person Name,Party Name of Elected Person,No. of Valid Votes Cast in Favour of Elected Person,Other Candidate Votes,Total EMV Votes ,Total Postal ballot votes ,Total Votes Polled
 
-map columns with json fields as given below:
+we need to map columns with json fields as given below:
 
 1. District Name: map "Constituency Number" with column 'Assembly Constituency Number' in maharashtra_assembly_constituencies.csv to get 'District Name'
 
@@ -172,4 +172,4 @@ map columns with json fields as given below:
 17. Total EMV Votes :  Sum of "Total Votes Polled" in candidates array
 
 18. Total Postal ballot votes : Leave Blank
-19. l Votes Polled: Sum of "Total of Valid Votes"
+19. Votes Polled: Sum of "Total of Valid Votes"

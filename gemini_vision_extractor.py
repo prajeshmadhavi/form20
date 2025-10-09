@@ -190,10 +190,11 @@ def process_type3_pdf_with_gemini_vision(ac_number):
                         combined_data["candidate_names"] = [c.get("candidate_name", "") for c in page_data["candidates"]]
 
                     print(f"\n📋 CONSTITUENCY INFO:")
-                    print(f"   Number: {combined_data['Constituency Number']}")
-                    print(f"   Name: {combined_data['constituency_name']}")
-                    print(f"   Electors: {combined_data['Total Number of Electors']:,}")
-                    print(f"   Candidates: {len(combined_data['candidates'])}")
+                    print(f"   Number: {combined_data.get('Constituency Number', 'N/A')}")
+                    print(f"   Name: {combined_data.get('constituency_name', 'N/A')}")
+                    electors = combined_data.get('Total Number of Electors')
+                    print(f"   Electors: {electors:,}" if electors else "   Electors: N/A")
+                    print(f"   Candidates: {len(combined_data.get('candidates', []))}")
 
                 # Merge polling station details from all pages
                 if page_data.get("serial_no_wise_details"):

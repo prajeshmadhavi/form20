@@ -1,0 +1,701 @@
+
+================================================================================
+FAILED PDF REPROCESSOR (Gemini Vision)
+================================================================================
+Total items to process: 54
+Start time: 2025-10-08 21:45:09
+================================================================================
+
+
+[1/54] Processing AC_18...
+
+================================================================================
+PROCESSING AC_18 - Pachora
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Jalgaon/AC_18.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_18
+   Polling Stations: 349
+   Candidates: 12
+   Time: 1203.9s
+💾 Saved: parsedData/AC_18.json
+
+[2/54] Processing AC_22...
+
+================================================================================
+PROCESSING AC_22 - Buldhana
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Buldhana/AC_22.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_22
+   Polling Stations: 320
+   Candidates: 13
+   Time: 1042.9s
+💾 Saved: parsedData/AC_22.json
+
+[3/54] Processing AC_27...
+
+================================================================================
+PROCESSING AC_27 - Jalgaon (Jamod)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Buldhana/AC_27.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_27
+   Polling Stations: 300
+   Candidates: 9
+   Time: 743.5s
+💾 Saved: parsedData/AC_27.json
+
+[4/54] Processing AC_34...
+
+================================================================================
+PROCESSING AC_34 - Washim (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Washim/AC_34.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_34
+   Polling Stations: 321
+   Candidates: 22
+   Time: 871.2s
+💾 Saved: parsedData/AC_34.json
+
+[5/54] Processing AC_36...
+
+================================================================================
+PROCESSING AC_36 - Dhamangaon Railway
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_36.pdf
+❌ Failed to process AC_36: PDF not found: VIDHANSABHA_2024/Amaravati/AC_36.pdf
+   Time: 0.0s
+
+[6/54] Processing AC_37...
+
+================================================================================
+PROCESSING AC_37 - Badnera
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_37.pdf
+❌ Failed to process AC_37: PDF not found: VIDHANSABHA_2024/Amaravati/AC_37.pdf
+   Time: 0.0s
+
+[7/54] Processing AC_38...
+
+================================================================================
+PROCESSING AC_38 - Amrawati
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_38.pdf
+❌ Failed to process AC_38: PDF not found: VIDHANSABHA_2024/Amaravati/AC_38.pdf
+   Time: 0.0s
+
+[8/54] Processing AC_39...
+
+================================================================================
+PROCESSING AC_39 - Teosa
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_39.pdf
+❌ Failed to process AC_39: PDF not found: VIDHANSABHA_2024/Amaravati/AC_39.pdf
+   Time: 0.0s
+
+[9/54] Processing AC_40...
+
+================================================================================
+PROCESSING AC_40 - Daryapur (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_40.pdf
+❌ Failed to process AC_40: PDF not found: VIDHANSABHA_2024/Amaravati/AC_40.pdf
+   Time: 0.0s
+
+[10/54] Processing AC_42...
+
+================================================================================
+PROCESSING AC_42 - Achalpur
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_42.pdf
+❌ Failed to process AC_42: PDF not found: VIDHANSABHA_2024/Amaravati/AC_42.pdf
+   Time: 0.0s
+
+📊 PROGRESS UPDATE:
+   Processed: 10/54
+   ✅ Completed: 4
+   ❌ Failed: 6
+
+[11/54] Processing AC_43...
+
+================================================================================
+PROCESSING AC_43 - Morshi
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Amaravati/AC_43.pdf
+❌ Failed to process AC_43: PDF not found: VIDHANSABHA_2024/Amaravati/AC_43.pdf
+   Time: 0.0s
+
+[12/54] Processing AC_49...
+
+================================================================================
+PROCESSING AC_49 - Savner
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Nagpur/AC_49.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_49
+   Polling Stations: 337
+   Candidates: 18
+   Time: 1017.6s
+💾 Saved: parsedData/AC_49.json
+
+[13/54] Processing AC_52...
+
+================================================================================
+PROCESSING AC_52 - Nagpur South West
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Nagpur/AC_52.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_52
+   Polling Stations: 340
+   Candidates: 0
+   Time: 873.3s
+💾 Saved: parsedData/AC_52.json
+
+[14/54] Processing AC_61...
+
+================================================================================
+PROCESSING AC_61 - Bhandara (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Bhandara/AC_61.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_61
+   Polling Stations: 399
+   Candidates: 19
+   Time: 1005.9s
+💾 Saved: parsedData/AC_61.json
+
+[15/54] Processing AC_70...
+
+================================================================================
+PROCESSING AC_70 - Rajura
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Chandrapur/AC_70.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_70
+   Polling Stations: 317
+   Candidates: 14
+   Time: 1091.2s
+💾 Saved: parsedData/AC_70.json
+
+[16/54] Processing AC_71...
+
+================================================================================
+PROCESSING AC_71 - Chandrapur (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Chandrapur/AC_71.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_71
+   Polling Stations: 362
+   Candidates: 16
+   Time: 1039.5s
+💾 Saved: parsedData/AC_71.json
+
+[17/54] Processing AC_72...
+
+================================================================================
+PROCESSING AC_72 - Ballarpur
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Chandrapur/AC_72.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_72
+   Polling Stations: 320
+   Candidates: 20
+   Time: 1077.7s
+💾 Saved: parsedData/AC_72.json
+
+[18/54] Processing AC_75...
+
+================================================================================
+PROCESSING AC_75 - Warora
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Chandrapur/AC_75.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_75
+   Polling Stations: 309
+   Candidates: 18
+   Time: 968.8s
+💾 Saved: parsedData/AC_75.json
+
+[19/54] Processing AC_76...
+
+================================================================================
+PROCESSING AC_76 - Wani
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Yavatmal/AC_76.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_76
+   Polling Stations: 291
+   Candidates: 12
+   Time: 537.0s
+💾 Saved: parsedData/AC_76.json
+
+[20/54] Processing AC_81...
+
+================================================================================
+PROCESSING AC_81 - Pusad
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Yavatmal/AC_81.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_81
+   Polling Stations: 296
+   Candidates: 14
+   Time: 972.9s
+💾 Saved: parsedData/AC_81.json
+
+📊 PROGRESS UPDATE:
+   Processed: 20/54
+   ✅ Completed: 13
+   ❌ Failed: 7
+
+[21/54] Processing AC_82...
+
+================================================================================
+PROCESSING AC_82 - Umarkhed (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Yavatmal/AC_82.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_82
+   Polling Stations: 319
+   Candidates: 17
+   Time: 1050.4s
+💾 Saved: parsedData/AC_82.json
+
+[22/54] Processing AC_97...
+
+================================================================================
+PROCESSING AC_97 - Gangakhed
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Parbhani/AC_97.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_97
+   Polling Stations: 384
+   Candidates: 12
+   Time: 841.5s
+💾 Saved: parsedData/AC_97.json
+
+[23/54] Processing AC_98...
+
+================================================================================
+PROCESSING AC_98 - Pathri
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Parbhani/AC_98.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_98
+   Polling Stations: 360
+   Candidates: 13
+   Time: 758.9s
+💾 Saved: parsedData/AC_98.json
+
+[24/54] Processing AC_111...
+
+================================================================================
+PROCESSING AC_111 - Gangapur
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Aurangabad/AC_111.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_111
+   Polling Stations: 300
+   Candidates: 18
+   Time: 503.6s
+💾 Saved: parsedData/AC_111.json
+
+[25/54] Processing AC_112...
+
+================================================================================
+PROCESSING AC_112 - Vaijapur
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Aurangabad/AC_112.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_112
+   Polling Stations: 308
+   Candidates: 10
+   Time: 602.5s
+💾 Saved: parsedData/AC_112.json
+
+[26/54] Processing AC_113...
+
+================================================================================
+PROCESSING AC_113 - Nandgaon
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Nashik/AC_113.pdf
+🤖 Running Gemini Vision extractor...
+❌ Failed to process AC_113: Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/gemini_vision_extractor.py", line 147, in process_type3_pdf_with_gemini_vision
+    images = convert_from_path(str(pdf_p
+   Time: 6.1s
+
+[27/54] Processing AC_129...
+
+================================================================================
+PROCESSING AC_129 - Vekramgrth (ST)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Palghar/AC_129.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_129
+   Polling Stations: 321
+   Candidates: 11
+   Time: 948.6s
+💾 Saved: parsedData/AC_129.json
+
+[28/54] Processing AC_132...
+
+================================================================================
+PROCESSING AC_132 - Nalasopara
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Palghar/AC_132.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_132
+   Polling Stations: 493
+   Candidates: 12
+   Time: 1300.4s
+💾 Saved: parsedData/AC_132.json
+
+[29/54] Processing AC_133...
+
+================================================================================
+PROCESSING AC_133 - Vasai
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Palghar/AC_133.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_133
+   Polling Stations: 316
+   Candidates: 7
+   Time: 965.1s
+💾 Saved: parsedData/AC_133.json
+
+[30/54] Processing AC_144...
+
+================================================================================
+PROCESSING AC_144 - Kalyan Rural
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Thane/AC_144.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_144
+   Polling Stations: 466
+   Candidates: 13
+   Time: 1345.1s
+💾 Saved: parsedData/AC_144.json
+
+📊 PROGRESS UPDATE:
+   Processed: 30/54
+   ✅ Completed: 22
+   ❌ Failed: 8
+
+[31/54] Processing AC_145...
+
+================================================================================
+PROCESSING AC_145 - Meera Bhayandar
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Thane/AC_145.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_145
+   Polling Stations: 535
+   Candidates: 17
+   Time: 1396.6s
+💾 Saved: parsedData/AC_145.json
+
+[32/54] Processing AC_146...
+
+================================================================================
+PROCESSING AC_146 - Ovala majiwada
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Thane/AC_146.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_146
+   Polling Stations: 421
+   Candidates: 14
+   Time: 1424.7s
+💾 Saved: parsedData/AC_146.json
+
+[33/54] Processing AC_148...
+
+================================================================================
+PROCESSING AC_148 - Thane
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Thane/AC_148.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_148
+   Polling Stations: 373
+   Candidates: 8
+   Time: 714.0s
+💾 Saved: parsedData/AC_148.json
+
+[34/54] Processing AC_179...
+
+================================================================================
+PROCESSING AC_179 - Sion Koliwada
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Mumbai City/AC_179.pdf
+❌ Failed to process AC_179: PDF not found: VIDHANSABHA_2024/Mumbai City/AC_179.pdf
+   Time: 0.0s
+
+[35/54] Processing AC_188...
+
+================================================================================
+PROCESSING AC_188 - Panvel
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Raigad/AC_188.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_188
+   Polling Stations: 555
+   Candidates: 12
+   Time: 1306.4s
+💾 Saved: parsedData/AC_188.json
+
+[36/54] Processing AC_195...
+
+================================================================================
+PROCESSING AC_195 - Junnar
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_195.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_195
+   Polling Stations: 347
+   Candidates: 11
+   Time: 1715.8s
+💾 Saved: parsedData/AC_195.json
+
+[37/54] Processing AC_197...
+
+================================================================================
+PROCESSING AC_197 - Khed Alandi
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_197.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_197
+   Polling Stations: 371
+   Candidates: 13
+   Time: 982.6s
+💾 Saved: parsedData/AC_197.json
+
+[38/54] Processing AC_199...
+
+================================================================================
+PROCESSING AC_199 - Daund
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_199.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_199
+   Polling Stations: 288
+   Candidates: 14
+   Time: 1068.5s
+💾 Saved: parsedData/AC_199.json
+
+[39/54] Processing AC_202...
+
+================================================================================
+PROCESSING AC_202 - Purandar
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_202.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_202
+   Polling Stations: 394
+   Candidates: 16
+   Time: 1583.4s
+💾 Saved: parsedData/AC_202.json
+
+[40/54] Processing AC_203...
+
+================================================================================
+PROCESSING AC_203 - Bhor
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_203.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_203
+   Polling Stations: 484
+   Candidates: 6
+   Time: 794.2s
+💾 Saved: parsedData/AC_203.json
+
+📊 PROGRESS UPDATE:
+   Processed: 40/54
+   ✅ Completed: 31
+   ❌ Failed: 9
+
+[41/54] Processing AC_206...
+
+================================================================================
+PROCESSING AC_206 - Pimpri (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_206.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_206
+   Polling Stations: 366
+   Candidates: 15
+   Time: 1297.7s
+💾 Saved: parsedData/AC_206.json
+
+[42/54] Processing AC_209...
+
+================================================================================
+PROCESSING AC_209 - Shivajinagar
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Pune/AC_209.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_209
+   Polling Stations: 252
+   Candidates: 13
+   Time: 930.3s
+💾 Saved: parsedData/AC_209.json
+
+[43/54] Processing AC_228...
+
+================================================================================
+PROCESSING AC_228 - Georai
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Beed/AC_228.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_228
+   Polling Stations: 392
+   Candidates: 20
+   Time: 1656.8s
+💾 Saved: parsedData/AC_228.json
+
+[44/54] Processing AC_234...
+
+================================================================================
+PROCESSING AC_234 - Latur Rural
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Latur/AC_234.pdf
+🤖 Running Gemini Vision extractor...
+❌ Timeout processing AC_234 after 1800.1s
+
+[45/54] Processing AC_235...
+
+================================================================================
+PROCESSING AC_235 - Latur City
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Latur/AC_235.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_235
+   Polling Stations: 355
+   Candidates: 23
+   Time: 1594.7s
+💾 Saved: parsedData/AC_235.json
+
+[46/54] Processing AC_236...
+
+================================================================================
+PROCESSING AC_236 - Ahmedpur
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Latur/AC_236.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_236
+   Polling Stations: 322
+   Candidates: 20
+   Time: 1210.5s
+💾 Saved: parsedData/AC_236.json
+
+[47/54] Processing AC_237...
+
+================================================================================
+PROCESSING AC_237 - Udgir (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Latur/AC_237.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_237
+   Polling Stations: 308
+   Candidates: 13
+   Time: 869.1s
+💾 Saved: parsedData/AC_237.json
+
+[48/54] Processing AC_255...
+
+================================================================================
+PROCESSING AC_255 - Phaltan (SC)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Satara/AC_255.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_255
+   Polling Stations: 335
+   Candidates: 14
+   Time: 1502.9s
+💾 Saved: parsedData/AC_255.json
+
+[49/54] Processing AC_261...
+
+================================================================================
+PROCESSING AC_261 - Patan
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Satara/AC_261.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_261
+   Polling Stations: 386
+   Candidates: 12
+   Time: 1197.1s
+💾 Saved: parsedData/AC_261.json
+
+[50/54] Processing AC_262...
+
+================================================================================
+PROCESSING AC_262 - Satara
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Satara/AC_262.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_262
+   Polling Stations: 441
+   Candidates: 7
+   Time: 1581.8s
+💾 Saved: parsedData/AC_262.json
+
+📊 PROGRESS UPDATE:
+   Processed: 50/54
+   ✅ Completed: 40
+   ❌ Failed: 10
+
+[51/54] Processing AC_269...
+
+================================================================================
+PROCESSING AC_269 - Kudal
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Sindhudurg/AC_269.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_269
+   Polling Stations: 247
+   Candidates: 5
+   Time: 561.7s
+💾 Saved: parsedData/AC_269.json
+
+[52/54] Processing AC_271...
+
+================================================================================
+PROCESSING AC_271 - Chandgad
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Kolhapur/AC_271.pdf
+🤖 Running Gemini Vision extractor...
+✅ Successfully processed AC_271
+   Polling Stations: 342
+   Candidates: 17
+   Time: 1350.6s
+💾 Saved: parsedData/AC_271.json
+
+[53/54] Processing AC_66...
+
+================================================================================
+PROCESSING AC_66 - Amgaon (ST)
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Gondiya/AC_66.pdf
+❌ Failed to process AC_66: PDF not found: VIDHANSABHA_2024/Gondiya/AC_66.pdf
+   Time: 0.0s
+
+[54/54] Processing AC_258...
+
+================================================================================
+PROCESSING AC_258 - Man
+================================================================================
+📁 PDF Path: VIDHANSABHA_2024/Satara/AC_258.pdf
+❌ Failed to process AC_258: PDF not found: VIDHANSABHA_2024/Satara/AC_258.pdf
+   Time: 0.0s
+
+================================================================================
+BATCH REPROCESSING COMPLETE
+================================================================================
+End time: 2025-10-09 10:55:24
+✅ Completed: 42
+❌ Failed: 12
+📊 Total: 54
+================================================================================
+
+Batch reprocessing completed

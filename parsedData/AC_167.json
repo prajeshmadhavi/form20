@@ -1,0 +1,4066 @@
+{
+  "Constituency Number": 167,
+  "constituency_name": "VILE PARLE",
+  "Total Number of Electors": 275347,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 620,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 630,
+      "candidate_votes": [
+        332,
+        60,
+        212,
+        10,
+        4,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 575,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 580,
+      "candidate_votes": [
+        287,
+        60,
+        206,
+        13,
+        8,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 306,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 307,
+      "candidate_votes": [
+        161,
+        26,
+        112,
+        5,
+        0,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 442,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 444,
+      "candidate_votes": [
+        215,
+        30,
+        190,
+        5,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 654,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 665,
+      "candidate_votes": [
+        348,
+        67,
+        227,
+        9,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 6,
+      "Total Number of valid votes": 317,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 322,
+      "candidate_votes": [
+        229,
+        14,
+        70,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 7,
+      "Total Number of valid votes": 511,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 512,
+      "candidate_votes": [
+        302,
+        40,
+        152,
+        10,
+        5,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 8,
+      "Total Number of valid votes": 467,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 473,
+      "candidate_votes": [
+        224,
+        58,
+        169,
+        2,
+        14,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 9,
+      "Total Number of valid votes": 257,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 259,
+      "candidate_votes": [
+        130,
+        38,
+        81,
+        1,
+        7,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 10,
+      "Total Number of valid votes": 142,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 143,
+      "candidate_votes": [
+        67,
+        19,
+        53,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 11,
+      "Total Number of valid votes": 637,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 643,
+      "candidate_votes": [
+        291,
+        106,
+        169,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 12,
+      "Total Number of valid votes": 573,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 578,
+      "candidate_votes": [
+        261,
+        78,
+        177,
+        2,
+        26,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 13,
+      "Total Number of valid votes": 419,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 423,
+      "candidate_votes": [
+        200,
+        78,
+        129,
+        1,
+        10,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 14,
+      "Total Number of valid votes": 686,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 691,
+      "candidate_votes": [
+        317,
+        136,
+        205,
+        4,
+        21,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 15,
+      "Total Number of valid votes": 712,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 723,
+      "candidate_votes": [
+        496,
+        48,
+        158,
+        2,
+        7,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 16,
+      "Total Number of valid votes": 460,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 467,
+      "candidate_votes": [
+        305,
+        16,
+        131,
+        3,
+        5,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 17,
+      "Total Number of valid votes": 580,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 593,
+      "candidate_votes": [
+        326,
+        18,
+        231,
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 18,
+      "Total Number of valid votes": 624,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 631,
+      "candidate_votes": [
+        384,
+        40,
+        192,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 19,
+      "Total Number of valid votes": 481,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 490,
+      "candidate_votes": [
+        270,
+        17,
+        188,
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 20,
+      "Total Number of valid votes": 573,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 579,
+      "candidate_votes": [
+        285,
+        34,
+        240,
+        11,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 21,
+      "Total Number of valid votes": 433,
+      "Number of Rejected votes": 0,
+      "NOTA": 15,
+      "Total": 448,
+      "candidate_votes": [
+        193,
+        15,
+        218,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 22,
+      "Total Number of valid votes": 654,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 657,
+      "candidate_votes": [
+        334,
+        60,
+        211,
+        26,
+        2,
+        21
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 23,
+      "Total Number of valid votes": 614,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 621,
+      "candidate_votes": [
+        283,
+        29,
+        269,
+        15,
+        3,
+        15,
+        15
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 24,
+      "Total Number of valid votes": 666,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 677,
+      "candidate_votes": [
+        325,
+        28,
+        295,
+        6,
+        2,
+        10,
+        10
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 25,
+      "Total Number of valid votes": 790,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 800,
+      "candidate_votes": [
+        385,
+        65,
+        299,
+        22,
+        1,
+        18,
+        18
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 26,
+      "Total Number of valid votes": 780,
+      "Number of Rejected votes": 0,
+      "NOTA": 21,
+      "Total": 801,
+      "candidate_votes": [
+        410,
+        45,
+        271,
+        25,
+        3,
+        26,
+        26
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 27,
+      "Total Number of valid votes": 469,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 475,
+      "candidate_votes": [
+        205,
+        17,
+        216,
+        11,
+        5,
+        15,
+        15
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 28,
+      "Total Number of valid votes": 679,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 689,
+      "candidate_votes": [
+        372,
+        40,
+        226,
+        12,
+        1,
+        28,
+        28
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 29,
+      "Total Number of valid votes": 622,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 627,
+      "candidate_votes": [
+        261,
+        21,
+        229,
+        32,
+        2,
+        77,
+        77
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 30,
+      "Total Number of valid votes": 688,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 698,
+      "candidate_votes": [
+        327,
+        48,
+        248,
+        13,
+        1,
+        51,
+        51
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 31,
+      "Total Number of valid votes": 494,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 500,
+      "candidate_votes": [
+        207,
+        17,
+        255,
+        9,
+        2,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 32,
+      "Total Number of valid votes": 605,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 613,
+      "candidate_votes": [
+        327,
+        32,
+        231,
+        11,
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 33,
+      "Total Number of valid votes": 556,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 560,
+      "candidate_votes": [
+        311,
+        14,
+        220,
+        2,
+        2,
+        7,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 34,
+      "Total Number of valid votes": 563,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 577,
+      "candidate_votes": [
+        293,
+        52,
+        192,
+        11,
+        2,
+        13,
+        13
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 35,
+      "Total Number of valid votes": 789,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 800,
+      "candidate_votes": [
+        417,
+        20,
+        311,
+        15,
+        3,
+        23,
+        23
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 36,
+      "Total Number of valid votes": 613,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 621,
+      "candidate_votes": [
+        316,
+        14,
+        253,
+        7,
+        2,
+        21,
+        21
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 37,
+      "Total Number of valid votes": 581,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 590,
+      "candidate_votes": [
+        342,
+        14,
+        197,
+        1,
+        1,
+        26,
+        26
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 38,
+      "Total Number of valid votes": 687,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 697,
+      "candidate_votes": [
+        306,
+        67,
+        298,
+        7,
+        2,
+        7,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 39,
+      "Total Number of valid votes": 617,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 621,
+      "candidate_votes": [
+        259,
+        38,
+        269,
+        36,
+        4,
+        11,
+        11
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 40,
+      "Total Number of valid votes": 688,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 701,
+      "candidate_votes": [
+        373,
+        60,
+        228,
+        9,
+        4,
+        14,
+        14
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 41,
+      "Total Number of valid votes": 552,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 562,
+      "candidate_votes": [
+        257,
+        33,
+        226,
+        26,
+        4,
+        6,
+        6
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 42,
+      "Total Number of valid votes": 524,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 536,
+      "candidate_votes": [
+        365,
+        12,
+        137,
+        2,
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 43,
+      "Total Number of valid votes": 459,
+      "Number of Rejected votes": 0,
+      "NOTA": 15,
+      "Total": 474,
+      "candidate_votes": [
+        312,
+        15,
+        125,
+        2,
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 44,
+      "Total Number of valid votes": 582,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 588,
+      "candidate_votes": [
+        268,
+        47,
+        184,
+        74,
+        2,
+        7,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 45,
+      "Total Number of valid votes": 709,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 721,
+      "candidate_votes": [
+        480,
+        18,
+        198,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 46,
+      "Total Number of valid votes": 346,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 354,
+      "candidate_votes": [
+        213,
+        4,
+        106,
+        0,
+        1,
+        22
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 47,
+      "Total Number of valid votes": 666,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 677,
+      "candidate_votes": [
+        581,
+        3,
+        76,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 48,
+      "Total Number of valid votes": 598,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 605,
+      "candidate_votes": [
+        505,
+        9,
+        82,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 49,
+      "Total Number of valid votes": 665,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 678,
+      "candidate_votes": [
+        516,
+        15,
+        127,
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 50,
+      "Total Number of valid votes": 611,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 617,
+      "candidate_votes": [
+        341,
+        47,
+        215,
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 51,
+      "Total Number of valid votes": 552,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 555,
+      "candidate_votes": [
+        409,
+        22,
+        115,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 52,
+      "Total Number of valid votes": 431,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 442,
+      "candidate_votes": [
+        191,
+        27,
+        203,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 53,
+      "Total Number of valid votes": 378,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 384,
+      "candidate_votes": [
+        230,
+        15,
+        128,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 54,
+      "Total Number of valid votes": 420,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 431,
+      "candidate_votes": [
+        307,
+        6,
+        86,
+        0,
+        9,
+        12
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 55,
+      "Total Number of valid votes": 526,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 534,
+      "candidate_votes": [
+        405,
+        14,
+        99,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 56,
+      "Total Number of valid votes": 561,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 566,
+      "candidate_votes": [
+        493,
+        3,
+        60,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 57,
+      "Total Number of valid votes": 395,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 402,
+      "candidate_votes": [
+        361,
+        9,
+        22,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 58,
+      "Total Number of valid votes": 620,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 627,
+      "candidate_votes": [
+        182,
+        36,
+        394,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 59,
+      "Total Number of valid votes": 534,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 547,
+      "candidate_votes": [
+        240,
+        18,
+        265,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 60,
+      "Total Number of valid votes": 527,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 540,
+      "candidate_votes": [
+        380,
+        17,
+        121,
+        5,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 61,
+      "Total Number of valid votes": 327,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 333,
+      "candidate_votes": [
+        199,
+        17,
+        109,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 62,
+      "Total Number of valid votes": 648,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 657,
+      "candidate_votes": [
+        397,
+        31,
+        209,
+        10,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 63,
+      "Total Number of valid votes": 616,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 623,
+      "candidate_votes": [
+        404,
+        20,
+        188,
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 64,
+      "Total Number of valid votes": 497,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 503,
+      "candidate_votes": [
+        252,
+        29,
+        194,
+        17,
+        1,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 65,
+      "Total Number of valid votes": 406,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 413,
+      "candidate_votes": [
+        230,
+        20,
+        150,
+        3,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 66,
+      "Total Number of valid votes": 437,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 445,
+      "candidate_votes": [
+        249,
+        12,
+        165,
+        9,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 67,
+      "Total Number of valid votes": 198,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 199,
+      "candidate_votes": [
+        67,
+        9,
+        77,
+        16,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 68,
+      "Total Number of valid votes": 318,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 323,
+      "candidate_votes": [
+        94,
+        6,
+        132,
+        63,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 69,
+      "Total Number of valid votes": 399,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 405,
+      "candidate_votes": [
+        115,
+        23,
+        94,
+        6,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 70,
+      "Total Number of valid votes": 380,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 386,
+      "candidate_votes": [
+        274,
+        20,
+        119,
+        4,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 71,
+      "Total Number of valid votes": 772,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 776,
+      "candidate_votes": [
+        235,
+        68,
+        176,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 72,
+      "Total Number of valid votes": 579,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 585,
+      "candidate_votes": [
+        527,
+        75,
+        85,
+        0,
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 73,
+      "Total Number of valid votes": 602,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 606,
+      "candidate_votes": [
+        415,
+        35,
+        94,
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 74,
+      "Total Number of valid votes": 700,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 705,
+      "candidate_votes": [
+        471,
+        104,
+        126,
+        1,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 75,
+      "Total Number of valid votes": 693,
+      "Number of Rejected votes": 0,
+      "NOTA": 23,
+      "Total": 716,
+      "candidate_votes": [
+        462,
+        42,
+        105,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 76,
+      "Total Number of valid votes": 510,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 513,
+      "candidate_votes": [
+        545,
+        30,
+        73,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 77,
+      "Total Number of valid votes": 638,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 645,
+      "candidate_votes": [
+        407,
+        71,
+        80,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 78,
+      "Total Number of valid votes": 562,
+      "Number of Rejected votes": 0,
+      "NOTA": 15,
+      "Total": 577,
+      "candidate_votes": [
+        486,
+        45,
+        78,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 79,
+      "Total Number of valid votes": 537,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 545,
+      "candidate_votes": [
+        438,
+        87,
+        68,
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 80,
+      "Total Number of valid votes": 669,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 676,
+      "candidate_votes": [
+        379,
+        23,
+        76,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 81,
+      "Total Number of valid votes": 729,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 738,
+      "candidate_votes": [
+        569,
+        11,
+        51,
+        2,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 82,
+      "Total Number of valid votes": 549,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 560,
+      "candidate_votes": [
+        664,
+        22,
+        40,
+        3,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 83,
+      "Total Number of valid votes": 569,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 577,
+      "candidate_votes": [
+        484,
+        5,
+        39,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 84,
+      "Total Number of valid votes": 721,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 728,
+      "candidate_votes": [
+        523,
+        97,
+        188,
+        1,
+        6,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 85,
+      "Total Number of valid votes": 681,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 687,
+      "candidate_votes": [
+        426,
+        39,
+        105,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 86,
+      "Total Number of valid votes": 653,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 657,
+      "candidate_votes": [
+        535,
+        43,
+        133,
+        2,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 87,
+      "Total Number of valid votes": 739,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 746,
+      "candidate_votes": [
+        472,
+        63,
+        135,
+        0,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 88,
+      "Total Number of valid votes": 713,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 721,
+      "candidate_votes": [
+        536,
+        40,
+        130,
+        1,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 89,
+      "Total Number of valid votes": 651,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 655,
+      "candidate_votes": [
+        462,
+        49,
+        137,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 90,
+      "Total Number of valid votes": 722,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 734,
+      "candidate_votes": [
+        564,
+        43,
+        114,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 91,
+      "Total Number of valid votes": 683,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 691,
+      "candidate_votes": [
+        498,
+        48,
+        131,
+        0,
+        3,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 92,
+      "Total Number of valid votes": 649,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 655,
+      "candidate_votes": [
+        464,
+        59,
+        122,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 93,
+      "Total Number of valid votes": 876,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 880,
+      "candidate_votes": [
+        554,
+        90,
+        226,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 94,
+      "Total Number of valid votes": 788,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 794,
+      "candidate_votes": [
+        394,
+        130,
+        260,
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 95,
+      "Total Number of valid votes": 726,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 733,
+      "candidate_votes": [
+        414,
+        79,
+        228,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 96,
+      "Total Number of valid votes": 530,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 539,
+      "candidate_votes": [
+        288,
+        57,
+        181,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 97,
+      "Total Number of valid votes": 430,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 437,
+      "candidate_votes": [
+        307,
+        31,
+        91,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 98,
+      "Total Number of valid votes": 574,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 585,
+      "candidate_votes": [
+        362,
+        82,
+        122,
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 99,
+      "Total Number of valid votes": 614,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 627,
+      "candidate_votes": [
+        416,
+        52,
+        145,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 100,
+      "Total Number of valid votes": 663,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 674,
+      "candidate_votes": [
+        487,
+        47,
+        128,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 101,
+      "Total Number of valid votes": 436,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 437,
+      "candidate_votes": [
+        265,
+        33,
+        131,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 102,
+      "Total Number of valid votes": 505,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 518,
+      "candidate_votes": [
+        391,
+        22,
+        86,
+        0,
+        5,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 103,
+      "Total Number of valid votes": 541,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 546,
+      "candidate_votes": [
+        442,
+        7,
+        90,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 104,
+      "Total Number of valid votes": 566,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 572,
+      "candidate_votes": [
+        448,
+        32,
+        84,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 105,
+      "Total Number of valid votes": 631,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 636,
+      "candidate_votes": [
+        462,
+        48,
+        117,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 106,
+      "Total Number of valid votes": 620,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 631,
+      "candidate_votes": [
+        577,
+        5,
+        34,
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 107,
+      "Total Number of valid votes": 645,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 650,
+      "candidate_votes": [
+        517,
+        36,
+        89,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 108,
+      "Total Number of valid votes": 456,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 461,
+      "candidate_votes": [
+        284,
+        73,
+        95,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 109,
+      "Total Number of valid votes": 299,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 302,
+      "candidate_votes": [
+        243,
+        18,
+        36,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 110,
+      "Total Number of valid votes": 660,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 663,
+      "candidate_votes": [
+        637,
+        6,
+        17,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 111,
+      "Total Number of valid votes": 581,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 587,
+      "candidate_votes": [
+        489,
+        26,
+        64,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 112,
+      "Total Number of valid votes": 654,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 662,
+      "candidate_votes": [
+        625,
+        4,
+        23,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 113,
+      "Total Number of valid votes": 542,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 550,
+      "candidate_votes": [
+        318,
+        38,
+        178,
+        0,
+        5,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 114,
+      "Total Number of valid votes": 619,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 623,
+      "candidate_votes": [
+        410,
+        56,
+        143,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 115,
+      "Total Number of valid votes": 503,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 504,
+      "candidate_votes": [
+        244,
+        57,
+        188,
+        8,
+        2,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 116,
+      "Total Number of valid votes": 642,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 650,
+      "candidate_votes": [
+        432,
+        42,
+        162,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 117,
+      "Total Number of valid votes": 531,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 539,
+      "candidate_votes": [
+        504,
+        8,
+        15,
+        0,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 118,
+      "Total Number of valid votes": 581,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 582,
+      "candidate_votes": [
+        534,
+        6,
+        38,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 119,
+      "Total Number of valid votes": 567,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 578,
+      "candidate_votes": [
+        522,
+        6,
+        36,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 120,
+      "Total Number of valid votes": 430,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 439,
+      "candidate_votes": [
+        414,
+        3,
+        12,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 121,
+      "Total Number of valid votes": 546,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 559,
+      "candidate_votes": [
+        520,
+        5,
+        21,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 122,
+      "Total Number of valid votes": 393,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 401,
+      "candidate_votes": [
+        376,
+        2,
+        13,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 123,
+      "Total Number of valid votes": 438,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 445,
+      "candidate_votes": [
+        413,
+        0,
+        24,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 124,
+      "Total Number of valid votes": 459,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 469,
+      "candidate_votes": [
+        277,
+        55,
+        119,
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 125,
+      "Total Number of valid votes": 365,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 378,
+      "candidate_votes": [
+        271,
+        14,
+        74,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 126,
+      "Total Number of valid votes": 391,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 400,
+      "candidate_votes": [
+        243,
+        28,
+        114,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 127,
+      "Total Number of valid votes": 334,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 342,
+      "candidate_votes": [
+        182,
+        33,
+        114,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 128,
+      "Total Number of valid votes": 567,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 573,
+      "candidate_votes": [
+        357,
+        51,
+        151,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 129,
+      "Total Number of valid votes": 609,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 616,
+      "candidate_votes": [
+        566,
+        8,
+        33,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 130,
+      "Total Number of valid votes": 611,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 620,
+      "candidate_votes": [
+        557,
+        14,
+        36,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 131,
+      "Total Number of valid votes": 789,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 803,
+      "candidate_votes": [
+        726,
+        6,
+        54,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 132,
+      "Total Number of valid votes": 540,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 545,
+      "candidate_votes": [
+        469,
+        12,
+        58,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 133,
+      "Total Number of valid votes": 502,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 507,
+      "candidate_votes": [
+        440,
+        10,
+        51,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 134,
+      "Total Number of valid votes": 724,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 736,
+      "candidate_votes": [
+        589,
+        27,
+        103,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 135,
+      "Total Number of valid votes": 592,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 601,
+      "candidate_votes": [
+        452,
+        46,
+        86,
+        3,
+        5,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 136,
+      "Total Number of valid votes": 642,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 649,
+      "candidate_votes": [
+        468,
+        55,
+        118,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 137,
+      "Total Number of valid votes": 589,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 593,
+      "candidate_votes": [
+        479,
+        38,
+        69,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 138,
+      "Total Number of valid votes": 575,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 586,
+      "candidate_votes": [
+        463,
+        20,
+        85,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 139,
+      "Total Number of valid votes": 343,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 353,
+      "candidate_votes": [
+        283,
+        28,
+        31,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 140,
+      "Total Number of valid votes": 385,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 389,
+      "candidate_votes": [
+        272,
+        9,
+        99,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 141,
+      "Total Number of valid votes": 463,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 469,
+      "candidate_votes": [
+        395,
+        33,
+        32,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 142,
+      "Total Number of valid votes": 633,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 639,
+      "candidate_votes": [
+        551,
+        21,
+        57,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 143,
+      "Total Number of valid votes": 662,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 676,
+      "candidate_votes": [
+        581,
+        19,
+        61,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 144,
+      "Total Number of valid votes": 465,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 471,
+      "candidate_votes": [
+        357,
+        40,
+        67,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 145,
+      "Total Number of valid votes": 318,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 324,
+      "candidate_votes": [
+        284,
+        8,
+        25,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 146,
+      "Total Number of valid votes": 400,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 405,
+      "candidate_votes": [
+        339,
+        32,
+        28,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 147,
+      "Total Number of valid votes": 609,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 612,
+      "candidate_votes": [
+        235,
+        29,
+        323,
+        17,
+        2,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 148,
+      "Total Number of valid votes": 437,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 440,
+      "candidate_votes": [
+        234,
+        16,
+        165,
+        15,
+        4,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 149,
+      "Total Number of valid votes": 605,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 613,
+      "candidate_votes": [
+        306,
+        38,
+        237,
+        21,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 150,
+      "Total Number of valid votes": 542,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 549,
+      "candidate_votes": [
+        213,
+        28,
+        271,
+        24,
+        3,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 151,
+      "Total Number of valid votes": 543,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 549,
+      "candidate_votes": [
+        289,
+        46,
+        199,
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 152,
+      "Total Number of valid votes": 507,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 518,
+      "candidate_votes": [
+        236,
+        26,
+        226,
+        15,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 153,
+      "Total Number of valid votes": 416,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 428,
+      "candidate_votes": [
+        174,
+        33,
+        203,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 154,
+      "Total Number of valid votes": 369,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 379,
+      "candidate_votes": [
+        194,
+        25,
+        141,
+        6,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 155,
+      "Total Number of valid votes": 547,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 553,
+      "candidate_votes": [
+        271,
+        24,
+        230,
+        19,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 156,
+      "Total Number of valid votes": 567,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 572,
+      "candidate_votes": [
+        251,
+        67,
+        218,
+        22,
+        3,
+        6
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 157,
+      "Total Number of valid votes": 604,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 612,
+      "candidate_votes": [
+        305,
+        36,
+        225,
+        30,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 158,
+      "Total Number of valid votes": 460,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 465,
+      "candidate_votes": [
+        197,
+        44,
+        203,
+        15,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 159,
+      "Total Number of valid votes": 261,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 263,
+      "candidate_votes": [
+        53,
+        10,
+        100,
+        97,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 160,
+      "Total Number of valid votes": 198,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 200,
+      "candidate_votes": [
+        60,
+        7,
+        61,
+        66,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 161,
+      "Total Number of valid votes": 564,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 573,
+      "candidate_votes": [
+        227,
+        37,
+        205,
+        82,
+        7,
+        6
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 162,
+      "Total Number of valid votes": 555,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 563,
+      "candidate_votes": [
+        219,
+        52,
+        227,
+        54,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 163,
+      "Total Number of valid votes": 521,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 531,
+      "candidate_votes": [
+        218,
+        40,
+        192,
+        62,
+        3,
+        6
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 164,
+      "Total Number of valid votes": 388,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 393,
+      "candidate_votes": [
+        208,
+        19,
+        118,
+        40,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 165,
+      "Total Number of valid votes": 728,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 737,
+      "candidate_votes": [
+        252,
+        93,
+        259,
+        119,
+        1,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 166,
+      "Total Number of valid votes": 538,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 542,
+      "candidate_votes": [
+        172,
+        61,
+        217,
+        80,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 167,
+      "Total Number of valid votes": 355,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 359,
+      "candidate_votes": [
+        130,
+        46,
+        135,
+        40,
+        3,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 168,
+      "Total Number of valid votes": 301,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 305,
+      "candidate_votes": [
+        135,
+        60,
+        100,
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 169,
+      "Total Number of valid votes": 404,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 415,
+      "candidate_votes": [
+        172,
+        81,
+        140,
+        6,
+        2,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 170,
+      "Total Number of valid votes": 638,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 646,
+      "candidate_votes": [
+        409,
+        95,
+        125,
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 171,
+      "Total Number of valid votes": 665,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 676,
+      "candidate_votes": [
+        346,
+        123,
+        169,
+        25,
+        0,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 172,
+      "Total Number of valid votes": 578,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 582,
+      "candidate_votes": [
+        249,
+        142,
+        178,
+        6,
+        0,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 173,
+      "Total Number of valid votes": 563,
+      "Number of Rejected votes": 0,
+      "NOTA": 16,
+      "Total": 579,
+      "candidate_votes": [
+        367,
+        6,
+        182,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 174,
+      "Total Number of valid votes": 436,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 444,
+      "candidate_votes": [
+        217,
+        20,
+        184,
+        7,
+        3,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 175,
+      "Total Number of valid votes": 360,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 369,
+      "candidate_votes": [
+        179,
+        19,
+        158,
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 176,
+      "Total Number of valid votes": 519,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 529,
+      "candidate_votes": [
+        269,
+        54,
+        186,
+        8,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 177,
+      "Total Number of valid votes": 343,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 349,
+      "candidate_votes": [
+        195,
+        23,
+        122,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 178,
+      "Total Number of valid votes": 477,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 490,
+      "candidate_votes": [
+        231,
+        42,
+        196,
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 179,
+      "Total Number of valid votes": 370,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 377,
+      "candidate_votes": [
+        185,
+        16,
+        161,
+        8,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 180,
+      "Total Number of valid votes": 380,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 389,
+      "candidate_votes": [
+        185,
+        15,
+        159,
+        17,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 181,
+      "Total Number of valid votes": 384,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 391,
+      "candidate_votes": [
+        200,
+        17,
+        137,
+        23,
+        4,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 182,
+      "Total Number of valid votes": 396,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 406,
+      "candidate_votes": [
+        165,
+        14,
+        129,
+        80,
+        4,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 183,
+      "Total Number of valid votes": 363,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 371,
+      "candidate_votes": [
+        175,
+        13,
+        162,
+        5,
+        2,
+        6
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 184,
+      "Total Number of valid votes": 432,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 437,
+      "candidate_votes": [
+        143,
+        12,
+        182,
+        94,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 185,
+      "Total Number of valid votes": 456,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 459,
+      "candidate_votes": [
+        191,
+        16,
+        231,
+        16,
+        0,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 186,
+      "Total Number of valid votes": 387,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 392,
+      "candidate_votes": [
+        154,
+        25,
+        198,
+        8,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 187,
+      "Total Number of valid votes": 503,
+      "Number of Rejected votes": 0,
+      "NOTA": 22,
+      "Total": 525,
+      "candidate_votes": [
+        193,
+        19,
+        283,
+        4,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 188,
+      "Total Number of valid votes": 622,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 630,
+      "candidate_votes": [
+        305,
+        45,
+        250,
+        15,
+        2,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 189,
+      "Total Number of valid votes": 563,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 571,
+      "candidate_votes": [
+        342,
+        25,
+        184,
+        7,
+        4,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 190,
+      "Total Number of valid votes": 584,
+      "Number of Rejected votes": 0,
+      "NOTA": 16,
+      "Total": 600,
+      "candidate_votes": [
+        274,
+        19,
+        260,
+        22,
+        4,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 191,
+      "Total Number of valid votes": 488,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 497,
+      "candidate_votes": [
+        287,
+        18,
+        175,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 192,
+      "Total Number of valid votes": 283,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 288,
+      "candidate_votes": [
+        109,
+        59,
+        100,
+        13,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 193,
+      "Total Number of valid votes": 312,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 319,
+      "candidate_votes": [
+        120,
+        47,
+        135,
+        6,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 194,
+      "Total Number of valid votes": 514,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 517,
+      "candidate_votes": [
+        229,
+        137,
+        146,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 195,
+      "Total Number of valid votes": 548,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 554,
+      "candidate_votes": [
+        255,
+        152,
+        137,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 196,
+      "Total Number of valid votes": 487,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 493,
+      "candidate_votes": [
+        286,
+        63,
+        135,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 197,
+      "Total Number of valid votes": 442,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 444,
+      "candidate_votes": [
+        245,
+        65,
+        131,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 198,
+      "Total Number of valid votes": 482,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 491,
+      "candidate_votes": [
+        188,
+        125,
+        157,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 199,
+      "Total Number of valid votes": 652,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 654,
+      "candidate_votes": [
+        366,
+        47,
+        212,
+        14,
+        4,
+        9
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 200,
+      "Total Number of valid votes": 601,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 612,
+      "candidate_votes": [
+        275,
+        65,
+        238,
+        15,
+        1,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 201,
+      "Total Number of valid votes": 836,
+      "Number of Rejected votes": 0,
+      "NOTA": 18,
+      "Total": 854,
+      "candidate_votes": [
+        588,
+        97,
+        144,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 202,
+      "Total Number of valid votes": 607,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 617,
+      "candidate_votes": [
+        434,
+        65,
+        104,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 203,
+      "Total Number of valid votes": 663,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 673,
+      "candidate_votes": [
+        481,
+        43,
+        139,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 204,
+      "Total Number of valid votes": 770,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 779,
+      "candidate_votes": [
+        649,
+        33,
+        83,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 205,
+      "Total Number of valid votes": 638,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 648,
+      "candidate_votes": [
+        442,
+        53,
+        139,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 206,
+      "Total Number of valid votes": 699,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 709,
+      "candidate_votes": [
+        402,
+        154,
+        142,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 207,
+      "Total Number of valid votes": 726,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 737,
+      "candidate_votes": [
+        649,
+        19,
+        55,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 208,
+      "Total Number of valid votes": 574,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 579,
+      "candidate_votes": [
+        525,
+        13,
+        34,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 209,
+      "Total Number of valid votes": 569,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 579,
+      "candidate_votes": [
+        503,
+        18,
+        47,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 210,
+      "Total Number of valid votes": 613,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 618,
+      "candidate_votes": [
+        566,
+        20,
+        26,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 211,
+      "Total Number of valid votes": 528,
+      "Number of Rejected votes": 0,
+      "NOTA": 13,
+      "Total": 541,
+      "candidate_votes": [
+        343,
+        45,
+        137,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 212,
+      "Total Number of valid votes": 470,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 479,
+      "candidate_votes": [
+        420,
+        12,
+        37,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 213,
+      "Total Number of valid votes": 524,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 530,
+      "candidate_votes": [
+        427,
+        22,
+        63,
+        3,
+        2,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 214,
+      "Total Number of valid votes": 548,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 553,
+      "candidate_votes": [
+        462,
+        23,
+        62,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 215,
+      "Total Number of valid votes": 572,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 583,
+      "candidate_votes": [
+        420,
+        60,
+        88,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 216,
+      "Total Number of valid votes": 482,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 489,
+      "candidate_votes": [
+        258,
+        78,
+        142,
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 217,
+      "Total Number of valid votes": 577,
+      "Number of Rejected votes": 0,
+      "NOTA": 17,
+      "Total": 594,
+      "candidate_votes": [
+        426,
+        36,
+        113,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 218,
+      "Total Number of valid votes": 598,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 608,
+      "candidate_votes": [
+        480,
+        33,
+        85,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 219,
+      "Total Number of valid votes": 697,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 704,
+      "candidate_votes": [
+        502,
+        73,
+        119,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 220,
+      "Total Number of valid votes": 485,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 490,
+      "candidate_votes": [
+        381,
+        29,
+        71,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 221,
+      "Total Number of valid votes": 351,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 355,
+      "candidate_votes": [
+        253,
+        31,
+        65,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 222,
+      "Total Number of valid votes": 535,
+      "Number of Rejected votes": 0,
+      "NOTA": 16,
+      "Total": 551,
+      "candidate_votes": [
+        434,
+        30,
+        71,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 223,
+      "Total Number of valid votes": 542,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 549,
+      "candidate_votes": [
+        494,
+        7,
+        40,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 224,
+      "Total Number of valid votes": 585,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 596,
+      "candidate_votes": [
+        458,
+        34,
+        92,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 225,
+      "Total Number of valid votes": 685,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 689,
+      "candidate_votes": [
+        416,
+        42,
+        222,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 226,
+      "Total Number of valid votes": 495,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 500,
+      "candidate_votes": [
+        354,
+        34,
+        102,
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 227,
+      "Total Number of valid votes": 496,
+      "Number of Rejected votes": 0,
+      "NOTA": 16,
+      "Total": 512,
+      "candidate_votes": [
+        302,
+        40,
+        147,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 228,
+      "Total Number of valid votes": 574,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 581,
+      "candidate_votes": [
+        368,
+        57,
+        145,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 229,
+      "Total Number of valid votes": 588,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 595,
+      "candidate_votes": [
+        290,
+        111,
+        184,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 230,
+      "Total Number of valid votes": 502,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 516,
+      "candidate_votes": [
+        312,
+        51,
+        134,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 231,
+      "Total Number of valid votes": 354,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 360,
+      "candidate_votes": [
+        289,
+        7,
+        58,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 232,
+      "Total Number of valid votes": 534,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 540,
+      "candidate_votes": [
+        424,
+        18,
+        83,
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 233,
+      "Total Number of valid votes": 596,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 603,
+      "candidate_votes": [
+        356,
+        65,
+        171,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 234,
+      "Total Number of valid votes": 422,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 428,
+      "candidate_votes": [
+        285,
+        32,
+        100,
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 235,
+      "Total Number of valid votes": 594,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 605,
+      "candidate_votes": [
+        343,
+        85,
+        165,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 236,
+      "Total Number of valid votes": 617,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 625,
+      "candidate_votes": [
+        484,
+        32,
+        93,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 237,
+      "Total Number of valid votes": 599,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 603,
+      "candidate_votes": [
+        421,
+        51,
+        124,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 238,
+      "Total Number of valid votes": 469,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 472,
+      "candidate_votes": [
+        292,
+        45,
+        118,
+        9,
+        2,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 239,
+      "Total Number of valid votes": 430,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 437,
+      "candidate_votes": [
+        202,
+        38,
+        189,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 240,
+      "Total Number of valid votes": 637,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 642,
+      "candidate_votes": [
+        350,
+        31,
+        244,
+        6,
+        6,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 241,
+      "Total Number of valid votes": 519,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 528,
+      "candidate_votes": [
+        332,
+        19,
+        163,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 242,
+      "Total Number of valid votes": 548,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 562,
+      "candidate_votes": [
+        253,
+        37,
+        247,
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 243,
+      "Total Number of valid votes": 238,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 245,
+      "candidate_votes": [
+        118,
+        23,
+        94,
+        3,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 244,
+      "Total Number of valid votes": 300,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 302,
+      "candidate_votes": [
+        114,
+        62,
+        113,
+        5,
+        5,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 245,
+      "Total Number of valid votes": 552,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 564,
+      "candidate_votes": [
+        361,
+        16,
+        169,
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 246,
+      "Total Number of valid votes": 490,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 498,
+      "candidate_votes": [
+        241,
+        31,
+        209,
+        4,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 247,
+      "Total Number of valid votes": 615,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 622,
+      "candidate_votes": [
+        279,
+        33,
+        294,
+        0,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 248,
+      "Total Number of valid votes": 540,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 545,
+      "candidate_votes": [
+        129,
+        17,
+        387,
+        3,
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 249,
+      "Total Number of valid votes": 483,
+      "Number of Rejected votes": 0,
+      "NOTA": 20,
+      "Total": 503,
+      "candidate_votes": [
+        287,
+        35,
+        151,
+        2,
+        4,
+        4,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 250,
+      "Total Number of valid votes": 406,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 414,
+      "candidate_votes": [
+        266,
+        14,
+        122,
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 251,
+      "Total Number of valid votes": 660,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 666,
+      "candidate_votes": [
+        284,
+        125,
+        243,
+        6,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 252,
+      "Total Number of valid votes": 667,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 672,
+      "candidate_votes": [
+        314,
+        129,
+        211,
+        2,
+        8,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 253,
+      "Total Number of valid votes": 532,
+      "Number of Rejected votes": 0,
+      "NOTA": 12,
+      "Total": 544,
+      "candidate_votes": [
+        280,
+        76,
+        168,
+        5,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 254,
+      "Total Number of valid votes": 493,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 497,
+      "candidate_votes": [
+        212,
+        88,
+        189,
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 255,
+      "Total Number of valid votes": 590,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 599,
+      "candidate_votes": [
+        285,
+        77,
+        208,
+        13,
+        5,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 256,
+      "Total Number of valid votes": 655,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 664,
+      "candidate_votes": [
+        324,
+        79,
+        223,
+        29,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 257,
+      "Total Number of valid votes": 290,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 299,
+      "candidate_votes": [
+        219,
+        8,
+        59,
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 258,
+      "Total Number of valid votes": 622,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 631,
+      "candidate_votes": [
+        483,
+        28,
+        104,
+        4,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 259,
+      "Total Number of valid votes": 443,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 447,
+      "candidate_votes": [
+        202,
+        32,
+        205,
+        3,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 260,
+      "Total Number of valid votes": 485,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 487,
+      "candidate_votes": [
+        230,
+        32,
+        219,
+        1,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 261,
+      "Total Number of valid votes": 419,
+      "Number of Rejected votes": 0,
+      "NOTA": 8,
+      "Total": 427,
+      "candidate_votes": [
+        344,
+        2,
+        70,
+        1,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 262,
+      "Total Number of valid votes": 490,
+      "Number of Rejected votes": 0,
+      "NOTA": 10,
+      "Total": 500,
+      "candidate_votes": [
+        366,
+        17,
+        101,
+        2,
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 263,
+      "Total Number of valid votes": 542,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 547,
+      "candidate_votes": [
+        377,
+        18,
+        145,
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 264,
+      "Total Number of valid votes": 547,
+      "Number of Rejected votes": 0,
+      "NOTA": 14,
+      "Total": 561,
+      "candidate_votes": [
+        369,
+        43,
+        127,
+        2,
+        4,
+        2,
+        0
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "ALAVANI PARAG"
+    },
+    {
+      "candidate_name": "JULEE OMKAR SHENDE"
+    },
+    {
+      "candidate_name": "SANDEEP RAJU NAIK"
+    },
+    {
+      "candidate_name": "SANTOSH GANPAT AMBULGE"
+    },
+    {
+      "candidate_name": "SUPRIYA UDAY PIMPLE"
+    },
+    {
+      "candidate_name": "HARBANS SINGH BANWAIT BITTU BHAI"
+    }
+  ],
+  "candidate_names": [
+    "ALAVANI PARAG",
+    "JULEE OMKAR SHENDE",
+    "SANDEEP RAJU NAIK",
+    "SANTOSH GANPAT AMBULGE",
+    "SUPRIYA UDAY PIMPLE",
+    "HARBANS SINGH BANWAIT BITTU BHAI"
+  ],
+  "extraction_method": "gemini_vision_llm",
+  "api_model": "gemini-2.5-pro",
+  "pages_available": 14,
+  "pages_processed": 12,
+  "pages_skipped": 2
+}
