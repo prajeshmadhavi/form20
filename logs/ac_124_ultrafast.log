@@ -1,0 +1,50 @@
+⚡ ULTRA-FAST PROCESSING AC_124
+📁 PDF: LOKSABHA_2024/21 - Nashik/AC_124.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 4 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+
+⚡ Processing 2 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/2 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/2 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 25.5s (vs ~60-95s with Pro)
+📝 Response: 7888 chars
+✅ JSON extracted
+📊 20 polling stations
+
+✅ Page 1 DONE! (1/2)
+⚡ API response in 39.7s (vs ~60-95s with Pro)
+📝 Response: 23863 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 2 DONE! (2/2)
+
+📦 Merging results from 2 pages...
+📊 Total polling stations: 47
+
+✅ Successfully processed 2/2 pages
+
+💾 Results saved: parsedData/AC_124.json (27,149 bytes)
+📊 Constituency: 124 - Nashik Central (Gen)
+📊 Total Electors: 328,161
+📊 Polling Stations: 47
+📊 Candidates: 29

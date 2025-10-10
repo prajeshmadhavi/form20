@@ -1,0 +1,110 @@
+⚡ ULTRA-FAST PROCESSING AC_285
+📁 PDF: LOKSABHA_2024/44 - Sangli/AC_285.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 8 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+
+⚡ Processing 6 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1619x1010 pixels
+
+============================================================
+📄 PAGE 3/6 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1619x1007 pixels
+
+============================================================
+📄 PAGE 4/6 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1615x1007 pixels
+
+============================================================
+📄 PAGE 5/6 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1615x1010 pixels
+
+============================================================
+📄 PAGE 6/6 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1615x1009 pixels
+📐 Original size: 1615x1010 pixels
+✅ Compressed to: 1600x995 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1001 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1001 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x998 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x998 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1000 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 29.1s (vs ~60-95s with Pro)
+📝 Response: 10375 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 1 DONE! (1/6)
+⚡ API response in 33.4s (vs ~60-95s with Pro)
+📝 Response: 12945 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 3 DONE! (2/6)
+⚡ API response in 34.3s (vs ~60-95s with Pro)
+📝 Response: 12854 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 4 DONE! (3/6)
+⚡ API response in 34.6s (vs ~60-95s with Pro)
+📝 Response: 20997 chars
+✅ JSON extracted
+📊 39 polling stations
+
+✅ Page 6 DONE! (4/6)
+⚡ API response in 35.7s (vs ~60-95s with Pro)
+📝 Response: 21934 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 5 DONE! (5/6)
+⚡ API response in 37.5s (vs ~60-95s with Pro)
+📝 Response: 22169 chars
+✅ JSON extracted
+📊 39 polling stations
+
+✅ Page 2 DONE! (6/6)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 229
+
+✅ Successfully processed 6/6 pages
+
+💾 Results saved: parsedData/AC_285.json (85,322 bytes)
+📊 Constituency: 44 - SANGLI PARLIAMENTARY CONSTITUENCY
+📊 Total Electors: 284,575
+📊 Polling Stations: 229
+📊 Candidates: 17

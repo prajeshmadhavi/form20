@@ -1,0 +1,15 @@
+{
+  "Constituency Number": 37,
+  "constituency_name": "Badnera (Gen)",
+  "Total Number of Electors": 338363,
+  "serial_no_wise_details": [],
+  "candidates": [],
+  "candidate_names": [],
+  "extraction_method": "gemini_vision_ultrafast",
+  "api_model": "gemini-2.0-flash",
+  "pages_available": 4,
+  "pages_processed": 2,
+  "pages_skipped": 2,
+  "parallel_workers": 15,
+  "dpi": 120
+}

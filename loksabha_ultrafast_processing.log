@@ -1,0 +1,41 @@
+================================================================
+LOKSABHA_2024 ULTRA-FAST BATCH PROCESSING
+================================================================
+✅ Loaded and exported API keys from .env
+✅ GEMINI_API_KEY is set: AIzaSyBsu4z9kHsVqZMF...
+
+⚡ ULTRA-FAST Configuration:
+   Model: gemini-2.0-flash (2,000 RPM)
+   Workers per file: 10
+   Parallel files: 2
+   DPI: 150
+   Expected speed: ~40-60 seconds per file (vs 20-30 minutes!)
+
+Processing AC_1 to AC_288
+
+✅ AC_1 already processed (106534 bytes) - SKIPPING
+✅ AC_2 already processed (106514 bytes) - SKIPPING
+✅ AC_3 already processed (80611 bytes) - SKIPPING
+✅ AC_4 already processed (98641 bytes) - SKIPPING
+✅ AC_5 already processed (113977 bytes) - SKIPPING
+✅ AC_6 already processed (134561 bytes) - SKIPPING
+✅ AC_7 already processed (95314 bytes) - SKIPPING
+✅ AC_8 already processed (113613 bytes) - SKIPPING
+✅ AC_9 already processed (98338 bytes) - SKIPPING
+✅ AC_10 already processed (851024 bytes) - SKIPPING
+✅ AC_11 already processed (847157 bytes) - SKIPPING
+✅ AC_12 already processed (880133 bytes) - SKIPPING
+⚡ Starting AC_13 in background (13/288)
+⚡ Starting AC_14 in background (14/288)
+✅ AC_13 COMPLETED (600588 bytes)
+⚡ Starting AC_15 in background (15/288)
+✅ AC_14 COMPLETED (630005 bytes)
+⚡ Starting AC_16 in background (16/288)
+✅ AC_15 COMPLETED (612570 bytes)
+⚡ Starting AC_17 in background (17/288)
+✅ AC_16 COMPLETED (608430 bytes)
+⚡ Starting AC_18 in background (18/288)
+✅ AC_17 COMPLETED (632177 bytes)
+⚡ Starting AC_19 in background (19/288)
+✅ AC_18 COMPLETED (620734 bytes)
+⚡ Starting AC_20 in background (20/288)

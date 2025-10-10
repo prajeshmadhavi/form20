@@ -1,0 +1,80 @@
+⚡ ULTRA-FAST PROCESSING AC_216
+📁 PDF: LOKSABHA_2024/38 - Shirdi (SC)/AC_216.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 6 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+
+⚡ Processing 4 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/4 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/4 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/4 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/4 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 36.0s (vs ~60-95s with Pro)
+📝 Response: 20214 chars
+✅ JSON extracted
+📊 52 polling stations
+
+✅ Page 3 DONE! (1/4)
+⚡ API response in 40.4s (vs ~60-95s with Pro)
+📝 Response: 15773 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 2 DONE! (2/4)
+⚡ API response in 42.4s (vs ~60-95s with Pro)
+📝 Response: 16820 chars
+✅ JSON extracted
+📊 57 polling stations
+
+✅ Page 1 DONE! (3/4)
+⚡ API response in 50.1s (vs ~60-95s with Pro)
+📝 Response: 30556 chars
+✅ JSON extracted
+📊 50 polling stations
+
+✅ Page 4 DONE! (4/4)
+
+📦 Merging results from 4 pages...
+📊 Total polling stations: 190
+
+✅ Successfully processed 4/4 pages
+
+💾 Results saved: parsedData/AC_216.json (66,489 bytes)
+📊 Constituency: 216 - Akole (ST) Assembly Election
+📊 Total Electors: 261,219
+📊 Polling Stations: 190
+📊 Candidates: 20

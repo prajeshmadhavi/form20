@@ -1,0 +1,93 @@
+⚡ ULTRA-FAST PROCESSING AC_100
+📁 PDF: LOKSABHA_2024/17 - Parbhani/AC_100.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+⚡ Processing 5 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 997x1407 pixels
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 997x1407 pixels
+📐 Original size: 997x1405 pixels
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 997x1405 pixels
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 995x1407 pixels
+✅ Compressed to: 997x1407 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 997x1405 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 995x1407 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 997x1405 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 997x1407 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 15.5s (vs ~60-95s with Pro)
+📝 Response: 4944 chars
+✅ JSON extracted
+📊 8 polling stations
+
+✅ Page 5 DONE! (1/5)
+⚡ API response in 16.4s (vs ~60-95s with Pro)
+📝 Response: 8113 chars
+✅ JSON extracted
+📊 7 polling stations
+
+✅ Page 2 DONE! (2/5)
+⚡ API response in 18.7s (vs ~60-95s with Pro)
+📝 Response: 5599 chars
+✅ JSON extracted
+📊 10 polling stations
+
+✅ Page 3 DONE! (3/5)
+⚡ API response in 19.4s (vs ~60-95s with Pro)
+📝 Response: 11396 chars
+✅ JSON extracted
+📊 10 polling stations
+
+✅ Page 4 DONE! (4/5)
+⚡ API response in 56.1s (vs ~60-95s with Pro)
+📝 Response: 35071 chars
+❌ Error: Expecting ',' delimiter: line 1670 column 10 (char 34958)
+
+⚠️ Page 1 FAILED
+
+📦 Merging results from 4 pages...
+📊 Total polling stations: 35
+
+✅ Successfully processed 4/5 pages
+
+💾 Results saved: parsedData/AC_100.json (20,884 bytes)
+📊 Constituency: None - None
+📊 Polling Stations: 35
+📊 Candidates: 0

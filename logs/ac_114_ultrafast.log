@@ -1,0 +1,110 @@
+⚡ ULTRA-FAST PROCESSING AC_114
+📁 PDF: LOKSABHA_2024/2 - Dhule/AC_114.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 8 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+
+⚡ Processing 6 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 2/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 3/6 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 4/6 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 5/6 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+
+============================================================
+📄 PAGE 6/6 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 992x1404 pixels
+📐 Original size: 992x1404 pixels
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 14.4s (vs ~60-95s with Pro)
+📝 Response: 5344 chars
+✅ JSON extracted
+📊 17 polling stations
+
+✅ Page 6 DONE! (1/6)
+⚡ API response in 23.8s (vs ~60-95s with Pro)
+📝 Response: 7945 chars
+✅ JSON extracted
+📊 22 polling stations
+
+✅ Page 3 DONE! (2/6)
+⚡ API response in 24.7s (vs ~60-95s with Pro)
+📝 Response: 9428 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 4 DONE! (3/6)
+⚡ API response in 29.5s (vs ~60-95s with Pro)
+📝 Response: 11373 chars
+✅ JSON extracted
+📊 36 polling stations
+
+✅ Page 1 DONE! (4/6)
+⚡ API response in 33.8s (vs ~60-95s with Pro)
+📝 Response: 12764 chars
+✅ JSON extracted
+📊 43 polling stations
+
+✅ Page 5 DONE! (5/6)
+⚡ API response in 38.2s (vs ~60-95s with Pro)
+📝 Response: 14283 chars
+✅ JSON extracted
+📊 45 polling stations
+
+✅ Page 2 DONE! (6/6)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 193
+
+✅ Successfully processed 6/6 pages
+
+💾 Results saved: parsedData/AC_114.json (75,664 bytes)
+📊 Constituency: 114 - Malegaon Central (Gen)
+📊 Total Electors: 302,466
+📊 Polling Stations: 193
+📊 Candidates: 17

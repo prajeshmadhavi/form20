@@ -1,0 +1,123 @@
+⚡ ULTRA-FAST PROCESSING AC_238
+📁 PDF: LOKSABHA_2024/41 - Latur (SC)/AC_238.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 9 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+
+⚡ Processing 7 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/7 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1029x1640 pixels
+📐 Original size: 1014x1637 pixels
+
+============================================================
+📄 PAGE 3/7 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/7 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/7 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1014x1637 pixels
+
+============================================================
+📄 PAGE 6/7 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1028x1647 pixels
+📐 Original size: 1028x1644 pixels
+
+============================================================
+📄 PAGE 7/7 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1014x1635 pixels
+📐 Original size: 1024x1643 pixels
+✅ Compressed to: 991x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1004x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 997x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 999x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 991x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1000x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 20.4s (vs ~60-95s with Pro)
+📝 Response: 11762 chars
+✅ JSON extracted
+📊 12 polling stations
+
+✅ Page 2 DONE! (1/7)
+⚡ API response in 21.9s (vs ~60-95s with Pro)
+📝 Response: 10665 chars
+✅ JSON extracted
+📊 34 polling stations
+
+✅ Page 7 DONE! (2/7)
+⚡ API response in 32.7s (vs ~60-95s with Pro)
+📝 Response: 11933 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 6 DONE! (3/7)
+⚡ API response in 39.1s (vs ~60-95s with Pro)
+📝 Response: 13781 chars
+✅ JSON extracted
+📊 35 polling stations
+
+✅ Page 3 DONE! (4/7)
+⚡ API response in 39.8s (vs ~60-95s with Pro)
+📝 Response: 23710 chars
+✅ JSON extracted
+📊 24 polling stations
+
+✅ Page 1 DONE! (5/7)
+⚡ API response in 43.2s (vs ~60-95s with Pro)
+📝 Response: 14419 chars
+❌ Error: Expecting ',' delimiter: line 266 column 10 (char 14168)
+
+⚠️ Page 4 FAILED
+⚡ API response in 45.0s (vs ~60-95s with Pro)
+📝 Response: 15483 chars
+✅ JSON extracted
+📊 41 polling stations
+
+✅ Page 5 DONE! (6/7)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 176
+
+✅ Successfully processed 6/7 pages
+
+💾 Results saved: parsedData/AC_238.json (84,795 bytes)
+📊 Constituency: None - None
+📊 Polling Stations: 176
+📊 Candidates: 28

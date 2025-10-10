@@ -1,0 +1,123 @@
+⚡ ULTRA-FAST PROCESSING AC_208
+📁 PDF: LOKSABHA_2024/34 - Pune/AC_208.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 9 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+
+⚡ Processing 7 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/7 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1020x1680 pixels
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 3/7 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 4/7 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/7 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+
+============================================================
+📄 PAGE 6/7 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1020x1680 pixels
+📐 Original size: 1020x1680 pixels
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 7/7 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1020x1680 pixels
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 33.2s (vs ~60-95s with Pro)
+📝 Response: 19829 chars
+✅ JSON extracted
+📊 34 polling stations
+
+✅ Page 1 DONE! (1/7)
+⚡ API response in 39.0s (vs ~60-95s with Pro)
+📝 Response: 16155 chars
+✅ JSON extracted
+📊 58 polling stations
+
+✅ Page 7 DONE! (2/7)
+⚡ API response in 43.9s (vs ~60-95s with Pro)
+📝 Response: 16787 chars
+✅ JSON extracted
+📊 58 polling stations
+
+✅ Page 5 DONE! (3/7)
+⚡ API response in 44.6s (vs ~60-95s with Pro)
+📝 Response: 28745 chars
+✅ JSON extracted
+📊 58 polling stations
+
+✅ Page 4 DONE! (4/7)
+⚡ API response in 46.3s (vs ~60-95s with Pro)
+📝 Response: 30909 chars
+✅ JSON extracted
+📊 58 polling stations
+
+✅ Page 2 DONE! (5/7)
+⚡ API response in 49.6s (vs ~60-95s with Pro)
+📝 Response: 33727 chars
+❌ Error: Expecting ',' delimiter: line 1524 column 10 (char 33239)
+
+⚠️ Page 6 FAILED
+⚡ API response in 53.1s (vs ~60-95s with Pro)
+📝 Response: 31874 chars
+✅ JSON extracted
+📊 58 polling stations
+
+✅ Page 3 DONE! (6/7)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 324
+
+✅ Successfully processed 6/7 pages
+
+💾 Results saved: parsedData/AC_208.json (115,358 bytes)
+📊 Constituency: 208 - VADGAON SHERI
+📊 Polling Stations: 324
+📊 Candidates: 15

@@ -1,0 +1,170 @@
+⚡ ULTRA-FAST PROCESSING AC_149
+📁 PDF: LOKSABHA_2024/24 - Kalyan/AC_149.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 12 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+
+⚡ Processing 10 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/10 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/10 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1630x1012 pixels
+📐 Original size: 1630x1012 pixels
+
+============================================================
+📄 PAGE 3/10 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/10 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1629x1012 pixels
+
+============================================================
+📄 PAGE 5/10 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1630x1012 pixels
+📐 Original size: 1630x1012 pixels
+
+============================================================
+📄 PAGE 6/10 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1632x1012 pixels
+
+============================================================
+📄 PAGE 7/10 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+
+============================================================
+📄 PAGE 8/10 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+
+============================================================
+📄 PAGE 9/10 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1629x1012 pixels
+📐 Original size: 1629x1012 pixels
+
+============================================================
+📄 PAGE 10/10 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+📐 Original size: 1632x1012 pixels
+📐 Original size: 1630x1012 pixels
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 29.5s (vs ~60-95s with Pro)
+📝 Response: 11393 chars
+✅ JSON extracted
+📊 39 polling stations
+
+✅ Page 10 DONE! (1/10)
+⚡ API response in 31.1s (vs ~60-95s with Pro)
+📝 Response: 18783 chars
+✅ JSON extracted
+📊 33 polling stations
+
+✅ Page 9 DONE! (2/10)
+⚡ API response in 32.9s (vs ~60-95s with Pro)
+📝 Response: 18627 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 2 DONE! (3/10)
+⚡ API response in 33.3s (vs ~60-95s with Pro)
+📝 Response: 11723 chars
+✅ JSON extracted
+📊 39 polling stations
+
+✅ Page 3 DONE! (4/10)
+⚡ API response in 34.5s (vs ~60-95s with Pro)
+📝 Response: 11100 chars
+✅ JSON extracted
+📊 29 polling stations
+
+✅ Page 1 DONE! (5/10)
+⚡ API response in 35.8s (vs ~60-95s with Pro)
+📝 Response: 21848 chars
+✅ JSON extracted
+📊 39 polling stations
+
+✅ Page 8 DONE! (6/10)
+⚡ API response in 40.5s (vs ~60-95s with Pro)
+📝 Response: 12957 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 5 DONE! (7/10)
+⚡ API response in 41.3s (vs ~60-95s with Pro)
+📝 Response: 22600 chars
+✅ JSON extracted
+📊 36 polling stations
+
+✅ Page 7 DONE! (8/10)
+⚡ API response in 43.8s (vs ~60-95s with Pro)
+📝 Response: 13743 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 6 DONE! (9/10)
+⚡ API response in 48.0s (vs ~60-95s with Pro)
+📝 Response: 29658 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 4 DONE! (10/10)
+
+📦 Merging results from 10 pages...
+📊 Total polling stations: 375
+
+✅ Successfully processed 10/10 pages
+
+💾 Results saved: parsedData/AC_149.json (160,070 bytes)
+📊 Constituency: 24 - Kalyan Parliamentary Constituency
+📊 Total Electors: 443,661
+📊 Polling Stations: 375
+📊 Candidates: 27

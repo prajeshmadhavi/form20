@@ -1,0 +1,200 @@
+⚡ ULTRA-FAST PROCESSING AC_255
+📁 PDF: LOKSABHA_2024/43 - Madha/AC_255.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 14 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+
+⚡ Processing 12 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/12 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/12 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 3/12 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1022x1680 pixels
+
+============================================================
+📄 PAGE 4/12 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 5/12 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1020x1680 pixels
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 6/12 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 7/12 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+
+============================================================
+📄 PAGE 8/12 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1020x1680 pixels
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 9/12 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 10/12 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+
+============================================================
+📄 PAGE 11/12 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_11.png
+📐 Original size: 1020x1680 pixels
+
+============================================================
+📄 PAGE 12/12 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_12.png
+📐 Original size: 1022x1680 pixels
+📐 Original size: 1020x1680 pixels
+✅ Compressed to: 973x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 973x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 971x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 18.8s (vs ~60-95s with Pro)
+📝 Response: 11047 chars
+✅ JSON extracted
+📊 26 polling stations
+
+✅ Page 12 DONE! (1/12)
+⚡ API response in 21.0s (vs ~60-95s with Pro)
+📝 Response: 7397 chars
+✅ JSON extracted
+📊 17 polling stations
+
+✅ Page 1 DONE! (2/12)
+⚡ API response in 24.6s (vs ~60-95s with Pro)
+📝 Response: 9089 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 3 DONE! (3/12)
+⚡ API response in 25.2s (vs ~60-95s with Pro)
+📝 Response: 8653 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 4 DONE! (4/12)
+⚡ API response in 28.7s (vs ~60-95s with Pro)
+📝 Response: 17084 chars
+✅ JSON extracted
+📊 24 polling stations
+
+✅ Page 6 DONE! (5/12)
+⚡ API response in 31.3s (vs ~60-95s with Pro)
+📝 Response: 10222 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 8 DONE! (6/12)
+⚡ API response in 31.8s (vs ~60-95s with Pro)
+📝 Response: 10585 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 10 DONE! (7/12)
+⚡ API response in 31.8s (vs ~60-95s with Pro)
+📝 Response: 10591 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 2 DONE! (8/12)
+⚡ API response in 32.0s (vs ~60-95s with Pro)
+📝 Response: 10774 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 5 DONE! (9/12)
+⚡ API response in 32.9s (vs ~60-95s with Pro)
+📝 Response: 11366 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 11 DONE! (10/12)
+⚡ API response in 33.9s (vs ~60-95s with Pro)
+📝 Response: 20204 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 7 DONE! (11/12)
+⚡ API response in 35.1s (vs ~60-95s with Pro)
+📝 Response: 11116 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 9 DONE! (12/12)
+
+📦 Merging results from 12 pages...
+📊 Total polling stations: 308
+
+✅ Successfully processed 12/12 pages
+
+💾 Results saved: parsedData/AC_255.json (141,180 bytes)
+📊 Constituency: 255 - Phaltan (SC) Legislative Assembly Constituency
+📊 Total Electors: 335,999
+📊 Polling Stations: 308
+📊 Candidates: 32

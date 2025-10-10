@@ -1,0 +1,41 @@
+==================================
+PROCESSING REMAINING 2 PDFs
+==================================
+
+[1/2] Processing AC_113 - Nandgaon (Nashik)...
+PDF: VIDHANSABHA_2024/Nashik/AC_113.pdf
+Start: Thu Oct  9 11:32:30 UTC 2025
+
+Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/gemini_vision_extractor.py", line 147, in process_type3_pdf_with_gemini_vision
+    images = convert_from_path(str(pdf_path), dpi=300)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/pdf2image/pdf2image.py", line 269, in convert_from_path
+    images += parse_buffer_func(data)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/pdf2image/parsers.py", line 28, in parse_buffer_to_ppm
+    images.append(Image.open(BytesIO(data[index : index + file_size])))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/PIL/Image.py", line 3559, in open
+    im = _open_core(fp, filename, prefix, formats)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/PIL/Image.py", line 3548, in _open_core
+    _decompression_bomb_check(im.size)
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/PIL/Image.py", line 3449, in _decompression_bomb_check
+    raise DecompressionBombError(msg)
+PIL.Image.DecompressionBombError: Image size (209530878 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+🔍 PROCESSING AC_113 WITH GEMINI VISION LLM
+📁 PDF: VIDHANSABHA_2024/Nashik/AC_113.pdf
+📄 Converting PDF to images...
+❌ Error processing AC_113: Image size (209530878 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+❌ AC_113 processing failed
+
+Finished AC_113 at: Thu Oct  9 11:32:36 UTC 2025
+Exit code: 0
+
+==================================
+
+[2/2] Processing AC_234 - Latur Rural (Latur)...
+PDF: VIDHANSABHA_2024/Latur/AC_234.pdf
+Start: Thu Oct  9 11:32:39 UTC 2025
+

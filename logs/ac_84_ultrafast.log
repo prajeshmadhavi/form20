@@ -1,0 +1,200 @@
+⚡ ULTRA-FAST PROCESSING AC_84
+📁 PDF: LOKSABHA_2024/15 - Hingoli/AC_084.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 14 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+
+⚡ Processing 12 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/12 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/12 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x992 pixels
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 3/12 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/12 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x992 pixels
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 5/12 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+
+============================================================
+📄 PAGE 6/12 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1404x992 pixels
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 7/12 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 8/12 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 9/12 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 10/12 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+
+============================================================
+📄 PAGE 11/12 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_11.png
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 12/12 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_12.png
+📐 Original size: 1404x992 pixels
+📐 Original size: 1404x992 pixels
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 26.6s (vs ~60-95s with Pro)
+📝 Response: 9309 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 8 DONE! (1/12)
+⚡ API response in 26.9s (vs ~60-95s with Pro)
+📝 Response: 14959 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 5 DONE! (2/12)
+⚡ API response in 27.5s (vs ~60-95s with Pro)
+📝 Response: 9289 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 3 DONE! (3/12)
+⚡ API response in 29.3s (vs ~60-95s with Pro)
+📝 Response: 16784 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 11 DONE! (4/12)
+⚡ API response in 30.2s (vs ~60-95s with Pro)
+📝 Response: 10275 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 12 DONE! (5/12)
+⚡ API response in 31.0s (vs ~60-95s with Pro)
+📝 Response: 18012 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 4 DONE! (6/12)
+⚡ API response in 31.8s (vs ~60-95s with Pro)
+📝 Response: 19417 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 7 DONE! (7/12)
+⚡ API response in 34.5s (vs ~60-95s with Pro)
+📝 Response: 21617 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 10 DONE! (8/12)
+⚡ API response in 34.7s (vs ~60-95s with Pro)
+📝 Response: 21326 chars
+✅ JSON extracted
+📊 22 polling stations
+
+✅ Page 1 DONE! (9/12)
+⚡ API response in 37.7s (vs ~60-95s with Pro)
+📝 Response: 23694 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 9 DONE! (10/12)
+⚡ API response in 38.8s (vs ~60-95s with Pro)
+📝 Response: 24746 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 6 DONE! (11/12)
+⚡ API response in 39.2s (vs ~60-95s with Pro)
+📝 Response: 24646 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 2 DONE! (12/12)
+
+📦 Merging results from 12 pages...
+📊 Total polling stations: 297
+
+✅ Successfully processed 12/12 pages
+
+💾 Results saved: parsedData/AC_084.json (148,356 bytes)
+📊 Constituency: 15 - HINGOLI PARLIAMENTARY CONSTITUENCY PART-I
+📊 Total Electors: 290,445
+📊 Polling Stations: 297
+📊 Candidates: 30

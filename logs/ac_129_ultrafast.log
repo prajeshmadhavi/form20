@@ -1,0 +1,169 @@
+⚡ ULTRA-FAST PROCESSING AC_129
+📁 PDF: LOKSABHA_2024/22 - Palghar (ST)/AC_129.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 12 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+
+⚡ Processing 10 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/10 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1629x1020 pixels
+
+============================================================
+📄 PAGE 2/10 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/10 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1628x1019 pixels
+📐 Original size: 1630x1019 pixels
+
+============================================================
+📄 PAGE 4/10 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/10 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1625x1018 pixels
+📐 Original size: 1626x1020 pixels
+
+============================================================
+📄 PAGE 6/10 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+
+============================================================
+📄 PAGE 7/10 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1630x1020 pixels
+
+============================================================
+📄 PAGE 8/10 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1628x1018 pixels
+📐 Original size: 1630x1022 pixels
+
+============================================================
+📄 PAGE 9/10 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1627x1019 pixels
+
+============================================================
+📄 PAGE 10/10 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+📐 Original size: 1629x1015 pixels
+✅ Compressed to: 1600x1002 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1000 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1001 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1003 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1000 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1002 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1002 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x1001 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 18.7s (vs ~60-95s with Pro)
+📝 Response: 7157 chars
+✅ JSON extracted
+📊 23 polling stations
+
+✅ Page 1 DONE! (1/10)
+⚡ API response in 22.3s (vs ~60-95s with Pro)
+📝 Response: 9748 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 5 DONE! (2/10)
+⚡ API response in 24.7s (vs ~60-95s with Pro)
+📝 Response: 9650 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 2 DONE! (3/10)
+⚡ API response in 24.8s (vs ~60-95s with Pro)
+📝 Response: 9648 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 3 DONE! (4/10)
+⚡ API response in 24.9s (vs ~60-95s with Pro)
+📝 Response: 9409 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 9 DONE! (5/10)
+⚡ API response in 25.2s (vs ~60-95s with Pro)
+📝 Response: 9709 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 8 DONE! (6/10)
+⚡ API response in 25.5s (vs ~60-95s with Pro)
+📝 Response: 9924 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 7 DONE! (7/10)
+⚡ API response in 26.8s (vs ~60-95s with Pro)
+📝 Response: 9926 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 10 DONE! (8/10)
+⚡ API response in 27.3s (vs ~60-95s with Pro)
+📝 Response: 9676 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 4 DONE! (9/10)
+⚡ API response in 31.4s (vs ~60-95s with Pro)
+📝 Response: 15488 chars
+✅ JSON extracted
+📊 32 polling stations
+
+✅ Page 6 DONE! (10/10)
+
+📦 Merging results from 10 pages...
+📊 Total polling stations: 310
+
+✅ Successfully processed 10/10 pages
+
+💾 Results saved: parsedData/AC_129.json (101,505 bytes)
+📊 Constituency: 22 - Palghar (ST) Parliamentary Constituency.
+📊 Polling Stations: 310
+📊 Candidates: 10

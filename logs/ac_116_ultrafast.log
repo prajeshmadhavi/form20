@@ -1,0 +1,95 @@
+⚡ ULTRA-FAST PROCESSING AC_116
+📁 PDF: LOKSABHA_2024/2 - Dhule/AC_116.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+⚡ Processing 5 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 35.4s (vs ~60-95s with Pro)
+📝 Response: 13590 chars
+✅ JSON extracted
+📊 44 polling stations
+
+✅ Page 2 DONE! (1/5)
+⚡ API response in 36.3s (vs ~60-95s with Pro)
+📝 Response: 14007 chars
+✅ JSON extracted
+📊 45 polling stations
+
+✅ Page 3 DONE! (2/5)
+⚡ API response in 37.8s (vs ~60-95s with Pro)
+📝 Response: 14105 chars
+✅ JSON extracted
+📊 45 polling stations
+
+✅ Page 1 DONE! (3/5)
+⚡ API response in 38.8s (vs ~60-95s with Pro)
+📝 Response: 14441 chars
+✅ JSON extracted
+📊 45 polling stations
+
+✅ Page 4 DONE! (4/5)
+⚡ API response in 39.5s (vs ~60-95s with Pro)
+📝 Response: 14443 chars
+✅ JSON extracted
+📊 44 polling stations
+
+✅ Page 5 DONE! (5/5)
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 223
+
+✅ Successfully processed 5/5 pages
+
+💾 Results saved: parsedData/AC_116.json (85,217 bytes)
+📊 Constituency: 116 - Baglan (ST)
+📊 Total Electors: 290,212
+📊 Polling Stations: 223
+📊 Candidates: 17

@@ -1,0 +1,648 @@
+⚡ ULTRA-FAST PROCESSING AC_241
+📁 PDF: LOKSABHA_2024/40 - Osmanabad/AC_241.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 45 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+💾 Saved: page_19.png
+💾 Saved: page_20.png
+💾 Saved: page_21.png
+💾 Saved: page_22.png
+💾 Saved: page_23.png
+💾 Saved: page_24.png
+💾 Saved: page_25.png
+💾 Saved: page_26.png
+💾 Saved: page_27.png
+💾 Saved: page_28.png
+💾 Saved: page_29.png
+💾 Saved: page_30.png
+💾 Saved: page_31.png
+💾 Saved: page_32.png
+💾 Saved: page_33.png
+💾 Saved: page_34.png
+💾 Saved: page_35.png
+💾 Saved: page_36.png
+💾 Saved: page_37.png
+💾 Saved: page_38.png
+💾 Saved: page_39.png
+💾 Saved: page_40.png
+💾 Saved: page_41.png
+💾 Saved: page_42.png
+💾 Saved: page_43.png
+💾 Saved: page_44.png
+💾 Saved: page_45.png
+
+⚡ Processing 43 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/43 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 2/43 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/43 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1414x1000 pixels
+
+============================================================
+📄 PAGE 4/43 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1409x994 pixels
+
+============================================================
+📄 PAGE 5/43 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1414x1004 pixels
+📐 Original size: 1412x1005 pixels
+
+============================================================
+📄 PAGE 6/43 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+
+============================================================
+📄 PAGE 7/43 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1405x997 pixels
+📐 Original size: 1404x999 pixels
+
+============================================================
+📄 PAGE 8/43 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1412x1004 pixels
+
+============================================================
+📄 PAGE 9/43 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+
+============================================================
+📄 PAGE 10/43 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+📐 Original size: 1404x999 pixels
+📐 Original size: 1405x999 pixels
+
+============================================================
+📄 PAGE 11/43 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_11.png
+
+============================================================
+📄 PAGE 12/43 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_12.png
+
+============================================================
+📄 PAGE 13/43 (Thread: ThreadPoolExecutor-0_12)
+============================================================
+📂 Loading image: page_13.png
+📐 Original size: 1405x999 pixels
+📐 Original size: 1404x999 pixels
+📐 Original size: 1410x1004 pixels
+
+============================================================
+📄 PAGE 14/43 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_14.png
+
+============================================================
+📄 PAGE 15/43 (Thread: ThreadPoolExecutor-0_14)
+============================================================
+📂 Loading image: page_15.png
+📐 Original size: 1409x999 pixels
+📐 Original size: 1405x997 pixels
+✅ Compressed to: 1405x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1414x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1414x1000 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1405x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1405x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1412x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1405x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1409x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1409x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1410x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1412x1005 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 7.0s (vs ~60-95s with Pro)
+📝 Response: 2891 chars
+✅ JSON extracted
+📊 1 polling stations
+
+============================================================
+📄 PAGE 16/43 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_16.png
+
+✅ Page 12 DONE! (1/43)
+📐 Original size: 1407x1004 pixels
+✅ Compressed to: 1407x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 18.4s (vs ~60-95s with Pro)
+📝 Response: 7884 chars
+✅ JSON extracted
+📊 6 polling stations
+
+============================================================
+📄 PAGE 17/43 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_17.png
+
+✅ Page 1 DONE! (2/43)
+📐 Original size: 1405x997 pixels
+✅ Compressed to: 1405x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 28.7s (vs ~60-95s with Pro)
+📝 Response: 18115 chars
+✅ JSON extracted
+📊 23 polling stations
+
+============================================================
+📄 PAGE 18/43 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_18.png
+
+✅ Page 7 DONE! (3/43)
+📐 Original size: 1405x997 pixels
+⚡ API response in 28.7s (vs ~60-95s with Pro)
+📝 Response: 11281 chars
+❌ Error: Extra data: line 20 column 6 (char 621)
+
+============================================================
+📄 PAGE 19/43 (Thread: ThreadPoolExecutor-0_14)
+============================================================
+📂 Loading image: page_19.png
+✅ Compressed to: 1405x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+
+⚠️ Page 15 FAILED
+📐 Original size: 1407x999 pixels
+✅ Compressed to: 1407x999 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 29.5s (vs ~60-95s with Pro)
+📝 Response: 9228 chars
+✅ JSON extracted
+📊 24 polling stations
+
+============================================================
+📄 PAGE 20/43 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_20.png
+📐 Original size: 1412x1005 pixels
+✅ Compressed to: 1412x1005 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 9.1s (vs ~60-95s with Pro)
+📝 Response: 5058 chars
+✅ JSON extracted
+📊 6 polling stations
+
+============================================================
+📄 PAGE 21/43 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_21.png
+
+✅ Page 20 DONE! (5/43)
+📐 Original size: 1417x1010 pixels
+✅ Compressed to: 1417x1010 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 32.0s (vs ~60-95s with Pro)
+📝 Response: 12052 chars
+✅ JSON extracted
+📊 41 polling stations
+
+============================================================
+📄 PAGE 22/43 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_22.png
+
+✅ Page 16 DONE! (6/43)
+📐 Original size: 1419x1009 pixels
+✅ Compressed to: 1419x1009 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 42.4s (vs ~60-95s with Pro)
+📝 Response: 16053 chars
+✅ JSON extracted
+📊 40 polling stations
+
+============================================================
+📄 PAGE 23/43 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_23.png
+
+✅ Page 11 DONE! (7/43)
+📐 Original size: 1417x1010 pixels
+✅ Compressed to: 1417x1010 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 44.3s (vs ~60-95s with Pro)
+📝 Response: 32300 chars
+❌ Error: Expecting ',' delimiter: line 1391 column 10 (char 32120)
+
+============================================================
+📄 PAGE 24/43 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_24.png
+
+⚠️ Page 3 FAILED
+📐 Original size: 1417x1009 pixels
+✅ Compressed to: 1417x1009 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 47.2s (vs ~60-95s with Pro)
+📝 Response: 33952 chars
+❌ Error: Expecting ',' delimiter: line 1563 column 10 (char 33480)
+
+============================================================
+📄 PAGE 25/43 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_25.png
+
+⚠️ Page 9 FAILED
+📐 Original size: 1420x1015 pixels
+✅ Compressed to: 1420x1015 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 47.4s (vs ~60-95s with Pro)
+📝 Response: 21884 chars
+✅ JSON extracted
+📊 79 polling stations
+
+============================================================
+📄 PAGE 26/43 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_26.png
+
+✅ Page 4 DONE! (8/43)
+📐 Original size: 1430x1015 pixels
+✅ Compressed to: 1430x1015 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 48.7s (vs ~60-95s with Pro)
+📝 Response: 33461 chars
+❌ Error: Expecting ',' delimiter: line 1515 column 10 (char 33401)
+
+============================================================
+📄 PAGE 27/43 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_27.png
+
+⚠️ Page 14 FAILED
+📐 Original size: 1432x1017 pixels
+✅ Compressed to: 1432x1017 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 51.7s (vs ~60-95s with Pro)
+📝 Response: 15779 chars
+✅ JSON extracted
+📊 43 polling stations
+
+============================================================
+📄 PAGE 28/43 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_28.png
+
+✅ Page 8 DONE! (9/43)
+📐 Original size: 1407x997 pixels
+✅ Compressed to: 1407x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 51.9s (vs ~60-95s with Pro)
+📝 Response: 34712 chars
+❌ Error: Expecting ',' delimiter: line 1591 column 10 (char 34638)
+
+============================================================
+📄 PAGE 29/43 (Thread: ThreadPoolExecutor-0_12)
+============================================================
+📂 Loading image: page_29.png
+
+⚠️ Page 13 FAILED
+📐 Original size: 1409x994 pixels
+✅ Compressed to: 1409x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 52.5s (vs ~60-95s with Pro)
+📝 Response: 18943 chars
+✅ JSON extracted
+📊 53 polling stations
+
+============================================================
+📄 PAGE 30/43 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_30.png
+
+✅ Page 10 DONE! (10/43)
+📐 Original size: 1405x997 pixels
+✅ Compressed to: 1405x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 54.5s (vs ~60-95s with Pro)
+📝 Response: 16653 chars
+❌ Error: Expecting ',' delimiter: line 389 column 10 (char 16450)
+
+============================================================
+📄 PAGE 31/43 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_31.png
+
+⚠️ Page 5 FAILED
+📐 Original size: 1404x997 pixels
+✅ Compressed to: 1404x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 8.9s (vs ~60-95s with Pro)
+📝 Response: 5061 chars
+✅ JSON extracted
+📊 9 polling stations
+
+============================================================
+📄 PAGE 32/43 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_32.png
+
+✅ Page 26 DONE! (11/43)
+📐 Original size: 1404x997 pixels
+✅ Compressed to: 1404x997 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 56.3s (vs ~60-95s with Pro)
+📝 Response: 18933 chars
+❌ Error: Expecting ',' delimiter: line 493 column 48 (char 18913)
+
+============================================================
+📄 PAGE 33/43 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_33.png
+
+⚠️ Page 2 FAILED
+📐 Original size: 1410x1004 pixels
+✅ Compressed to: 1410x1004 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 7.8s (vs ~60-95s with Pro)
+📝 Response: 4101 chars
+✅ JSON extracted
+📊 4 polling stations
+
+============================================================
+📄 PAGE 34/43 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_34.png
+
+✅ Page 27 DONE! (12/43)
+📐 Original size: 1410x1005 pixels
+✅ Compressed to: 1410x1005 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 29.0s (vs ~60-95s with Pro)
+📝 Response: 14555 chars
+✅ JSON extracted
+📊 58 polling stations
+
+============================================================
+📄 PAGE 35/43 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_35.png
+
+✅ Page 18 DONE! (13/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 51.2s (vs ~60-95s with Pro)
+📝 Response: 32568 chars
+❌ Error: Expecting ',' delimiter: line 1413 column 10 (char 32041)
+
+============================================================
+📄 PAGE 36/43 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_36.png
+
+⚠️ Page 17 FAILED
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 41.8s (vs ~60-95s with Pro)
+📝 Response: 16131 chars
+✅ JSON extracted
+📊 55 polling stations
+
+============================================================
+📄 PAGE 37/43 (Thread: ThreadPoolExecutor-0_14)
+108,
+            "Number ============================================================
+📂 Loading image: page_37.png
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 32.5s (vs ~60-95s with Pro)
+📝 Response: 18921 chars
+✅ JSON extracted
+📊 34 polling stations
+
+============================================================
+📄 PAGE 38/43 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_38.png
+
+✅ Page 23 DONE! (15/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 44.9s (vs ~60-95s with Pro)
+📝 Response: 34420 chars
+❌ Error: Expecting ',' delimiter: line 1605 column 10 (char 34064)
+
+============================================================
+📄 PAGE 39/43 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_39.png
+
+⚠️ Page 21 FAILED
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 25.8s (vs ~60-95s with Pro)
+📝 Response: 8518 chars
+✅ JSON extracted
+📊 19 polling stations
+
+============================================================
+📄 PAGE 40/43 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_40.png
+
+✅ Page 35 DONE! (16/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 44.8s (vs ~60-95s with Pro)
+📝 Response: 17529 chars
+✅ JSON extracted
+📊 62 polling stations
+
+============================================================
+📄 PAGE 41/43 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_41.png
+
+✅ Page 24 DONE! (17/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 50.6s (vs ~60-95s with Pro)
+📝 Response: 19311 chars
+✅ JSON extracted
+📊 55 polling stations
+
+============================================================
+📄 PAGE 42/43 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_42.png
+
+✅ Page 22 DONE! (18/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 33.6s (vs ~60-95s with Pro)
+📝 Response: 21238 chars
+✅ JSON extracted
+📊 28 polling stations
+
+============================================================
+📄 PAGE 43/43 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_43.png
+
+✅ Page 34 DONE! (19/43)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 42.6s (vs ~60-95s with Pro)
+📝 Response: 16802 chars
+✅ JSON extracted
+📊 59 polling stations
+
+✅ Page 33 DONE! (20/43)
+⚡ API response in 47.3s (vs ~60-95s with Pro)
+📝 Response: 16325 chars
+✅ JSON extracted
+📊 44 polling stations
+
+✅ Page 28 DONE! (21/43)
+⚡ API response in 53.3s (vs ~60-95s with Pro)
+📝 Response: 34247 chars
+❌ Error: Extra data: line 35 column 6 (char 875)
+
+⚠️ Page 25 FAILED
+⚡ API response in 32.1s (vs ~60-95s with Pro)
+📝 Response: 10681 chars
+✅ JSON extracted
+📊 24 polling stations
+
+✅ Page 36 DONE! (22/43)
+⚡ API response in 48.7s (vs ~60-95s with Pro)
+📝 Response: 34434 chars
+✅ JSON extracted
+📊 60 polling stations
+
+✅ Page 31 DONE! (23/43)
+⚡ API response in 52.7s (vs ~60-95s with Pro)
+📝 Response: 34585 chars
+❌ Error: Extra data: line 34 column 6 (char 851)
+
+⚠️ Page 29 FAILED
+⚡ API response in 55.3s (vs ~60-95s with Pro)
+📝 Response: 24677 chars
+❌ Error: Extra data: line 20 column 6 (char 582)
+
+⚠️ Page 30 FAILED
+⚡ API response in 36.8s (vs ~60-95s with Pro)
+📝 Response: 11236 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 38 DONE! (24/43)
+⚡ API response in 56.0s (vs ~60-95s with Pro)
+📝 Response: 35017 chars
+❌ Error: Extra data: line 20 column 6 (char 590)
+
+⚠️ Page 32 FAILED
+⚡ API response in 34.4s (vs ~60-95s with Pro)
+📝 Response: 10871 chars
+✅ JSON extracted
+📊 26 polling stations
+
+✅ Page 39 DONE! (25/43)
+⚡ API response in 29.4s (vs ~60-95s with Pro)
+📝 Response: 9159 chars
+✅ JSON extracted
+📊 21 polling stations
+
+✅ Page 42 DONE! (26/43)
+⚡ API response in 37.4s (vs ~60-95s with Pro)
+📝 Response: 11139 chars
+✅ JSON extracted
+📊 26 polling stations
+
+✅ Page 40 DONE! (27/43)
+⚡ API response in 33.9s (vs ~60-95s with Pro)
+📝 Response: 11289 chars
+✅ JSON extracted
+📊 29 polling stations
+
+✅ Page 41 DONE! (28/43)
+⚡ API response in 55.1s (vs ~60-95s with Pro)
+📝 Response: 16834 chars
+❌ Error: Expecting ',' delimiter: line 395 column 10 (char 16753)
+
+⚠️ Page 37 FAILED
+⚡ API response in 39.8s (vs ~60-95s with Pro)
+📝 Response: 12678 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 43 DONE! (29/43)
+
+📦 Merging results from 29 pages...
+📊 Total polling stations: 987
+
+✅ Successfully processed 29/43 pages
+
+💾 Results saved: parsedData/AC_241.json (430,443 bytes)
+📊 Constituency: 40 - Osmanabad Parliamentary Constituency
+📊 Polling Stations: 987
+📊 Candidates: 34
+ �Z�     p��yr  �Z�     �q

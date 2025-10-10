@@ -1,0 +1,2973 @@
+================================================================
+LOKSABHA_2024 BATCH PROCESSING
+================================================================
+✅ Loaded and exported API keys from .env
+✅ GEMINI_API_KEY is set: AIzaSyBsu4z9kHsVqZMF...
+Processing AC_2 to AC_288
+Workers: 2 | DPI: 200 | Delay: 15s
+
+
+================================================================
+Processing AC_2 (1/287)
+================================================================
+🔍 PROCESSING AC_2 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/1 - Nandurbar (ST)/AC_002.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 16 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+
+🚀 Processing 14 pages...
+
+============================================================
+📄 PAGE 1/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1650x2317 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1650x2317 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 48.6 seconds
+📝 Response length: 9012 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 3/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/14)
+✅ Image loaded successfully (1650x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.6 seconds
+📝 Response length: 11812 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 4/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/14)
+✅ Image loaded successfully (1653x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 67.8 seconds
+📝 Response length: 11866 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 5/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/14)
+✅ Image loaded successfully (1650x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 93.0 seconds
+📝 Response length: 11824 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 6/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+✅ Image loaded successfully (1650x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+
+✅ Page 4 COMPLETED! (4/14)
+⏱️  API response received in 75.0 seconds
+📝 Response length: 11826 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 7/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 5 COMPLETED! (5/14)
+✅ Image loaded successfully (1650x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.5 seconds
+📝 Response length: 11878 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 8/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 6 COMPLETED! (6/14)
+✅ Image loaded successfully (1653x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 64.4 seconds
+📝 Response length: 11840 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 9/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/14)
+✅ Image loaded successfully (1650x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 56.2 seconds
+📝 Response length: 11876 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 10/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/14)
+✅ Image loaded successfully (1648x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 66.7 seconds
+📝 Response length: 7494 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 11/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/14)
+✅ Image loaded successfully (1648x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 97.7 seconds
+📝 Response length: 11837 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 12/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 10 COMPLETED! (10/14)
+✅ Image loaded successfully (1645x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 50.9 seconds
+📝 Response length: 11844 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 13/14 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 11 COMPLETED! (11/14)
+✅ Image loaded successfully (1648x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 58.7 seconds
+📝 Response length: 11841 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 14/14 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 12 COMPLETED! (12/14)
+✅ Image loaded successfully (1650x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 53.6 seconds
+📝 Response length: 11835 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 13 COMPLETED! (13/14)
+⏱️  API response received in 80.9 seconds
+📝 Response length: 11834 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 14 COMPLETED! (14/14)
+
+📦 Merging results from 14 pages...
+📊 Total polling stations: 316
+
+✅ Successfully processed 14/14 pages
+
+💾 Results saved: parsedData/AC_002.json (106,514 bytes)
+📊 Constituency: 2 - SHAHADA
+📊 Polling Stations: 316
+📊 Candidates: 11
+✅ AC_2 COMPLETED (106514 bytes)
+
+Progress: Success=1 | Failed=0 | Skipped=0 | Total=1
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_3 (2/287)
+================================================================
+🔍 PROCESSING AC_3 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/1 - Nandurbar (ST)/AC_003.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 17 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+
+🚀 Processing 15 pages...
+
+============================================================
+📄 PAGE 1/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1687x2703 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 41.5 seconds
+📝 Response length: 8991 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 3/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 66.3 seconds
+📝 Response length: 11806 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 4/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 58.0 seconds
+📝 Response length: 11819 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 5/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/15)
+✅ Image loaded successfully (1687x2709 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 72.8 seconds
+📝 Response length: 11812 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 6/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/15)
+✅ Image loaded successfully (1687x2703 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 59.8 seconds
+📝 Response length: 11821 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 7/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 5 COMPLETED! (5/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 77.9 seconds
+📝 Response length: 11835 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 8/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 6 COMPLETED! (6/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 73.9 seconds
+📝 Response length: 11832 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 9/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 53.3 seconds
+📝 Response length: 11840 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 10/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 52.0 seconds
+📝 Response length: 11830 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 11/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/15)
+✅ Image loaded successfully (1687x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.1 seconds
+📝 Response length: 11834 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 12/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 11 COMPLETED! (10/15)
+✅ Image loaded successfully (1684x2703 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 75.3 seconds
+📝 Response length: 11828 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 13/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 10 COMPLETED! (11/15)
+✅ Image loaded successfully (1684x2706 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 63.7 seconds
+📝 Response length: 11830 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 14/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 13 COMPLETED! (12/15)
+✅ Image loaded successfully (1681x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 70.5 seconds
+📝 Response length: 11830 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 15/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 12 COMPLETED! (13/15)
+✅ Image loaded successfully (1684x2700 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.9 seconds
+📝 Response length: 11820 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 15 COMPLETED! (14/15)
+⏱️  API response received in 60.1 seconds
+📝 Response length: 11821 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 14 COMPLETED! (15/15)
+
+📦 Merging results from 15 pages...
+📊 Total polling stations: 339
+
+✅ Successfully processed 15/15 pages
+
+💾 Results saved: parsedData/AC_003.json (113,877 bytes)
+📊 Constituency: 1 - NANDURBAR
+📊 Total Electors: 342,663
+📊 Polling Stations: 339
+📊 Candidates: 11
+✅ AC_3 COMPLETED (113877 bytes)
+
+Progress: Success=2 | Failed=0 | Skipped=0 | Total=2
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_4 (3/287)
+================================================================
+🔍 PROCESSING AC_4 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/1 - Nandurbar (ST)/AC_004.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 15 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+
+🚀 Processing 13 pages...
+
+============================================================
+📄 PAGE 1/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1650x2317 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1650x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 37.8 seconds
+📝 Response length: 8992 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 3/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/13)
+✅ Image loaded successfully (1648x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 47.3 seconds
+📝 Response length: 11807 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 4/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/13)
+✅ Image loaded successfully (1650x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.6 seconds
+📝 Response length: 11809 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 5/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 4 COMPLETED! (3/13)
+✅ Image loaded successfully (1650x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 66.0 seconds
+📝 Response length: 11812 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 6/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 3 COMPLETED! (4/13)
+✅ Image loaded successfully (1648x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 52.9 seconds
+📝 Response length: 11844 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 7/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 6 COMPLETED! (5/13)
+✅ Image loaded successfully (1648x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 74.6 seconds
+📝 Response length: 11827 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 8/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 5 COMPLETED! (6/13)
+✅ Image loaded successfully (1648x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.2 seconds
+📝 Response length: 11842 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 9/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/13)
+✅ Image loaded successfully (1650x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 63.3 seconds
+📝 Response length: 11833 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 10/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/13)
+✅ Image loaded successfully (1650x2314 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 58.5 seconds
+📝 Response length: 11840 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 11/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 10 COMPLETED! (9/13)
+✅ Image loaded successfully (1650x2317 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 87.3 seconds
+📝 Response length: 11827 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 12/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 9 COMPLETED! (10/13)
+✅ Image loaded successfully (1650x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 72.7 seconds
+📝 Response length: 11824 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 13/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 11 COMPLETED! (11/13)
+✅ Image loaded successfully (1650x2314 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 75.7 seconds
+📝 Response length: 11831 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 12 COMPLETED! (12/13)
+⏱️  API response received in 77.0 seconds
+📝 Response length: 11842 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 13 COMPLETED! (13/13)
+
+📦 Merging results from 13 pages...
+📊 Total polling stations: 293
+
+✅ Successfully processed 13/13 pages
+
+💾 Results saved: parsedData/AC_004.json (98,641 bytes)
+📊 Constituency: 4 - NAWAPUR
+📊 Polling Stations: 293
+📊 Candidates: 11
+✅ AC_4 COMPLETED (98641 bytes)
+
+Progress: Success=3 | Failed=0 | Skipped=0 | Total=3
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_5 (4/287)
+================================================================
+🔍 PROCESSING AC_5 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/1 - Nandurbar (ST)/AC_005.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 17 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+
+🚀 Processing 15 pages...
+
+============================================================
+📄 PAGE 1/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1645x2342 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1645x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.6 seconds
+📝 Response length: 11805 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 3/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 2 COMPLETED! (1/15)
+✅ Image loaded successfully (1648x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 60.5 seconds
+📝 Response length: 8978 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 4/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 1 COMPLETED! (2/15)
+✅ Image loaded successfully (1648x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.2 seconds
+📝 Response length: 11818 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 5/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/15)
+✅ Image loaded successfully (1645x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 53.6 seconds
+📝 Response length: 11836 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 6/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/15)
+✅ Image loaded successfully (1645x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.6 seconds
+📝 Response length: 11825 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 7/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 5 COMPLETED! (5/15)
+✅ Image loaded successfully (1648x2331 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 53.1 seconds
+📝 Response length: 11840 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 8/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 6 COMPLETED! (6/15)
+✅ Image loaded successfully (1648x2331 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 56.6 seconds
+📝 Response length: 11833 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 9/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 8 COMPLETED! (7/15)
+✅ Image loaded successfully (1645x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 82.3 seconds
+📝 Response length: 11840 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 10/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 7 COMPLETED! (8/15)
+✅ Image loaded successfully (1648x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.0 seconds
+📝 Response length: 11842 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 11/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/15)
+✅ Image loaded successfully (1648x2337 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 47.0 seconds
+📝 Response length: 11831 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 12/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 11 COMPLETED! (10/15)
+✅ Image loaded successfully (1648x2331 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 83.5 seconds
+📝 Response length: 11849 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 13/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 10 COMPLETED! (11/15)
+✅ Image loaded successfully (1650x2328 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.6 seconds
+📝 Response length: 11837 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 14/15 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 13 COMPLETED! (12/15)
+✅ Image loaded successfully (1648x2331 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 84.2 seconds
+📝 Response length: 11834 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 15/15 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 12 COMPLETED! (13/15)
+✅ Image loaded successfully (1648x2328 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.5 seconds
+📝 Response length: 11848 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 14 COMPLETED! (14/15)
+⏱️  API response received in 70.3 seconds
+📝 Response length: 11835 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 15 COMPLETED! (15/15)
+
+📦 Merging results from 15 pages...
+📊 Total polling stations: 339
+
+✅ Successfully processed 15/15 pages
+
+💾 Results saved: parsedData/AC_005.json (113,977 bytes)
+📊 Constituency: 5 - SAKRI
+📊 Total Electors: 356,985
+📊 Polling Stations: 339
+📊 Candidates: 11
+✅ AC_5 COMPLETED (113977 bytes)
+
+Progress: Success=4 | Failed=0 | Skipped=0 | Total=4
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_6 (5/287)
+================================================================
+🔍 PROCESSING AC_6 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/2 - Dhule/AC_006.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 9 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+
+🚀 Processing 7 pages...
+
+============================================================
+📄 PAGE 1/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/7 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 120.2 seconds
+📝 Response length: 30709 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+============================================================
+📄 PAGE 3/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/7)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 145.3 seconds
+📝 Response length: 38334 characters
+✅ JSON extracted successfully
+📊 Found 59 polling stations
+
+============================================================
+📄 PAGE 4/7 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/7)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 109.8 seconds
+📝 Response length: 29354 characters
+✅ JSON extracted successfully
+📊 Found 46 polling stations
+
+============================================================
+📄 PAGE 5/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/7)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 107.9 seconds
+📝 Response length: 28755 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+============================================================
+📄 PAGE 6/7 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/7)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 132.1 seconds
+📝 Response length: 15367 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+============================================================
+📄 PAGE 7/7 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 5 COMPLETED! (5/7)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 93.2 seconds
+📝 Response length: 20969 characters
+✅ JSON extracted successfully
+📊 Found 31 polling stations
+
+✅ Page 7 COMPLETED! (6/7)
+⏱️  API response received in 215.5 seconds
+📝 Response length: 29616 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+✅ Page 6 COMPLETED! (7/7)
+
+📦 Merging results from 7 pages...
+📊 Total polling stations: 315
+
+✅ Successfully processed 7/7 pages
+
+💾 Results saved: parsedData/AC_006.json (134,561 bytes)
+📊 Constituency: 6 - Dhule Rural
+📊 Total Electors: 394,565
+📊 Polling Stations: 315
+📊 Candidates: 20
+✅ AC_6 COMPLETED (134561 bytes)
+
+Progress: Success=5 | Failed=0 | Skipped=0 | Total=5
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_7 (6/287)
+================================================================
+🔍 PROCESSING AC_7 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/2 - Dhule/AC_007.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+🚀 Processing 5 pages...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 108.4 seconds
+📝 Response length: 14796 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 2 COMPLETED! (1/5)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 116.3 seconds
+📝 Response length: 28147 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 1 COMPLETED! (2/5)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 134.5 seconds
+📝 Response length: 29399 characters
+✅ JSON extracted successfully
+📊 Found 46 polling stations
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/5)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 127.4 seconds
+📝 Response length: 15975 characters
+✅ JSON extracted successfully
+📊 Found 46 polling stations
+
+✅ Page 4 COMPLETED! (4/5)
+⏱️  API response received in 122.1 seconds
+📝 Response length: 29001 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+✅ Page 5 COMPLETED! (5/5)
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 224
+
+✅ Successfully processed 5/5 pages
+
+💾 Results saved: parsedData/AC_007.json (95,314 bytes)
+📊 Constituency: 7 - Dhule City (Gen)
+📊 Total Electors: 344,153
+📊 Polling Stations: 224
+📊 Candidates: 18
+✅ AC_7 COMPLETED (95314 bytes)
+
+Progress: Success=6 | Failed=0 | Skipped=0 | Total=6
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_8 (7/287)
+================================================================
+🔍 PROCESSING AC_8 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/2 - Dhule/AC_008.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 8 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+
+🚀 Processing 6 pages...
+
+============================================================
+📄 PAGE 1/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 99.5 seconds
+📝 Response length: 29578 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+============================================================
+📄 PAGE 3/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 2 COMPLETED! (1/6)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 113.3 seconds
+📝 Response length: 29610 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+============================================================
+📄 PAGE 4/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 1 COMPLETED! (2/6)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 113.9 seconds
+📝 Response length: 26332 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+============================================================
+📄 PAGE 5/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 4 COMPLETED! (3/6)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 187.9 seconds
+📝 Response length: 28947 characters
+✅ JSON extracted successfully
+📊 Found 44 polling stations
+
+============================================================
+📄 PAGE 6/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 3 COMPLETED! (4/6)
+✅ Image loaded successfully (1656x2339 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 143.6 seconds
+📝 Response length: 28746 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+✅ Page 5 COMPLETED! (5/6)
+⏱️  API response received in 112.8 seconds
+📝 Response length: 31457 characters
+✅ JSON extracted successfully
+📊 Found 45 polling stations
+
+✅ Page 6 COMPLETED! (6/6)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 268
+
+✅ Successfully processed 6/6 pages
+
+💾 Results saved: parsedData/AC_008.json (113,613 bytes)
+📊 Constituency: 332375 - 8-Sindkheda (Gen)
+📊 Total Electors: 332,375
+📊 Polling Stations: 268
+📊 Candidates: 19
+✅ AC_8 COMPLETED (113613 bytes)
+
+Progress: Success=7 | Failed=0 | Skipped=0 | Total=7
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_9 (8/287)
+================================================================
+🔍 PROCESSING AC_9 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/1 - Nandurbar (ST)/AC_009.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 15 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+
+🚀 Processing 13 pages...
+
+============================================================
+📄 PAGE 1/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (1648x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (1645x2328 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 41.1 seconds
+📝 Response length: 9012 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 3/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/13)
+✅ Image loaded successfully (1645x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 49.9 seconds
+📝 Response length: 11342 characters
+✅ JSON extracted successfully
+📊 Found 22 polling stations
+
+============================================================
+📄 PAGE 4/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/13)
+✅ Image loaded successfully (1645x2334 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.5 seconds
+📝 Response length: 11820 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 5/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/13)
+✅ Image loaded successfully (1645x2320 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 63.2 seconds
+📝 Response length: 11808 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 6/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/13)
+✅ Image loaded successfully (1648x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 51.2 seconds
+📝 Response length: 11833 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 7/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 5 COMPLETED! (5/13)
+✅ Image loaded successfully (1650x2317 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 64.4 seconds
+📝 Response length: 11849 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 8/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 6 COMPLETED! (6/13)
+✅ Image loaded successfully (1650x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 76.9 seconds
+📝 Response length: 11847 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 9/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/13)
+✅ Image loaded successfully (1650x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 75.0 seconds
+📝 Response length: 11843 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 10/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/13)
+✅ Image loaded successfully (1645x2323 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 57.8 seconds
+📝 Response length: 11832 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 11/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/13)
+✅ Image loaded successfully (1645x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.0 seconds
+📝 Response length: 11826 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 12/13 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 10 COMPLETED! (10/13)
+✅ Image loaded successfully (1645x2325 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.5 seconds
+📝 Response length: 11824 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+============================================================
+📄 PAGE 13/13 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 11 COMPLETED! (11/13)
+✅ Image loaded successfully (1645x2331 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 55.2 seconds
+📝 Response length: 11827 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 12 COMPLETED! (12/13)
+⏱️  API response received in 83.4 seconds
+📝 Response length: 11825 characters
+✅ JSON extracted successfully
+📊 Found 23 polling stations
+
+✅ Page 13 COMPLETED! (13/13)
+
+📦 Merging results from 13 pages...
+📊 Total polling stations: 292
+
+✅ Successfully processed 13/13 pages
+
+💾 Results saved: parsedData/AC_009.json (98,338 bytes)
+📊 Constituency: 9 - NANDURBAR
+📊 Total Electors: 333,788
+📊 Polling Stations: 292
+📊 Candidates: 11
+✅ AC_9 COMPLETED (98338 bytes)
+
+Progress: Success=8 | Failed=0 | Skipped=0 | Total=8
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_10 (9/287)
+================================================================
+🔍 PROCESSING AC_10 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/4 - Raver/AC_010.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 36 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+💾 Saved: page_19.png
+💾 Saved: page_20.png
+💾 Saved: page_21.png
+💾 Saved: page_22.png
+💾 Saved: page_23.png
+💾 Saved: page_24.png
+💾 Saved: page_25.png
+💾 Saved: page_26.png
+💾 Saved: page_27.png
+💾 Saved: page_28.png
+💾 Saved: page_29.png
+💾 Saved: page_30.png
+💾 Saved: page_31.png
+💾 Saved: page_32.png
+💾 Saved: page_33.png
+💾 Saved: page_34.png
+💾 Saved: page_35.png
+💾 Saved: page_36.png
+
+🚀 Processing 34 pages...
+
+============================================================
+📄 PAGE 1/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 84.6 seconds
+📝 Response length: 40140 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 3/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 97.8 seconds
+📝 Response length: 45809 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 4/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 98.9 seconds
+📝 Response length: 45860 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 5/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 97.1 seconds
+📝 Response length: 46988 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 6/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 72.2 seconds
+📝 Response length: 17847 characters
+✅ JSON extracted successfully
+📊 Found 22 polling stations
+
+============================================================
+📄 PAGE 7/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 6 COMPLETED! (5/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 152.9 seconds
+📝 Response length: 45794 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 8/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 5 COMPLETED! (6/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 104.2 seconds
+📝 Response length: 40828 characters
+✅ JSON extracted successfully
+📊 Found 54 polling stations
+
+============================================================
+📄 PAGE 9/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 99.5 seconds
+📝 Response length: 45797 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 10/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 161.7 seconds
+📝 Response length: 45877 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 11/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 104.3 seconds
+📝 Response length: 45834 characters
+❌ Error with Gemini Vision API: Expecting value: line 1950 column 13 (char 42505)
+
+============================================================
+📄 PAGE 12/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_12.png
+
+⚠️ Page 10 FAILED
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 59.6 seconds
+📝 Response length: 14240 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 13/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 12 COMPLETED! (10/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 97.8 seconds
+📝 Response length: 46992 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 14/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 11 COMPLETED! (11/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 106.0 seconds
+📝 Response length: 39973 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 15/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 13 COMPLETED! (12/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 95.4 seconds
+📝 Response length: 45750 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 16/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_16.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 106.2 seconds
+📝 Response length: 45827 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 17/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_17.png
+
+✅ Page 16 COMPLETED! (14/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 153.6 seconds
+📝 Response length: 45784 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 18/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_18.png
+
+✅ Page 15 COMPLETED! (15/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 66.8 seconds
+📝 Response length: 15699 characters
+✅ JSON extracted successfully
+📊 Found 19 polling stations
+
+============================================================
+📄 PAGE 19/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_19.png
+
+✅ Page 18 COMPLETED! (16/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 108.9 seconds
+📝 Response length: 45960 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 20/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_20.png
+
+✅ Page 17 COMPLETED! (17/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 91.0 seconds
+📝 Response length: 40054 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 21/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_21.png
+
+✅ Page 19 COMPLETED! (18/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 141.6 seconds
+📝 Response length: 45890 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 22/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_22.png
+
+✅ Page 20 COMPLETED! (19/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 100.3 seconds
+📝 Response length: 45855 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 23/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_23.png
+
+✅ Page 21 COMPLETED! (20/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 90.4 seconds
+📝 Response length: 45835 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 24/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_24.png
+
+✅ Page 22 COMPLETED! (21/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⚠️ Rate limit/timeout error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The request timed out. Please try again.', 'status': 'UNAVAILABLE'}}
+⏳ Retry attempt 2/3 after 2.7s...
+
+============================================================
+📄 PAGE 24/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_24.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 2/3)...
+⏱️  API response received in 101.1 seconds
+📝 Response length: 45160 characters
+✅ JSON extracted successfully
+📊 Found 60 polling stations
+
+============================================================
+📄 PAGE 25/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_25.png
+
+✅ Page 23 COMPLETED! (22/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 91.4 seconds
+📝 Response length: 25046 characters
+✅ JSON extracted successfully
+📊 Found 32 polling stations
+
+============================================================
+📄 PAGE 26/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_26.png
+
+✅ Page 24 COMPLETED! (23/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 86.3 seconds
+📝 Response length: 40049 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 27/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_27.png
+
+✅ Page 25 COMPLETED! (24/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 101.1 seconds
+📝 Response length: 45794 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 28/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_28.png
+
+✅ Page 26 COMPLETED! (25/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 143.8 seconds
+📝 Response length: 45716 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 29/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_29.png
+
+✅ Page 27 COMPLETED! (26/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 100.8 seconds
+📝 Response length: 45870 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 30/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_30.png
+
+✅ Page 28 COMPLETED! (27/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 81.2 seconds
+📝 Response length: 20014 characters
+✅ JSON extracted successfully
+📊 Found 25 polling stations
+
+============================================================
+📄 PAGE 31/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_31.png
+
+✅ Page 30 COMPLETED! (28/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 145.7 seconds
+📝 Response length: 45861 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+  |H��\r  m��\r  ����\r   ���\r📄 PAGE 32/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_32.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 92.4 seconds
+📝 Response length: 41033 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 33/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_33.png
+
+✅ Page 31 COMPLETED! (30/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 98.2 seconds
+📝 Response length: 46909 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 34/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_34.png
+
+✅ Page 33 COMPLETED! (31/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 165.2 seconds
+📝 Response length: 45809 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 32 COMPLETED! (32/34)
+⏱️  API response received in 97.4 seconds
+📝 Response length: 46978 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 34 COMPLETED! (33/34)
+
+📦 Merging results from 33 pages...
+📊 Total polling stations: 1775
+
+✅ Successfully processed 33/34 pages
+
+💾 Results saved: parsedData/AC_010.json (851,024 bytes)
+📊 Constituency: 10 - Chopda (S.T.)
+📊 Total Electors: 322,228
+📊 Polling Stations: 1775
+📊 Candidates: 24
+   ��]r  ���      ��     ��  ✅ AC_10 COMPLETED (851024 bytes)
+
+Progress: Success=9 | Failed=0 | Skipped=0 | Total=9
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_11 (10/287)
+================================================================
+🔍 PROCESSING AC_11 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/4 - Raver/AC_011.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 36 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+💾 Saved: page_19.png
+💾 Saved: page_20.png
+💾 Saved: page_21.png
+💾 Saved: page_22.png
+💾 Saved: page_23.png
+💾 Saved: page_24.png
+💾 Saved: page_25.png
+💾 Saved: page_26.png
+💾 Saved: page_27.png
+💾 Saved: page_28.png
+💾 Saved: page_29.png
+💾 Saved: page_30.png
+💾 Saved: page_31.png
+💾 Saved: page_32.png
+💾 Saved: page_33.png
+💾 Saved: page_34.png
+💾 Saved: page_35.png
+💾 Saved: page_36.png
+
+🚀 Processing 34 pages...
+
+============================================================
+📄 PAGE 1/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 87.6 seconds
+📝 Response length: 40138 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 3/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 93.4 seconds
+📝 Response length: 44687 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 4/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 140.8 seconds
+📝 Response length: 45861 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 5/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 3 COMPLETED! (3/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 158.6 seconds
+📝 Response length: 45848 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 6/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 4 COMPLETED! (4/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 71.5 seconds
+📝 Response length: 17847 characters
+✅ JSON extracted successfully
+📊 Found 22 polling stations
+
+============================================================
+📄 PAGE 7/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 6 COMPLETED! (5/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 101.0 seconds
+📝 Response length: 45870 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 8/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 5 COMPLETED! (6/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 152.4 seconds
+📝 Response length: 40215 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 9/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 155.3 seconds
+📝 Response length: 45098 characters
+✅ JSON extracted successfully
+📊 Found 60 polling stations
+
+============================================================
+📄 PAGE 10/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 103.4 seconds
+📝 Response length: 45852 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 11/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 10 COMPLETED! (9/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 152.6 seconds
+📝 Response length: 45842 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 12/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 9 COMPLETED! (10/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 101.0 seconds
+📝 Response length: 45834 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 13/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 11 COMPLETED! (11/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 78.8 seconds
+📝 Response length: 14243 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 14/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 12 COMPLETED! (12/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 91.2 seconds
+📝 Response length: 39971 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 15/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 13 COMPLETED! (13/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 94.7 seconds
+📝 Response length: 45751 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 16/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_16.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 118.9 seconds
+📝 Response length: 45845 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 17/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_17.png
+
+✅ Page 16 COMPLETED! (15/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 149.4 seconds
+📝 Response length: 45765 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 18/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_18.png
+
+✅ Page 15 COMPLETED! (16/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 80.8 seconds
+📝 Response length: 15700 characters
+✅ JSON extracted successfully
+📊 Found 19 polling stations
+
+============================================================
+📄 PAGE 19/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_19.png
+
+✅ Page 18 COMPLETED! (17/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 145.3 seconds
+📝 Response length: 45959 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 20/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_20.png
+
+✅ Page 17 COMPLETED! (18/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 89.1 seconds
+📝 Response length: 40054 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 21/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_21.png
+
+✅ Page 19 COMPLETED! (19/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 139.5 seconds
+📝 Response length: 44654 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 22/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_22.png
+
+✅ Page 20 COMPLETED! (20/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 138.5 seconds
+📝 Response length: 46273 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 23/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_23.png
+
+✅ Page 21 COMPLETED! (21/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 96.6 seconds
+📝 Response length: 45830 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 24/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_24.png
+
+✅ Page 22 COMPLETED! (22/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 115.0 seconds
+📝 Response length: 45874 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 25/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_25.png
+
+✅ Page 23 COMPLETED! (23/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⚠️ Rate limit/timeout error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The request timed out. Please try again.', 'status': 'UNAVAILABLE'}}
+⏳ Retry attempt 2/3 after 2.6s...
+
+============================================================
+📄 PAGE 25/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_25.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 2/3)...
+⏱️  API response received in 87.1 seconds
+📝 Response length: 39084 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 26/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_26.png
+
+✅ Page 25 COMPLETED! (24/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 168.5 seconds
+📝 Response length: 24326 characters
+✅ JSON extracted successfully
+📊 Found 31 polling stations
+
+============================================================
+📄 PAGE 27/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_27.png
+
+✅ Page 24 COMPLETED! (25/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 95.8 seconds
+📝 Response length: 46555 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 28/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_28.png
+
+✅ Page 26 COMPLETED! (26/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 141.9 seconds
+📝 Response length: 45848 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 29/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_29.png
+
+✅ Page 27 COMPLETED! (27/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 95.6 seconds
+📝 Response length: 45831 characters
+❌ Error with Gemini Vision API: Expecting value: line 1949 column 13 (char 42496)
+
+============================================================
+📄 PAGE 30/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_30.png
+
+⚠️ Page 28 FAILED
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 99.1 seconds
+📝 Response length: 47020 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 31/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_31.png
+
+✅ Page 29 COMPLETED! (28/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 86.7 seconds
+📝 Response length: 20014 characters
+✅ JSON extracted successfully
+📊 Found 25 polling stations
+
+============================================================
+er of valid votes\": 559,\n     📄 PAGE 32/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_32.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 101.2 seconds
+📝 Response length: 40025 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 33/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_33.png
+
+✅ Page 31 COMPLETED! (30/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 101.5 seconds
+📝 Response length: 46950 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 34/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_34.png
+
+✅ Page 32 COMPLETED! (31/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 95.8 seconds
+📝 Response length: 45862 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 33 COMPLETED! (32/34)
+⏱️  API response received in 146.3 seconds
+📝 Response length: 45819 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 34 COMPLETED! (33/34)
+
+📦 Merging results from 33 pages...
+📊 Total polling stations: 1773
+
+✅ Successfully processed 33/34 pages
+
+💾 Results saved: parsedData/AC_011.json (847,157 bytes)
+📊 Constituency: 10 - Chopda (S.T.)
+📊 Polling Stations: 1773
+📊 Candidates: 24
+�     ��     ��     pǳ     �✅ AC_11 COMPLETED (847157 bytes)
+
+Progress: Success=10 | Failed=0 | Skipped=0 | Total=10
+⏳ Waiting 15s before next file...
+
+================================================================
+Processing AC_12 (11/287)
+================================================================
+🔍 PROCESSING AC_12 (OPTIMIZED PARALLEL MODE)
+📁 PDF: LOKSABHA_2024/4 - Raver/AC_012.pdf
+🧵 Workers: 2 | DPI: 200
+📄 Converting PDF to images...
+📊 Converted 36 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+💾 Saved: page_19.png
+💾 Saved: page_20.png
+💾 Saved: page_21.png
+💾 Saved: page_22.png
+💾 Saved: page_23.png
+💾 Saved: page_24.png
+💾 Saved: page_25.png
+💾 Saved: page_26.png
+💾 Saved: page_27.png
+💾 Saved: page_28.png
+💾 Saved: page_29.png
+💾 Saved: page_30.png
+💾 Saved: page_31.png
+💾 Saved: page_32.png
+💾 Saved: page_33.png
+💾 Saved: page_34.png
+💾 Saved: page_35.png
+💾 Saved: page_36.png
+
+🚀 Processing 34 pages...
+
+============================================================
+📄 PAGE 1/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 86.0 seconds
+📝 Response length: 40139 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 3/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_03.png
+
+✅ Page 1 COMPLETED! (1/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 94.5 seconds
+📝 Response length: 45809 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 4/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_04.png
+
+✅ Page 2 COMPLETED! (2/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 112.3 seconds
+📝 Response length: 45849 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 5/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_05.png
+
+✅ Page 4 COMPLETED! (3/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 151.3 seconds
+📝 Response length: 45861 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 6/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 3 COMPLETED! (4/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 67.0 seconds
+📝 Response length: 18264 characters
+✅ JSON extracted successfully
+📊 Found 22 polling stations
+
+============================================================
+📄 PAGE 7/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 6 COMPLETED! (5/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 143.6 seconds
+📝 Response length: 46252 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 8/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 5 COMPLETED! (6/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 91.3 seconds
+📝 Response length: 40214 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 9/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 7 COMPLETED! (7/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 107.7 seconds
+📝 Response length: 45801 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 10/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 8 COMPLETED! (8/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 155.9 seconds
+📝 Response length: 47514 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 11/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 9 COMPLETED! (9/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 139.5 seconds
+📝 Response length: 45872 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 12/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 10 COMPLETED! (10/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 54.9 seconds
+📝 Response length: 14243 characters
+✅ JSON extracted successfully
+📊 Found 17 polling stations
+
+============================================================
+📄 PAGE 13/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 12 COMPLETED! (11/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 145.3 seconds
+📝 Response length: 45832 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 14/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 11 COMPLETED! (12/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 122.7 seconds
+📝 Response length: 39972 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 15/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 13 COMPLETED! (13/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 95.9 seconds
+📝 Response length: 45752 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 16/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_16.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 102.7 seconds
+📝 Response length: 45764 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 17/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_17.png
+
+✅ Page 15 COMPLETED! (15/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 147.9 seconds
+📝 Response length: 45828 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 18/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_18.png
+
+✅ Page 16 COMPLETED! (16/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 94.9 seconds
+📝 Response length: 45962 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 19/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_19.png
+
+✅ Page 17 COMPLETED! (17/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 58.0 seconds
+📝 Response length: 16060 characters
+✅ JSON extracted successfully
+📊 Found 19 polling stations
+
+============================================================
+📄 PAGE 20/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_20.png
+
+✅ Page 18 COMPLETED! (18/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 81.7 seconds
+📝 Response length: 40054 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 21/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_21.png
+
+✅ Page 19 COMPLETED! (19/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 147.0 seconds
+📝 Response length: 47067 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 22/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_22.png
+
+✅ Page 20 COMPLETED! (20/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 143.0 seconds
+📝 Response length: 45874 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 23/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_23.png
+
+✅ Page 21 COMPLETED! (21/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 97.9 seconds
+📝 Response length: 45852 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 24/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_24.png
+
+✅ Page 22 COMPLETED! (22/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 108.7 seconds
+📝 Response length: 25047 characters
+✅ JSON extracted successfully
+📊 Found 32 polling stations
+
+============================================================
+📄 PAGE 25/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_25.png
+
+✅ Page 24 COMPLETED! (23/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 161.8 seconds
+📝 Response length: 45875 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 26/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_26.png
+
+✅ Page 23 COMPLETED! (24/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 86.6 seconds
+📝 Response length: 40051 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+📄 PAGE 27/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_27.png
+
+✅ Page 25 COMPLETED! (25/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 149.6 seconds
+📝 Response length: 45795 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 28/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_28.png
+
+✅ Page 26 COMPLETED! (26/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 98.9 seconds
+📝 Response length: 45867 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 29/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_29.png
+
+✅ Page 27 COMPLETED! (27/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 140.3 seconds
+📝 Response length: 45870 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 30/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_30.png
+
+✅ Page 28 COMPLETED! (28/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 145.7 seconds
+📝 Response length: 45862 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 31/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_31.png
+
+✅ Page 29 COMPLETED! (29/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 58.8 seconds
+📝 Response length: 20015 characters
+✅ JSON extracted successfully
+📊 Found 25 polling stations
+
+============================================================
+📄 PAGE 32/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_32.png
+
+✅ Page 30 COMPLETED! (30/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 137.1 seconds
+📝 Response length: 40023 characters
+✅ JSON extracted successfully
+📊 Found 53 polling stations
+
+============================================================
+	b��ސ_�y�i>_��Gi����i��0📄 PAGE 33/34 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_33.png
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 211.1 seconds
+📝 Response length: 45787 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+============================================================
+📄 PAGE 34/34 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_34.png
+
+✅ Page 32 COMPLETED! (32/34)
+✅ Image loaded successfully (2339x1653 pixels)
+🤖 Calling Gemini 2.5 Pro API (attempt 1/3)...
+⏱️  API response received in 100.0 seconds
+📝 Response length: 45882 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 33 COMPLETED! (33/34)
+⏱️  API response received in 100.8 seconds
+📝 Response length: 46980 characters
+✅ JSON extracted successfully
+📊 Found 61 polling stations
+
+✅ Page 34 COMPLETED! (34/34)
+
+📦 Merging results from 34 pages...
+📊 Total polling stations: 1836
+
+✅ Successfully processed 34/34 pages
+
+💾 Results saved: parsedData/AC_012.json (880,133 bytes)
+📊 Constituency: 10 - Chopda (S.T.)
+📊 Polling Stations: 1836
+📊 Candidates: 24
+                                

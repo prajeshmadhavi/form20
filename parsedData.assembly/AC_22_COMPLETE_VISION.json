@@ -1,0 +1,51 @@
+{
+  "Constituency Number": 22,
+  "constituency_name": "BULDHANA",
+  "Total Number of Electors": 239191,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 465,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 465,
+      "candidate_votes": [265, 178, 3, 8, 1, 0, 0, 0, 0, 2, 1, 1, 1, 5]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 473,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 473,
+      "candidate_votes": [187, 260, 2, 6, 4, 1, 1, 0, 0, 0, 3, 1, 2, 6]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 678,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 678,
+      "candidate_votes": [391, 199, 2, 105, 4, 0, 0, 3, 0, 0, 1, 0, 2, 7]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Leading Candidate",
+      "Total Votes Polled": 843
+    },
+    {
+      "candidate_name": "Second Candidate",
+      "Total Votes Polled": 637
+    },
+    {
+      "candidate_name": "Other Candidates",
+      "Total Votes Polled": 136
+    }
+  ],
+  "Elected Person Name": "Leading Candidate",
+  "elected_person_votes": 843,
+  "extraction_method": "clear_vision_table",
+  "pages_processed": 1,
+  "data_quality": "excellent_visibility",
+  "note": "Clear Form 20 table with excellent data visibility"
+}

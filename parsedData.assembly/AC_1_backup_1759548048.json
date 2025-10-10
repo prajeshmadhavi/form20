@@ -1,0 +1,87 @@
+{
+  "Constituency Number": 1,
+  "constituency_name": "AKKALKUWA",
+  "Total Number of Electors": 319481,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 218,
+      "Number of Rejected votes": 4,
+      "NOTA": 1,
+      "Total": 223,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": [
+        {"candidate_name": "KSHITIJ RAMESH GAVIT", "votes": 1},
+        {"candidate_name": "NANDA KISAN GAVIT", "votes": 3},
+        {"candidate_name": "DR HEENA VIJAYKUMAR GAVIT", "votes": 168},
+        {"candidate_name": "VIJAYKUMAR GAVIT", "votes": 46}
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 354,
+      "Number of Rejected votes": 3,
+      "NOTA": 1,
+      "Total": 358,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": [
+        {"candidate_name": "KSHITIJ RAMESH GAVIT", "votes": 4},
+        {"candidate_name": "NANDA KISAN GAVIT", "votes": 1},
+        {"candidate_name": "DR HEENA VIJAYKUMAR GAVIT", "votes": 275},
+        {"candidate_name": "VIJAYKUMAR GAVIT", "votes": 74}
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 272,
+      "Number of Rejected votes": 2,
+      "NOTA": 1,
+      "Total": 275,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": [
+        {"candidate_name": "KSHITIJ RAMESH GAVIT", "votes": 3},
+        {"candidate_name": "NANDA KISAN GAVIT", "votes": 7},
+        {"candidate_name": "DR HEENA VIJAYKUMAR GAVIT", "votes": 199},
+        {"candidate_name": "VIJAYKUMAR GAVIT", "votes": 63}
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 235,
+      "Number of Rejected votes": 3,
+      "NOTA": 1,
+      "Total": 239,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": [
+        {"candidate_name": "KSHITIJ RAMESH GAVIT", "votes": 1},
+        {"candidate_name": "NANDA KISAN GAVIT", "votes": 1},
+        {"candidate_name": "DR HEENA VIJAYKUMAR GAVIT", "votes": 197},
+        {"candidate_name": "VIJAYKUMAR GAVIT", "votes": 36}
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 251,
+      "Number of Rejected votes": 6,
+      "NOTA": 1,
+      "Total": 258,
+      "Number Of Tender Votes": 0,
+      "candidate_votes": [
+        {"candidate_name": "KSHITIJ RAMESH GAVIT", "votes": 8},
+        {"candidate_name": "NANDA KISAN GAVIT", "votes": 1},
+        {"candidate_name": "DR HEENA VIJAYKUMAR GAVIT", "votes": 199},
+        {"candidate_name": "VIJAYKUMAR GAVIT", "votes": 43}
+      ]
+    }
+  ],
+  "candidates": [
+    {"name": "KSHITIJ RAMESH GAVIT", "total_votes": 17},
+    {"name": "NANDA KISAN GAVIT", "total_votes": 13},
+    {"name": "DR HEENA VIJAYKUMAR GAVIT", "total_votes": 1038},
+    {"name": "VIJAYKUMAR GAVIT", "total_votes": 262}
+  ],
+  "Elected Person Name": "DR HEENA VIJAYKUMAR GAVIT",
+  "extraction_method": "manual_vision_analysis",
+  "pages_analyzed": 1,
+  "note": "Extracted from Form 20 image - partial data from visible polling stations 1-5. Full document contains more polling stations."
+}

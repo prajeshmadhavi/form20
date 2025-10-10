@@ -1,0 +1,48 @@
+⚡ ULTRA-FAST PROCESSING AC_141
+📁 PDF: LOKSABHA_2024/24 - Kalyan/AC_141.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 4 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+
+⚡ Processing 2 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/2 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/2 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1632x1012 pixels
+📐 Original size: 1632x1012 pixels
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 53.8s (vs ~60-95s with Pro)
+📝 Response: 32447 chars
+❌ Error: Expecting ',' delimiter: line 1429 column 51 (char 32393)
+
+⚠️ Page 1 FAILED
+⚡ API response in 57.1s (vs ~60-95s with Pro)
+📝 Response: 19508 chars
+✅ JSON extracted
+📊 63 polling stations
+
+✅ Page 2 DONE! (1/2)
+
+📦 Merging results from 1 pages...
+📊 Total polling stations: 63
+
+✅ Successfully processed 1/2 pages
+
+💾 Results saved: parsedData/AC_141.json (25,298 bytes)
+📊 Constituency: None - None
+📊 Polling Stations: 63
+📊 Candidates: 0

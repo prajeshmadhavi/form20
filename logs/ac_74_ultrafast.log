@@ -1,0 +1,155 @@
+⚡ ULTRA-FAST PROCESSING AC_74
+📁 PDF: LOKSABHA_2024/12 - Gadchiroli-Chimur (ST)/AC_074.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 11 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+
+⚡ Processing 9 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/9 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1640x1012 pixels
+
+============================================================
+📄 PAGE 2/9 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/9 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1645x1014 pixels
+📐 Original size: 1635x1014 pixels
+
+============================================================
+📄 PAGE 4/9 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/9 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1637x1014 pixels
+
+============================================================
+📄 PAGE 6/9 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1639x1014 pixels
+
+============================================================
+📄 PAGE 7/9 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1634x1014 pixels
+📐 Original size: 1634x1015 pixels
+
+============================================================
+📄 PAGE 8/9 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1635x1014 pixels
+
+============================================================
+📄 PAGE 9/9 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1634x1012 pixels
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x991 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x986 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x991 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x987 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x990 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 20.4s (vs ~60-95s with Pro)
+📝 Response: 9063 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 6 DONE! (1/9)
+⚡ API response in 22.4s (vs ~60-95s with Pro)
+📝 Response: 9077 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 5 DONE! (2/9)
+⚡ API response in 22.7s (vs ~60-95s with Pro)
+📝 Response: 9101 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 7 DONE! (3/9)
+⚡ API response in 23.6s (vs ~60-95s with Pro)
+📝 Response: 9087 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 9 DONE! (4/9)
+⚡ API response in 23.7s (vs ~60-95s with Pro)
+📝 Response: 9082 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 1 DONE! (5/9)
+⚡ API response in 24.9s (vs ~60-95s with Pro)
+📝 Response: 14480 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 3 DONE! (6/9)
+⚡ API response in 25.9s (vs ~60-95s with Pro)
+📝 Response: 14539 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 8 DONE! (7/9)
+⚡ API response in 26.0s (vs ~60-95s with Pro)
+📝 Response: 9076 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 2 DONE! (8/9)
+⚡ API response in 27.2s (vs ~60-95s with Pro)
+📝 Response: 14294 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 4 DONE! (9/9)
+
+📦 Merging results from 9 pages...
+📊 Total polling stations: 270
+
+✅ Successfully processed 9/9 pages
+
+💾 Results saved: parsedData/AC_074.json (88,177 bytes)
+📊 Constituency: 12 - GADCHIROLI-CHIMUR (ST) PARLIAMENTARY CONSTITUENCY
+📊 Total Electors: 277,289
+📊 Polling Stations: 270
+📊 Candidates: 10

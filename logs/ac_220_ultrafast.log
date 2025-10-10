@@ -1,0 +1,80 @@
+⚡ ULTRA-FAST PROCESSING AC_220
+📁 PDF: LOKSABHA_2024/38 - Shirdi (SC)/AC_220.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 6 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+
+⚡ Processing 4 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/4 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 2/4 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/4 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 4/4 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 31.9s (vs ~60-95s with Pro)
+📝 Response: 14210 chars
+✅ JSON extracted
+📊 51 polling stations
+
+✅ Page 2 DONE! (1/4)
+⚡ API response in 32.9s (vs ~60-95s with Pro)
+📝 Response: 17233 chars
+✅ JSON extracted
+📊 53 polling stations
+
+✅ Page 1 DONE! (2/4)
+⚡ API response in 37.5s (vs ~60-95s with Pro)
+📝 Response: 18943 chars
+✅ JSON extracted
+📊 52 polling stations
+
+✅ Page 4 DONE! (3/4)
+⚡ API response in 43.1s (vs ~60-95s with Pro)
+📝 Response: 17437 chars
+✅ JSON extracted
+📊 56 polling stations
+
+✅ Page 3 DONE! (4/4)
+
+📦 Merging results from 4 pages...
+📊 Total polling stations: 212
+
+✅ Successfully processed 4/4 pages
+
+💾 Results saved: parsedData/AC_220.json (62,546 bytes)
+📊 Constituency: 220 - Shrirampur (SC) Assembly Election
+📊 Total Electors: 302,499
+📊 Polling Stations: 212
+📊 Candidates: 3

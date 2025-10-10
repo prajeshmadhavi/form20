@@ -1,0 +1,152 @@
+⚡ ULTRA-FAST PROCESSING AC_137
+📁 PDF: LOKSABHA_2024/23 - Bhiwandi/AC_137.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 11 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+
+⚡ Processing 9 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/9 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1637x1012 pixels
+
+============================================================
+📄 PAGE 2/9 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/9 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1635x1012 pixels
+📐 Original size: 1637x1014 pixels
+
+============================================================
+📄 PAGE 4/9 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/9 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1635x1012 pixels
+
+============================================================
+📄 PAGE 6/9 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1635x1012 pixels
+📐 Original size: 1637x1012 pixels
+
+============================================================
+📄 PAGE 7/9 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1635x1012 pixels
+
+============================================================
+📄 PAGE 8/9 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1632x1012 pixels
+
+============================================================
+📄 PAGE 9/9 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1632x1012 pixels
+✅ Compressed to: 1600x990 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x991 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x989 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x989 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x990 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x990 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x990 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 24.5s (vs ~60-95s with Pro)
+📝 Response: 7504 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 9 DONE! (1/9)
+⚡ API response in 24.8s (vs ~60-95s with Pro)
+📝 Response: 15210 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 3 DONE! (2/9)
+⚡ API response in 26.5s (vs ~60-95s with Pro)
+📝 Response: 10138 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 8 DONE! (3/9)
+⚡ API response in 27.4s (vs ~60-95s with Pro)
+📝 Response: 14554 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 5 DONE! (4/9)
+⚡ API response in 28.6s (vs ~60-95s with Pro)
+📝 Response: 16929 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 4 DONE! (5/9)
+⚡ API response in 30.8s (vs ~60-95s with Pro)
+📝 Response: 10133 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 7 DONE! (6/9)
+❌ Error: Server disconnected without sending a response.
+
+⚠️ Page 6 FAILED
+⚡ API response in 35.6s (vs ~60-95s with Pro)
+📝 Response: 20906 chars
+✅ JSON extracted
+📊 25 polling stations
+
+✅ Page 1 DONE! (7/9)
+⚡ API response in 40.4s (vs ~60-95s with Pro)
+📝 Response: 23090 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 2 DONE! (8/9)
+
+📦 Merging results from 8 pages...
+📊 Total polling stations: 188
+
+✅ Successfully processed 8/9 pages
+
+💾 Results saved: parsedData/AC_137.json (85,792 bytes)
+📊 Constituency: 23 - BHIWANDI PARLIAMENTARY CONSTITUENCY
+📊 Total Electors: 336,110
+📊 Polling Stations: 188
+📊 Candidates: 25

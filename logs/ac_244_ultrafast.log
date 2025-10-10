@@ -1,0 +1,108 @@
+⚡ ULTRA-FAST PROCESSING AC_244
+📁 PDF: LOKSABHA_2024/43 - Madha/AC_244.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 8 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+
+⚡ Processing 6 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1024x1630 pixels
+
+============================================================
+📄 PAGE 2/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/6 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1022x1634 pixels
+
+============================================================
+📄 PAGE 4/6 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1024x1632 pixels
+📐 Original size: 1020x1632 pixels
+
+============================================================
+📄 PAGE 5/6 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+
+============================================================
+📄 PAGE 6/6 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1024x1630 pixels
+📐 Original size: 1020x1630 pixels
+✅ Compressed to: 1000x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1005x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1004x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1001x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1005x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1001x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 33.2s (vs ~60-95s with Pro)
+📝 Response: 17589 chars
+✅ JSON extracted
+📊 43 polling stations
+
+✅ Page 6 DONE! (1/6)
+⚡ API response in 36.3s (vs ~60-95s with Pro)
+📝 Response: 14685 chars
+✅ JSON extracted
+📊 46 polling stations
+
+✅ Page 4 DONE! (2/6)
+⚡ API response in 38.7s (vs ~60-95s with Pro)
+📝 Response: 14483 chars
+✅ JSON extracted
+📊 47 polling stations
+
+✅ Page 2 DONE! (3/6)
+⚡ API response in 40.0s (vs ~60-95s with Pro)
+📝 Response: 23262 chars
+✅ JSON extracted
+📊 48 polling stations
+
+✅ Page 5 DONE! (4/6)
+⚡ API response in 48.1s (vs ~60-95s with Pro)
+📝 Response: 30207 chars
+✅ JSON extracted
+📊 40 polling stations
+
+✅ Page 1 DONE! (5/6)
+⚡ API response in 51.5s (vs ~60-95s with Pro)
+📝 Response: 34489 chars
+❌ Error: Expecting ',' delimiter: line 1601 column 10 (char 33867)
+
+⚠️ Page 3 FAILED
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 224
+
+✅ Successfully processed 5/6 pages
+
+💾 Results saved: parsedData/AC_244.json (84,195 bytes)
+📊 Constituency: 244 - Karmala Legislative Assembly Constituency
+📊 Polling Stations: 224
+📊 Candidates: 24

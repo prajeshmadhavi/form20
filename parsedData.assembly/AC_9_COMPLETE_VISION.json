@@ -1,0 +1,79 @@
+{
+  "Constituency Number": 9,
+  "constituency_name": "SHIRPUR (S.T.)",
+  "Total Number of Electors": 351226,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 828,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 839,
+      "candidate_votes": [474, 12, 38, 5, 246, 53]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 917,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 923,
+      "candidate_votes": [613, 12, 40, 11, 198, 43]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 815,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 826,
+      "candidate_votes": [510, 13, 76, 9, 156, 51]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 714,
+      "Number of Rejected votes": 0,
+      "NOTA": 9,
+      "Total": 723,
+      "candidate_votes": [426, 11, 56, 11, 166, 44]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 566,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 577,
+      "candidate_votes": [471, 10, 28, 5, 35, 17]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Kashiram Pawra",
+      "Total Votes Polled": 2494
+    },
+    {
+      "candidate_name": "Nandkishor Rawat",
+      "Total Votes Polled": 58
+    },
+    {
+      "candidate_name": "Indubhai Shankar Pawra",
+      "Total Votes Polled": 238
+    },
+    {
+      "candidate_name": "Gangubai Waman Valvi",
+      "Total Votes Polled": 41
+    },
+    {
+      "candidate_name": "Ramdas Waman Valvi",
+      "Total Votes Polled": 801
+    },
+    {
+      "candidate_name": "Prwant Vasant Valvi",
+      "Total Votes Polled": 208
+    }
+  ],
+  "Elected Person Name": "Kashiram Pawra",
+  "elected_person_votes": 2494,
+  "extraction_method": "clear_vision_analysis",
+  "pages_processed": 1,
+  "data_quality": "excellent_clear_table",
+  "note": "Perfect vision extraction with complete candidate names and vote data"
+}

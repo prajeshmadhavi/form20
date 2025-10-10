@@ -1,56 +1,55 @@
-AC Number,Constituency Name,District,Status,PDF Path,Processing Status,Remarks
-18,Pachora,Jalgaon,Failed,VIDHANSABHA_2024/Jalgaon/AC_18.pdf,completed,"Extracted 349 stations, 12 candidates - Gemini Vision"
-22,Buldhana,Buldhana,Failed,VIDHANSABHA_2024/Buldhana/AC_22.pdf,completed,"Extracted 320 stations, 13 candidates - Gemini Vision"
-27,Jalgaon (Jamod),Buldhana,Failed,VIDHANSABHA_2024/Buldhana/AC_27.pdf,completed,"Extracted 300 stations, 9 candidates - Gemini Vision"
-34,Washim (SC),Washim,Failed,VIDHANSABHA_2024/Washim/AC_34.pdf,completed,"Extracted 321 stations, 22 candidates - Gemini Vision"
-36,Dhamangaon Railway,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_36.pdf,pending,none
-37,Badnera,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_37.pdf,pending,none
-38,Amrawati,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_38.pdf,pending,none
-39,Teosa,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_39.pdf,pending,none
-40,Daryapur (SC),Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_40.pdf,pending,none
-42,Achalpur,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_42.pdf,pending,none
-43,Morshi,Amravati,Failed,VIDHANSABHA_2024/Amravati/AC_43.pdf,pending,none
-49,Savner,Nagpur,Failed,VIDHANSABHA_2024/Nagpur/AC_49.pdf,completed,"Extracted 337 stations, 18 candidates - Gemini Vision"
-52,Nagpur South West,Nagpur,Failed,VIDHANSABHA_2024/Nagpur/AC_52.pdf,completed,"Extracted 340 stations, 0 candidates - Gemini Vision"
-61,Bhandara (SC),Bhandara,Failed,VIDHANSABHA_2024/Bhandara/AC_61.pdf,completed,"Extracted 399 stations, 19 candidates - Gemini Vision"
-70,Rajura,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_70.pdf,completed,"Extracted 317 stations, 14 candidates - Gemini Vision"
-71,Chandrapur (SC),Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_71.pdf,completed,"Extracted 362 stations, 16 candidates - Gemini Vision"
-72,Ballarpur,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_72.pdf,completed,"Extracted 320 stations, 20 candidates - Gemini Vision"
-75,Warora,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_75.pdf,completed,"Extracted 309 stations, 18 candidates - Gemini Vision"
-76,Wani,Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_76.pdf,completed,"Extracted 291 stations, 12 candidates - Gemini Vision"
-81,Pusad,Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_81.pdf,completed,"Extracted 296 stations, 14 candidates - Gemini Vision"
-82,Umarkhed (SC),Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_82.pdf,completed,"Extracted 319 stations, 17 candidates - Gemini Vision"
-97,Gangakhed,Parbhani,Failed,VIDHANSABHA_2024/Parbhani/AC_97.pdf,completed,"Extracted 384 stations, 12 candidates - Gemini Vision"
-98,Pathri,Parbhani,Failed,VIDHANSABHA_2024/Parbhani/AC_98.pdf,completed,"Extracted 360 stations, 13 candidates - Gemini Vision"
-111,Gangapur,Aurangabad,Failed,VIDHANSABHA_2024/Aurangabad/AC_111.pdf,completed,"Extracted 300 stations, 18 candidates - Gemini Vision"
-112,Vaijapur,Aurangabad,Failed,VIDHANSABHA_2024/Aurangabad/AC_112.pdf,completed,"Extracted 308 stations, 10 candidates - Gemini Vision"
-113,Nandgaon,Nashik,Failed,VIDHANSABHA_2024/Nashik/AC_113.pdf,failed,"Error: Traceback (most recent call last):
-  File ""/home/prajesh/test/chandrakant/form20/gemini_vision_extra"
-129,Vekramgrth (ST),Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_129.pdf,completed,"Extracted 321 stations, 11 candidates - Gemini Vision"
-132,Nalasopara,Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_132.pdf,completed,"Extracted 493 stations, 12 candidates - Gemini Vision"
-133,Vasai,Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_133.pdf,completed,"Extracted 316 stations, 7 candidates - Gemini Vision"
-144,Kalyan Rural,Thane,Failed,VIDHANSABHA_2024/Thane/AC_144.pdf,completed,"Extracted 466 stations, 13 candidates - Gemini Vision"
-145,Meera Bhayandar,Thane,Failed,VIDHANSABHA_2024/Thane/AC_145.pdf,completed,"Extracted 535 stations, 17 candidates - Gemini Vision"
-146,Ovala majiwada,Thane,Failed,VIDHANSABHA_2024/Thane/AC_146.pdf,completed,"Extracted 421 stations, 14 candidates - Gemini Vision"
-148,Thane,Thane,Failed,VIDHANSABHA_2024/Thane/AC_148.pdf,completed,"Extracted 373 stations, 8 candidates - Gemini Vision"
-179,Sion Koliwada,Mumbai City,Failed,VIDHANSABHA_2024/Mumbai City/AC_179.pdf,failed,Error: PDF not found: VIDHANSABHA_2024/Mumbai City/AC_179.pdf
-188,Panvel,Raigad,Failed,VIDHANSABHA_2024/Raigad/AC_188.pdf,completed,"Extracted 555 stations, 12 candidates - Gemini Vision"
-195,Junnar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_195.pdf,completed,"Extracted 347 stations, 11 candidates - Gemini Vision"
-197,Khed Alandi,Pune,Failed,VIDHANSABHA_2024/Pune/AC_197.pdf,completed,"Extracted 371 stations, 13 candidates - Gemini Vision"
-199,Daund,Pune,Failed,VIDHANSABHA_2024/Pune/AC_199.pdf,completed,"Extracted 288 stations, 14 candidates - Gemini Vision"
-202,Purandar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_202.pdf,completed,"Extracted 394 stations, 16 candidates - Gemini Vision"
-203,Bhor,Pune,Failed,VIDHANSABHA_2024/Pune/AC_203.pdf,completed,"Extracted 484 stations, 6 candidates - Gemini Vision"
-206,Pimpri (SC),Pune,Failed,VIDHANSABHA_2024/Pune/AC_206.pdf,completed,"Extracted 366 stations, 15 candidates - Gemini Vision"
-209,Shivajinagar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_209.pdf,completed,"Extracted 252 stations, 13 candidates - Gemini Vision"
-228,Georai,Beed,Failed,VIDHANSABHA_2024/Beed/AC_228.pdf,completed,"Extracted 392 stations, 20 candidates - Gemini Vision"
-234,Latur Rural,Latur,Failed,VIDHANSABHA_2024/Latur/AC_234.pdf,failed,Timeout after 30 minutes
-235,Latur City,Latur,Failed,VIDHANSABHA_2024/Latur/AC_235.pdf,completed,"Extracted 355 stations, 23 candidates - Gemini Vision"
-236,Ahmedpur,Latur,Failed,VIDHANSABHA_2024/Latur/AC_236.pdf,completed,"Extracted 322 stations, 20 candidates - Gemini Vision"
-237,Udgir (SC),Latur,Failed,VIDHANSABHA_2024/Latur/AC_237.pdf,completed,"Extracted 308 stations, 13 candidates - Gemini Vision"
-255,Phaltan (SC),Satara,Failed,VIDHANSABHA_2024/Satara/AC_255.pdf,completed,"Extracted 335 stations, 14 candidates - Gemini Vision"
-261,Patan,Satara,Failed,VIDHANSABHA_2024/Satara/AC_261.pdf,completed,"Extracted 386 stations, 12 candidates - Gemini Vision"
-262,Satara,Satara,Failed,VIDHANSABHA_2024/Satara/AC_262.pdf,completed,"Extracted 441 stations, 7 candidates - Gemini Vision"
-269,Kudal,Sindhudurg,Failed,VIDHANSABHA_2024/Sindhudurg/AC_269.pdf,completed,"Extracted 247 stations, 5 candidates - Gemini Vision"
-271,Chandgad,Kolhapur,Failed,VIDHANSABHA_2024/Kolhapur/AC_271.pdf,completed,"Extracted 342 stations, 17 candidates - Gemini Vision"
-66,Amgaon (ST),Gondiya,Skipped,VIDHANSABHA_2024/Gondiya/AC_66.pdf,failed,Error: PDF not found: VIDHANSABHA_2024/Gondiya/AC_66.pdf
-258,Man,Satara,Skipped,VIDHANSABHA_2024/Satara/AC_258.pdf,failed,Error: PDF not found: VIDHANSABHA_2024/Satara/AC_258.pdf
+AC Number,Constituency Name,District,Status,PDF Path
+18,Pachora,Jalgaon,Failed,VIDHANSABHA_2024/Jalgaon/AC_18.pdf
+22,Buldhana,Buldhana,Failed,VIDHANSABHA_2024/Buldhana/AC_22.pdf
+27,Jalgaon (Jamod),Buldhana,Failed,VIDHANSABHA_2024/Buldhana/AC_27.pdf
+34,Washim (SC),Washim,Failed,VIDHANSABHA_2024/Washim/AC_34.pdf
+36,Dhamangaon Railway,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_36.pdf
+37,Badnera,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_37.pdf
+38,Amrawati,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_38.pdf
+39,Teosa,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_39.pdf
+40,Daryapur (SC),Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_40.pdf
+42,Achalpur,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_42.pdf
+43,Morshi,Amaravati,Failed,VIDHANSABHA_2024/Amaravati/AC_43.pdf
+49,Savner,Nagpur,Failed,VIDHANSABHA_2024/Nagpur/AC_49.pdf
+52,Nagpur South West,Nagpur,Failed,VIDHANSABHA_2024/Nagpur/AC_52.pdf
+61,Bhandara (SC),Bhandara,Failed,VIDHANSABHA_2024/Bhandara/AC_61.pdf
+70,Rajura,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_70.pdf
+71,Chandrapur (SC),Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_71.pdf
+72,Ballarpur,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_72.pdf
+75,Warora,Chandrapur,Failed,VIDHANSABHA_2024/Chandrapur/AC_75.pdf
+76,Wani,Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_76.pdf
+81,Pusad,Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_81.pdf
+82,Umarkhed (SC),Yavatmal,Failed,VIDHANSABHA_2024/Yavatmal/AC_82.pdf
+97,Gangakhed,Parbhani,Failed,VIDHANSABHA_2024/Parbhani/AC_97.pdf
+98,Pathri,Parbhani,Failed,VIDHANSABHA_2024/Parbhani/AC_98.pdf
+111,Gangapur,Aurangabad,Failed,VIDHANSABHA_2024/Aurangabad/AC_111.pdf
+112,Vaijapur,Aurangabad,Failed,VIDHANSABHA_2024/Aurangabad/AC_112.pdf
+113,Nandgaon,Nashik,Failed,VIDHANSABHA_2024/Nashik/AC_113.pdf
+129,Vekramgrth (ST),Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_129.pdf
+132,Nalasopara,Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_132.pdf
+133,Vasai,Palghar,Failed,VIDHANSABHA_2024/Palghar/AC_133.pdf
+144,Kalyan Rural,Thane,Failed,VIDHANSABHA_2024/Thane/AC_144.pdf
+145,Meera Bhayandar,Thane,Failed,VIDHANSABHA_2024/Thane/AC_145.pdf
+146,Ovala majiwada,Thane,Failed,VIDHANSABHA_2024/Thane/AC_146.pdf
+148,Thane,Thane,Failed,VIDHANSABHA_2024/Thane/AC_148.pdf
+179,Sion Koliwada,Mumbai City,Failed,VIDHANSABHA_2024/Mumbai City/AC_179.pdf
+188,Panvel,Raigad,Failed,VIDHANSABHA_2024/Raigad/AC_188.pdf
+195,Junnar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_195.pdf
+197,Khed Alandi,Pune,Failed,VIDHANSABHA_2024/Pune/AC_197.pdf
+199,Daund,Pune,Failed,VIDHANSABHA_2024/Pune/AC_199.pdf
+202,Purandar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_202.pdf
+203,Bhor,Pune,Failed,VIDHANSABHA_2024/Pune/AC_203.pdf
+206,Pimpri (SC),Pune,Failed,VIDHANSABHA_2024/Pune/AC_206.pdf
+209,Shivajinagar,Pune,Failed,VIDHANSABHA_2024/Pune/AC_209.pdf
+228,Georai,Beed,Failed,VIDHANSABHA_2024/Beed/AC_228.pdf
+234,Latur Rural,Latur,Failed,VIDHANSABHA_2024/Latur/AC_234.pdf
+235,Latur City,Latur,Failed,VIDHANSABHA_2024/Latur/AC_235.pdf
+236,Ahmedpur,Latur,Failed,VIDHANSABHA_2024/Latur/AC_236.pdf
+237,Udgir (SC),Latur,Failed,VIDHANSABHA_2024/Latur/AC_237.pdf
+255,Phaltan (SC),Satara,Failed,VIDHANSABHA_2024/Satara/AC_255.pdf
+261,Patan,Satara,Failed,VIDHANSABHA_2024/Satara/AC_261.pdf
+262,Satara,Satara,Failed,VIDHANSABHA_2024/Satara/AC_262.pdf
+269,Kudal,Sindhudurg,Failed,VIDHANSABHA_2024/Sindhudurg/AC_269.pdf
+271,Chandgad,Kolhapur,Failed,VIDHANSABHA_2024/Kolhapur/AC_271.pdf
+66,Amgaon (ST),Gondiya,Skipped,VIDHANSABHA_2024/Gondiya/AC_66.pdf
+258,Man,Satara,Skipped,VIDHANSABHA_2024/Satara/AC_258.pdf

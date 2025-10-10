@@ -1,0 +1,333 @@
+⚡ ULTRA-FAST PROCESSING AC_87
+📁 PDF: LOKSABHA_2024/16 - Nanded/AC_087.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 23 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+💾 Saved: page_19.png
+💾 Saved: page_20.png
+💾 Saved: page_21.png
+💾 Saved: page_22.png
+💾 Saved: page_23.png
+
+⚡ Processing 21 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/21 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/21 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1014x1642 pixels
+
+============================================================
+📄 PAGE 3/21 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1007x1640 pixels
+📐 Original size: 1007x1640 pixels
+
+============================================================
+📄 PAGE 4/21 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+
+============================================================
+📄 PAGE 5/21 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1007x1645 pixels
+📐 Original size: 1009x1640 pixels
+
+============================================================
+📄 PAGE 6/21 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+
+============================================================
+📄 PAGE 7/21 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1012x1637 pixels
+
+============================================================
+📄 PAGE 8/21 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1009x1634 pixels
+📐 Original size: 1012x1639 pixels
+
+============================================================
+📄 PAGE 9/21 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+
+============================================================
+📄 PAGE 10/21 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+📐 Original size: 1009x1632 pixels
+
+============================================================
+📄 PAGE 11/21 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_11.png
+📐 Original size: 1009x1630 pixels
+
+============================================================
+📄 PAGE 12/21 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_12.png
+
+============================================================
+📄 PAGE 13/21 (Thread: ThreadPoolExecutor-0_12)
+============================================================
+📂 Loading image: page_13.png
+📐 Original size: 1009x1625 pixels
+
+============================================================
+📄 PAGE 14/21 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_14.png
+📐 Original size: 1009x1629 pixels
+📐 Original size: 1009x1624 pixels
+📐 Original size: 1009x1627 pixels
+
+============================================================
+📄 PAGE 15/21 (Thread: ThreadPoolExecutor-0_14)
+============================================================
+📂 Loading image: page_15.png
+📐 Original size: 1010x1629 pixels
+✅ Compressed to: 989x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 993x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 984x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 982x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 989x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 979x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 988x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 990x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 991x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 994x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 988x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 982x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 988x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 11.9s (vs ~60-95s with Pro)
+📝 Response: 5062 chars
+✅ JSON extracted
+📊 14 polling stations
+
+============================================================
+📄 PAGE 16/21 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_16.png
+
+✅ Page 9 DONE! (1/21)
+📐 Original size: 1012x1629 pixels
+✅ Compressed to: 994x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 12.1s (vs ~60-95s with Pro)
+📝 Response: 5080 chars
+✅ JSON extracted
+📊 14 polling stations
+
+============================================================
+📄 PAGE 17/21 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_17.png
+
+✅ Page 6 DONE! (2/21)
+📐 Original size: 1009x1627 pixels
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 12.4s (vs ~60-95s with Pro)
+📝 Response: 4808 chars
+✅ JSON extracted
+📊 13 polling stations
+
+============================================================
+📄 PAGE 18/21 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_18.png
+
+✅ Page 10 DONE! (3/21)
+📐 Original size: 1009x1627 pixels
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 13.2s (vs ~60-95s with Pro)
+📝 Response: 6173 chars
+✅ JSON extracted
+📊 13 polling stations
+
+============================================================
+📄 PAGE 19/21 (Thread: ThreadPoolExecutor-0_12)
+============================================================
+📂 Loading image: page_19.png
+
+✅ Page 13 DONE! (4/21)
+📐 Original size: 1009x1624 pixels
+✅ Compressed to: 994x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 13.4s (vs ~60-95s with Pro)
+📝 Response: 6195 chars
+✅ JSON extracted
+📊 13 polling stations
+
+============================================================
+📄 PAGE 20/21 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_20.png
+
+✅ Page 12 DONE! (5/21)
+📐 Original size: 1012x1622 pixels
+✅ Compressed to: 998x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 14.1s (vs ~60-95s with Pro)
+📝 Response: 6148 chars
+✅ JSON extracted
+📊 14 polling stations
+
+============================================================
+📄 PAGE 21/21 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_21.png
+📐 Original size: 1007x1624 pixels
+✅ Compressed to: 992x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 14.0s (vs ~60-95s with Pro)
+📝 Response: 6157 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 8 DONE! (7/21)
+⚡ API response in 15.3s (vs ~60-95s with Pro)
+📝 Response: 9363 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 1 DONE! (8/21)
+⚡ API response in 15.4s (vs ~60-95s with Pro)
+📝 Response: 8860 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 15 DONE! (9/21)
+⚡ API response in 15.5s (vs ~60-95s with Pro)
+📝 Response: 7587 chars
+✅ JSON extracted
+📊 9 polling stations
+
+✅ Page 5 DONE! (10/21)
+⚡ API response in 15.8s (vs ~60-95s with Pro)
+📝 Response: 5564 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 2 DONE! (11/21)
+⚡ API response in 16.6s (vs ~60-95s with Pro)
+📝 Response: 10198 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 7 DONE! (12/21)
+⚡ API response in 19.3s (vs ~60-95s with Pro)
+📝 Response: 11304 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 14 DONE! (13/21)
+⚡ API response in 19.7s (vs ~60-95s with Pro)
+📝 Response: 9900 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 11 DONE! (14/21)
+⚡ API response in 12.7s (vs ~60-95s with Pro)
+📝 Response: 6432 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 17 DONE! (15/21)
+⚡ API response in 25.5s (vs ~60-95s with Pro)
+📝 Response: 5951 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 3 DONE! (16/21)
+⚡ API response in 14.0s (vs ~60-95s with Pro)
+📝 Response: 7020 chars
+✅ JSON extracted
+📊 9 polling stations
+
+✅ Page 20 DONE! (17/21)
+⚡ API response in 16.3s (vs ~60-95s with Pro)
+📝 Response: 5776 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 18 DONE! (18/21)
+⚡ API response in 15.7s (vs ~60-95s with Pro)
+📝 Response: 7479 chars
+✅ JSON extracted
+📊 16 polling stations
+
+✅ Page 19 DONE! (19/21)
+⚡ API response in 19.9s (vs ~60-95s with Pro)
+📝 Response: 10806 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 16 DONE! (20/21)
+⚡ API response in 18.6s (vs ~60-95s with Pro)
+📝 Response: 9956 chars
+✅ JSON extracted
+📊 14 polling stations
+
+✅ Page 21 DONE! (21/21)
+
+📦 Merging results from 21 pages...
+📊 Total polling stations: 283
+
+✅ Successfully processed 21/21 pages
+
+💾 Results saved: parsedData/AC_087.json (97,173 bytes)
+📊 Constituency: 87 - Nanded South Legislative Assembly Constituency
+📊 Polling Stations: 283
+📊 Candidates: 23
+��:�Ѓ��o���8�|�`J)!e�

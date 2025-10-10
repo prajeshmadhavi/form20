@@ -1,0 +1,78 @@
+⚡ ULTRA-FAST PROCESSING AC_209
+📁 PDF: LOKSABHA_2024/34 - Pune/AC_209.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 6 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+
+⚡ Processing 4 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/4 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 784x1279 pixels
+
+============================================================
+📄 PAGE 2/4 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 799x1282 pixels
+
+============================================================
+📄 PAGE 3/4 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+
+============================================================
+📄 PAGE 4/4 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 790x1284 pixels
+📐 Original size: 784x1280 pixels
+✅ Compressed to: 799x1282 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 784x1279 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 784x1280 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 790x1284 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 14.7s (vs ~60-95s with Pro)
+📝 Response: 6030 chars
+✅ JSON extracted
+📊 23 polling stations
+
+✅ Page 2 DONE! (1/4)
+⚡ API response in 28.9s (vs ~60-95s with Pro)
+📝 Response: 9175 chars
+✅ JSON extracted
+📊 20 polling stations
+
+✅ Page 4 DONE! (2/4)
+⚡ API response in 46.1s (vs ~60-95s with Pro)
+📝 Response: 15080 chars
+✅ JSON extracted
+📊 37 polling stations
+
+✅ Page 1 DONE! (3/4)
+⚡ API response in 52.2s (vs ~60-95s with Pro)
+📝 Response: 17425 chars
+❌ Error: Expecting ',' delimiter: line 411 column 65 (char 17415)
+
+⚠️ Page 3 FAILED
+
+📦 Merging results from 3 pages...
+📊 Total polling stations: 80
+
+✅ Successfully processed 3/4 pages
+
+💾 Results saved: parsedData/AC_209.json (43,728 bytes)
+📊 Constituency: 34 - PUNE PARLIAMENTARY
+📊 Polling Stations: 80
+📊 Candidates: 36

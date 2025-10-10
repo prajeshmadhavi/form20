@@ -1,0 +1,33 @@
+{
+  "Constituency Number": 38,
+  "constituency_name": "Amravati (Gen)",
+  "Total Number of Electors": 346688,
+  "serial_no_wise_details": [],
+  "candidates": [
+    {
+      "candidate_name": "BHATKAR"
+    },
+    {
+      "candidate_name": "CHOURPAGAR"
+    },
+    {
+      "candidate_name": "MURINBRAO"
+    },
+    {
+      "candidate_name": "YANGAR"
+    }
+  ],
+  "candidate_names": [
+    "BHATKAR",
+    "CHOURPAGAR",
+    "MURINBRAO",
+    "YANGAR"
+  ],
+  "extraction_method": "gemini_vision_ultrafast",
+  "api_model": "gemini-2.0-flash",
+  "pages_available": 4,
+  "pages_processed": 2,
+  "pages_skipped": 2,
+  "parallel_workers": 15,
+  "dpi": 120
+}

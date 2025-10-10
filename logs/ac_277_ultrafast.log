@@ -1,0 +1,64 @@
+⚡ ULTRA-FAST PROCESSING AC_277
+📁 PDF: LOKSABHA_2024/48 - Hatkanangle/AC_277.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 5 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+
+⚡ Processing 3 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/3 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 2/3 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/3 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 5.9s (vs ~60-95s with Pro)
+📝 Response: 1471 chars
+✅ JSON extracted
+
+✅ Page 2 DONE! (1/3)
+⚡ API response in 28.0s (vs ~60-95s with Pro)
+📝 Response: 13446 chars
+✅ JSON extracted
+📊 43 polling stations
+
+✅ Page 3 DONE! (2/3)
+⚡ API response in 36.3s (vs ~60-95s with Pro)
+📝 Response: 20818 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 1 DONE! (3/3)
+
+📦 Merging results from 3 pages...
+📊 Total polling stations: 70
+
+✅ Successfully processed 3/3 pages
+
+💾 Results saved: parsedData/AC_277.json (24,822 bytes)
+📊 Constituency: 277 - Shahuwadi (Gen) Assembly Election
+📊 Total Electors: 296,595
+📊 Polling Stations: 70
+📊 Candidates: 21

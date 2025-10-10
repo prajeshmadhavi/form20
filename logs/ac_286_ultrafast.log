@@ -1,0 +1,95 @@
+⚡ ULTRA-FAST PROCESSING AC_286
+📁 PDF: LOKSABHA_2024/44 - Sangli/AC_286.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+⚡ Processing 5 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1619x1004 pixels
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1624x1007 pixels
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1615x1005 pixels
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1617x1007 pixels
+📐 Original size: 1614x1005 pixels
+✅ Compressed to: 1600x996 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x996 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x996 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 28.5s (vs ~60-95s with Pro)
+📝 Response: 10674 chars
+✅ JSON extracted
+📊 33 polling stations
+
+✅ Page 5 DONE! (1/5)
+⚡ API response in 33.7s (vs ~60-95s with Pro)
+📝 Response: 18769 chars
+✅ JSON extracted
+📊 36 polling stations
+
+✅ Page 2 DONE! (2/5)
+⚡ API response in 44.8s (vs ~60-95s with Pro)
+📝 Response: 25810 chars
+✅ JSON extracted
+📊 43 polling stations
+
+✅ Page 1 DONE! (3/5)
+⚡ API response in 48.2s (vs ~60-95s with Pro)
+📝 Response: 16903 chars
+✅ JSON extracted
+📊 53 polling stations
+
+✅ Page 4 DONE! (4/5)
+⚡ API response in 52.9s (vs ~60-95s with Pro)
+📝 Response: 17541 chars
+✅ JSON extracted
+📊 53 polling stations
+
+✅ Page 3 DONE! (5/5)
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 218
+
+✅ Successfully processed 5/5 pages
+
+💾 Results saved: parsedData/AC_286.json (88,444 bytes)
+📊 Constituency: 44 - SANGLI PARLIAMENTARY CONSTITUENCY
+📊 Total Electors: 335,507
+📊 Polling Stations: 218
+📊 Candidates: 16

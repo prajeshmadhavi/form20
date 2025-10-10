@@ -1,0 +1,63 @@
+⚡ ULTRA-FAST PROCESSING AC_201
+📁 PDF: LOKSABHA_2024/35 - Baramati/AC_201.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 5 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+
+⚡ Processing 3 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/3 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/3 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/3 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 2.7s (vs ~60-95s with Pro)
+📝 Response: 203 chars
+✅ JSON extracted
+
+✅ Page 2 DONE! (1/3)
+⚡ API response in 6.6s (vs ~60-95s with Pro)
+📝 Response: 1337 chars
+✅ JSON extracted
+
+✅ Page 3 DONE! (2/3)
+⚡ API response in 51.7s (vs ~60-95s with Pro)
+📝 Response: 31027 chars
+✅ JSON extracted
+📊 50 polling stations
+
+✅ Page 1 DONE! (3/3)
+
+📦 Merging results from 3 pages...
+📊 Total polling stations: 50
+
+✅ Successfully processed 3/3 pages
+
+💾 Results saved: parsedData/AC_201.json (21,945 bytes)
+📊 Constituency: 201 - Baramati (Gen) Assembly Election
+📊 Total Electors: 369,778
+📊 Polling Stations: 50
+📊 Candidates: 18

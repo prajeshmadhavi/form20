@@ -1,0 +1,63 @@
+⚡ ULTRA-FAST PROCESSING AC_167
+📁 PDF: LOKSABHA_2024/29 - Mumbai North-Central/AC_167.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 5 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+
+⚡ Processing 3 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/3 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/3 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/3 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 5.0s (vs ~60-95s with Pro)
+📝 Response: 1056 chars
+✅ JSON extracted
+
+✅ Page 3 DONE! (1/3)
+⚡ API response in 7.1s (vs ~60-95s with Pro)
+📝 Response: 1684 chars
+✅ JSON extracted
+
+✅ Page 1 DONE! (2/3)
+⚡ API response in 8.2s (vs ~60-95s with Pro)
+📝 Response: 2470 chars
+✅ JSON extracted
+📊 3 polling stations
+
+✅ Page 2 DONE! (3/3)
+
+📦 Merging results from 3 pages...
+📊 Total polling stations: 3
+
+✅ Successfully processed 3/3 pages
+
+💾 Results saved: parsedData/AC_167.json (3,486 bytes)
+📊 Constituency: 167 - Vile Parle (Gen) Assembly Election
+📊 Total Electors: 269,715
+📊 Polling Stations: 3
+📊 Candidates: 30

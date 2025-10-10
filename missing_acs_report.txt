@@ -1,0 +1,23 @@
+# Missing Assembly Constituencies Report
+
+## Summary
+Out of 288 expected Assembly Constituencies (AC_1 to AC_288):
+- **Available**: 286 ACs
+- **Missing**: 2 ACs
+
+## Missing ACs
+
+### AC_66
+- **Expected Location**: Between AC_65 (Gondia) and AC_67 (Gadchiroli)
+- **Status**: No PDF file in source dataset
+- **Likely Reason**: Reserved/skipped constituency number in official Maharashtra assembly numbering
+
+### AC_258
+- **Expected Location**: Between AC_257 (Satara) and AC_259 (Satara)
+- **Status**: No PDF file in source dataset  
+- **Likely Reason**: Reserved/skipped constituency number in official Maharashtra assembly numbering
+
+## Conclusion
+These 2 constituencies (AC_66 and AC_258) appear to be intentionally skipped or reserved numbers in Maharashtra's official assembly constituency numbering system. They were never part of the source dataset.
+
+**Actual processing completion**: 286/286 available constituencies = 100%

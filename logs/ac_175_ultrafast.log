@@ -1,0 +1,79 @@
+⚡ ULTRA-FAST PROCESSING AC_175
+📁 PDF: LOKSABHA_2024/29 - Mumbai North-Central/AC_175.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 6 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+
+⚡ Processing 4 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/4 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/4 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 3/4 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 992x1404 pixels
+📐 Original size: 992x1404 pixels
+
+============================================================
+📄 PAGE 4/4 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 992x1404 pixels
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 27.8s (vs ~60-95s with Pro)
+📝 Response: 14722 chars
+✅ JSON extracted
+📊 29 polling stations
+
+✅ Page 2 DONE! (1/4)
+⚡ API response in 43.4s (vs ~60-95s with Pro)
+📝 Response: 27534 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 1 DONE! (2/4)
+⚡ API response in 45.1s (vs ~60-95s with Pro)
+📝 Response: 16037 chars
+✅ JSON extracted
+📊 48 polling stations
+
+✅ Page 4 DONE! (3/4)
+⚡ API response in 53.1s (vs ~60-95s with Pro)
+📝 Response: 17537 chars
+❌ Error: Expecting ',' delimiter: line 428 column 54 (char 17473)
+
+⚠️ Page 3 FAILED
+
+📦 Merging results from 3 pages...
+📊 Total polling stations: 108
+
+✅ Successfully processed 3/4 pages
+
+💾 Results saved: parsedData/AC_175.json (50,453 bytes)
+📊 Constituency: 175 - Kalina Assembly Constituency
+📊 Total Electors: 239,868
+📊 Polling Stations: 108
+📊 Candidates: 32

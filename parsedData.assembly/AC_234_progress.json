@@ -1,0 +1,625 @@
+{
+  "Constituency Number": 234,
+  "constituency_name": "Latur Rural Assembly Constituency",
+  "Total Number of Electors": null,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 547,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 547,
+      "candidate_votes": [
+        315,
+        214,
+        4,
+        11,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 537,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 537,
+      "candidate_votes": [
+        287,
+        231,
+        4,
+        13,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 674,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 674,
+      "candidate_votes": [
+        375,
+        272,
+        4,
+        37,
+        1,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 649,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 649,
+      "candidate_votes": [
+        304,
+        292,
+        1,
+        4,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        4,
+        3,
+        3,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 720,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 720,
+      "candidate_votes": [
+        331,
+        370,
+        3,
+        50,
+        2,
+        1,
+        4,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 6,
+      "Total Number of valid votes": 656,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 656,
+      "candidate_votes": [
+        321,
+        260,
+        5,
+        28,
+        1,
+        0,
+        6,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        3,
+        6,
+        10
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 7,
+      "Total Number of valid votes": 617,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 617,
+      "candidate_votes": [
+        262,
+        293,
+        4,
+        7,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        3,
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 8,
+      "Total Number of valid votes": 582,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 582,
+      "candidate_votes": [
+        236,
+        320,
+        0,
+        19,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 9,
+      "Total Number of valid votes": 624,
+      "Number of Rejected votes": 0,
+      "NOTA": 5,
+      "Total": 624,
+      "candidate_votes": [
+        325,
+        267,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        3
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 10,
+      "Total Number of valid votes": 770,
+      "Number of Rejected votes": 0,
+      "NOTA": 6,
+      "Total": 770,
+      "candidate_votes": [
+        380,
+        375,
+        3,
+        0,
+        1,
+        0,
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        10
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 11,
+      "Total Number of valid votes": 750,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 750,
+      "candidate_votes": [
+        336,
+        369,
+        1,
+        8,
+        0,
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        2,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 12,
+      "Total Number of valid votes": 778,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 778,
+      "candidate_votes": [
+        329,
+        329,
+        3,
+        129,
+        3,
+        1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        23,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 13,
+      "Total Number of valid votes": 859,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 859,
+      "candidate_votes": [
+        373,
+        333,
+        6,
+        80,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        14,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 14,
+      "Total Number of valid votes": 708,
+      "Number of Rejected votes": 0,
+      "NOTA": 0,
+      "Total": 708,
+      "candidate_votes": [
+        306,
+        389,
+        3,
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 15,
+      "Total Number of valid votes": 314,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 314,
+      "candidate_votes": [
+        177,
+        124,
+        1,
+        9,
+        2,
+        2,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 16,
+      "Total Number of valid votes": 488,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 488,
+      "candidate_votes": [
+        242,
+        224,
+        6,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 17,
+      "Total Number of valid votes": 521,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 521,
+      "candidate_votes": [
+        207,
+        299,
+        2,
+        9,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 18,
+      "Total Number of valid votes": 573,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 573,
+      "candidate_votes": [
+        308,
+        236,
+        2,
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 19,
+      "Total Number of valid votes": 496,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 496,
+      "candidate_votes": [
+        128,
+        333,
+        6,
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 20,
+      "Total Number of valid votes": 493,
+      "Number of Rejected votes": 0,
+      "NOTA": 1,
+      "Total": 493,
+      "candidate_votes": [
+        150,
+        309,
+        2,
+        25,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Dhiraj Vilasrao Deshmukh"
+    },
+    {
+      "candidate_name": "Ramesh Kashiram Karad"
+    },
+    {
+      "candidate_name": "Santosh Ganpatrao Hagargoje"
+    },
+    {
+      "candidate_name": "Dr.Ajanikar Vijay Raghunathrao"
+    },
+    {
+      "candidate_name": "Dr. Nitin Waghe"
+    },
+    {
+      "candidate_name": "Balkishan Shankar Adsul"
+    },
+    {
+      "candidate_name": "Samadhan Baliram Gore"
+    },
+    {
+      "candidate_name": "Samadhan Bharat Shinde"
+    },
+    {
+      "candidate_name": "Aman Ishwar Surwase"
+    },
+    {
+      "candidate_name": "Gadgale Rajkumar Maroti"
+    },
+    {
+      "candidate_name": "Zete Sachin Vitthal"
+    },
+    {
+      "candidate_name": "Dipak Rajabhau Ingale"
+    },
+    {
+      "candidate_name": "Nandkishor Shankarrao Salunke"
+    },
+    {
+      "candidate_name": "Pankaj Raosaheb Deshmukh"
+    },
+    {
+      "candidate_name": "Balaji Ramrao More"
+    },
+    {
+      "candidate_name": "Bavane Dr. Datta"
+    },
+    {
+      "candidate_name": "Laxmikant Manikrao Jogdand"
+    },
+    {
+      "candidate_name": "Sumitrabai Alias Swati Vikram Jadhav Patil"
+    }
+  ],
+  "candidate_names": [
+    "Dhiraj Vilasrao Deshmukh",
+    "Ramesh Kashiram Karad",
+    "Santosh Ganpatrao Hagargoje",
+    "Dr.Ajanikar Vijay Raghunathrao",
+    "Dr. Nitin Waghe",
+    "Balkishan Shankar Adsul",
+    "Samadhan Baliram Gore",
+    "Samadhan Bharat Shinde",
+    "Aman Ishwar Surwase",
+    "Gadgale Rajkumar Maroti",
+    "Zete Sachin Vitthal",
+    "Dipak Rajabhau Ingale",
+    "Nandkishor Shankarrao Salunke",
+    "Pankaj Raosaheb Deshmukh",
+    "Balaji Ramrao More",
+    "Bavane Dr. Datta",
+    "Laxmikant Manikrao Jogdand",
+    "Sumitrabai Alias Swati Vikram Jadhav Patil"
+  ],
+  "pages_processed_so_far": 1,
+  "last_page_completed": 1
+}

@@ -1,0 +1,308 @@
+==================================
+PROCESSING AC_234 - Latur Rural (PARALLEL)
+==================================
+PDF: VIDHANSABHA_2024/Latur/AC_234.pdf
+Workers: 4 parallel threads
+Start: Thu Oct  9 12:55:45 UTC 2025
+
+🔍 PROCESSING AC_234 WITH GEMINI VISION LLM (PARALLEL MODE)
+📁 PDF: VIDHANSABHA_2024/Latur/AC_234.pdf
+🧵 Max parallel workers: 4
+📄 Converting PDF to images...
+📊 Converted 19 pages
+💾 Saved: vision_pages/AC_234/page_01.png
+💾 Saved: vision_pages/AC_234/page_02.png
+💾 Saved: vision_pages/AC_234/page_03.png
+💾 Saved: vision_pages/AC_234/page_04.png
+💾 Saved: vision_pages/AC_234/page_05.png
+💾 Saved: vision_pages/AC_234/page_06.png
+💾 Saved: vision_pages/AC_234/page_07.png
+💾 Saved: vision_pages/AC_234/page_08.png
+💾 Saved: vision_pages/AC_234/page_09.png
+💾 Saved: vision_pages/AC_234/page_10.png
+💾 Saved: vision_pages/AC_234/page_11.png
+💾 Saved: vision_pages/AC_234/page_12.png
+💾 Saved: vision_pages/AC_234/page_13.png
+💾 Saved: vision_pages/AC_234/page_14.png
+💾 Saved: vision_pages/AC_234/page_15.png
+💾 Saved: vision_pages/AC_234/page_16.png
+💾 Saved: vision_pages/AC_234/page_17.png
+💾 Saved: vision_pages/AC_234/page_18.png
+💾 Saved: vision_pages/AC_234/page_19.png
+
+🚀 Processing 17 pages in parallel...
+
+============================================================
+📄 PAGE 1/17 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+
+============================================================
+📄 PAGE 2/17 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/17 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+
+============================================================
+📄 PAGE 4/17 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 81.5 seconds
+📝 Response length: 13649 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 5/17 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_05.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+
+✅ Page 2 COMPLETED successfully! (1/17)
+⏱️  API response received in 90.1 seconds
+📝 Response length: 13245 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 6/17 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_06.png
+
+✅ Page 1 COMPLETED successfully! (2/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 101.7 seconds
+📝 Response length: 10053 characters
+✅ JSON extracted successfully
+📊 Found 14 polling stations
+
+============================================================
+📄 PAGE 7/17 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_07.png
+
+✅ Page 4 COMPLETED successfully! (3/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 125.6 seconds
+📝 Response length: 13651 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 8/17 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_08.png
+
+✅ Page 3 COMPLETED successfully! (4/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 96.6 seconds
+📝 Response length: 13665 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 9/17 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_09.png
+
+✅ Page 5 COMPLETED successfully! (5/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 98.1 seconds
+📝 Response length: 13676 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 10/17 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_10.png
+
+✅ Page 6 COMPLETED successfully! (6/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 107.5 seconds
+📝 Response length: 13087 characters
+✅ JSON extracted successfully
+📊 Found 19 polling stations
+
+============================================================
+📄 PAGE 11/17 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_11.png
+
+✅ Page 7 COMPLETED successfully! (7/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 76.9 seconds
+📝 Response length: 13674 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 12/17 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_12.png
+
+✅ Page 10 COMPLETED successfully! (8/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 103.8 seconds
+📝 Response length: 13674 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 13/17 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_13.png
+
+✅ Page 9 COMPLETED successfully! (9/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 156.5 seconds
+📝 Response length: 13734 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+============================================================
+📄 PAGE 14/17 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_14.png
+
+✅ Page 8 COMPLETED successfully! (10/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 131.9 seconds
+📝 Response length: 13070 characters
+✅ JSON extracted successfully
+📊 Found 19 polling stations
+
+============================================================
+📄 PAGE 15/17 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_15.png
+
+✅ Page 11 COMPLETED successfully! (11/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 101.7 seconds
+📝 Response length: 10054 characters
+✅ JSON extracted successfully
+📊 Found 14 polling stations
+
+============================================================
+📄 PAGE 16/17 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_16.png
+
+✅ Page 12 COMPLETED successfully! (12/17)
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 86.4 seconds
+📝 Response length: 10038 characters
+✅ JSON extracted successfully
+📊 Found 14 polling stations
+
+============================================================
+Traceback (most recent call last):
+  File "/home/prajesh/test/chandrakant/form20/gemini_vision_extractor_parallel.py", line 90, in extract_form20_with_gemini_vision
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/models.py", line 6498, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/models.py", line 5310, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/_api_client.py", line 1291, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/_api_client.py", line 1127, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/_api_client.py", line 1104, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "/home/prajesh/test/chandrakant/form20/venv/lib/python3.12/site-packages/google/genai/errors.py", line 110, in raise_for_response
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+📄 PAGE 17/17 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_17.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+❌ Error with Gemini Vision API: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+⚠️ Page 16 FAILED
+⏱️  API response received in 110.5 seconds
+📝 Response length: 13682 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+✅ Page 13 COMPLETED successfully! (14/17)
+⏱️  API response received in 110.5 seconds
+📝 Response length: 13686 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+
+✅ Page 15 COMPLETED successfully! (15/17)
+⏱️  API response received in 84.8 seconds
+📝 Response length: 12469 characters
+✅ JSON extracted successfully
+📊 Found 18 polling stations
+
+✅ Page 17 COMPLETED successfully! (16/17)
+
+📦 Merging results from 16 pages...
+📊 Total polling stations collected: 298
+
+✅ Successfully processed 16/17 pages
+
+💾 Results saved: parsedData/AC_234.json
+📊 Constituency: 234 - Latur Rural
+📊 Total Electors: None
+📊 Polling Stations: 298
+📊 Candidates: 18
+                                             
+Finished at: Thu Oct  9 13:03:32 UTC 2025
+Exit code: 0
+==================================
+✅ AC_234 processed successfully!
+✅ JSON file created: parsedData/AC_234.json
+-rw-rw-r-- 1 prajesh prajesh 122K Oct  9 13:03 parsedData/AC_234.json

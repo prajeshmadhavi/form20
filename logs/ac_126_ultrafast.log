@@ -1,0 +1,47 @@
+⚡ ULTRA-FAST PROCESSING AC_126
+📁 PDF: LOKSABHA_2024/21 - Nashik/AC_126.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 4 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+
+⚡ Processing 2 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/2 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/2 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 6.8s (vs ~60-95s with Pro)
+📝 Response: 2171 chars
+✅ JSON extracted
+
+✅ Page 2 DONE! (1/2)
+⚡ API response in 52.2s (vs ~60-95s with Pro)
+📝 Response: 18837 chars
+❌ Error: Expecting ',' delimiter: line 493 column 10 (char 18654)
+
+⚠️ Page 1 FAILED
+
+📦 Merging results from 1 pages...
+📊 Total polling stations: 0
+
+✅ Successfully processed 1/2 pages
+
+💾 Results saved: parsedData/AC_126.json (370 bytes)
+📊 Constituency: None - None
+📊 Polling Stations: 0
+📊 Candidates: 0

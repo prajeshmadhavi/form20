@@ -11,6 +11,9 @@ from pdf2image import convert_from_path
 from google import genai
 from PIL import Image
 
+# Increase PIL image size limit to handle large PDFs
+Image.MAX_IMAGE_PIXELS = None  # Disable decompression bomb protection
+
 # Set up Gemini client
 # Get API key from environment variable
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")

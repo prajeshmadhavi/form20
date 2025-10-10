@@ -1,0 +1,310 @@
+==================================
+PROCESSING REMAINING 2 PDFs
+==================================
+
+[1/2] Processing AC_113 - Nandgaon (Nashik)...
+PDF: VIDHANSABHA_2024/Nashik/AC_113.pdf
+Start: Thu Oct  9 11:43:14 UTC 2025
+
+./process_remaining_2.sh: line 22: 2744812 Killed                  python gemini_vision_extractor.py 113
+
+Finished AC_113 at: Thu Oct  9 11:54:00 UTC 2025
+Exit code: 137
+
+==================================
+
+[2/2] Processing AC_234 - Latur Rural (Latur)...
+PDF: VIDHANSABHA_2024/Latur/AC_234.pdf
+Start: Thu Oct  9 11:54:03 UTC 2025
+
+🔍 PROCESSING AC_234 WITH GEMINI VISION LLM
+📁 PDF: VIDHANSABHA_2024/Latur/AC_234.pdf
+📄 Converting PDF to images...
+📊 Converted 19 pages
+💾 Saved: vision_pages/AC_234/page_01.png
+💾 Saved: vision_pages/AC_234/page_02.png
+💾 Saved: vision_pages/AC_234/page_03.png
+💾 Saved: vision_pages/AC_234/page_04.png
+💾 Saved: vision_pages/AC_234/page_05.png
+💾 Saved: vision_pages/AC_234/page_06.png
+💾 Saved: vision_pages/AC_234/page_07.png
+💾 Saved: vision_pages/AC_234/page_08.png
+💾 Saved: vision_pages/AC_234/page_09.png
+💾 Saved: vision_pages/AC_234/page_10.png
+💾 Saved: vision_pages/AC_234/page_11.png
+💾 Saved: vision_pages/AC_234/page_12.png
+💾 Saved: vision_pages/AC_234/page_13.png
+💾 Saved: vision_pages/AC_234/page_14.png
+💾 Saved: vision_pages/AC_234/page_15.png
+💾 Saved: vision_pages/AC_234/page_16.png
+💾 Saved: vision_pages/AC_234/page_17.png
+💾 Saved: vision_pages/AC_234/page_18.png
+💾 Saved: vision_pages/AC_234/page_19.png
+🤖 Processing 17 pages (skipping last 2 if present)...
+
+============================================================
+📄 PAGE 1/17
+============================================================
+📂 Loading image: page_01.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 93.3 seconds
+📝 Response length: 13646 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 1 COMPLETED successfully!
+
+📋 CONSTITUENCY INFO:
+   Number: 234
+   Name: Latur Rural Assembly Constituency
+   Electors: N/A
+   Candidates: 18
+📊 Total polling stations collected so far: 20
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 2/17
+============================================================
+📂 Loading image: page_02.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 106.0 seconds
+📝 Response length: 13647 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 2 COMPLETED successfully!
+📊 Total polling stations collected so far: 40
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 3/17
+============================================================
+📂 Loading image: page_03.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 85.9 seconds
+📝 Response length: 13650 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 3 COMPLETED successfully!
+📊 Total polling stations collected so far: 60
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 4/17
+============================================================
+📂 Loading image: page_04.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 92.1 seconds
+📝 Response length: 7633 characters
+✅ JSON extracted successfully
+📊 Found 10 polling stations
+✅ Page 4 COMPLETED successfully!
+📊 Total polling stations collected so far: 70
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 5/17
+============================================================
+📂 Loading image: page_05.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 124.3 seconds
+📝 Response length: 13643 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 5 COMPLETED successfully!
+📊 Total polling stations collected so far: 90
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 6/17
+============================================================
+📂 Loading image: page_06.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 65.0 seconds
+📝 Response length: 13676 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 6 COMPLETED successfully!
+📊 Total polling stations collected so far: 110
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 7/17
+============================================================
+📂 Loading image: page_07.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 81.1 seconds
+📝 Response length: 10044 characters
+✅ JSON extracted successfully
+📊 Found 14 polling stations
+✅ Page 7 COMPLETED successfully!
+📊 Total polling stations collected so far: 124
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 8/17
+============================================================
+📂 Loading image: page_08.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 92.5 seconds
+📝 Response length: 13687 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 8 COMPLETED successfully!
+📊 Total polling stations collected so far: 144
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 9/17
+============================================================
+📂 Loading image: page_09.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 128.1 seconds
+📝 Response length: 13674 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 9 COMPLETED successfully!
+📊 Total polling stations collected so far: 164
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 10/17
+============================================================
+📂 Loading image: page_10.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 105.8 seconds
+📝 Response length: 13674 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 10 COMPLETED successfully!
+📊 Total polling stations collected so far: 184
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 11/17
+============================================================
+📂 Loading image: page_11.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 130.4 seconds
+📝 Response length: 13676 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 11 COMPLETED successfully!
+📊 Total polling stations collected so far: 204
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 12/17
+============================================================
+📂 Loading image: page_12.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 108.0 seconds
+📝 Response length: 13683 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 12 COMPLETED successfully!
+📊 Total polling stations collected so far: 224
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 13/17
+============================================================
+📂 Loading image: page_13.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 67.9 seconds
+📝 Response length: 13683 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 13 COMPLETED successfully!
+📊 Total polling stations collected so far: 244
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 14/17
+============================================================
+📂 Loading image: page_14.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 91.8 seconds
+📝 Response length: 10036 characters
+✅ JSON extracted successfully
+📊 Found 14 polling stations
+✅ Page 14 COMPLETED successfully!
+📊 Total polling stations collected so far: 258
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 15/17
+============================================================
+📂 Loading image: page_15.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 86.7 seconds
+📝 Response length: 13686 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 15 COMPLETED successfully!
+📊 Total polling stations collected so far: 278
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 16/17
+============================================================
+📂 Loading image: page_16.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 108.5 seconds
+📝 Response length: 13676 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 16 COMPLETED successfully!
+📊 Total polling stations collected so far: 298
+💾 Progress saved to parsedData/AC_234_progress.json
+⏸️  Waiting 2 seconds before next page...
+
+============================================================
+📄 PAGE 17/17
+============================================================
+📂 Loading image: page_17.png
+✅ Image loaded successfully (2480x3509 pixels)
+🤖 Calling Gemini 2.5 Pro API...
+⏱️  API response received in 97.6 seconds
+📝 Response length: 13673 characters
+✅ JSON extracted successfully
+📊 Found 20 polling stations
+✅ Page 17 COMPLETED successfully!
+📊 Total polling stations collected so far: 318
+💾 Progress saved to parsedData/AC_234_progress.json
+✅ Successfully processed 17/17 pages
+💾 Results saved: parsedData/AC_234.json
+📊 Constituency: 234 - Latur Rural Assembly Constituency
+📊 Total Electors: None
+📊 Polling Stations: 318
+📊 Candidates: 18
+✅ AC_234 processing completed successfully

@@ -1,0 +1,95 @@
+⚡ ULTRA-FAST PROCESSING AC_272
+📁 PDF: LOKSABHA_2024/47 - Kolhapur/AC_272.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+⚡ Processing 5 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x993 pixels
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 19.1s (vs ~60-95s with Pro)
+📝 Response: 7105 chars
+✅ JSON extracted
+📊 20 polling stations
+
+✅ Page 3 DONE! (1/5)
+⚡ API response in 19.4s (vs ~60-95s with Pro)
+📝 Response: 6762 chars
+✅ JSON extracted
+📊 17 polling stations
+
+✅ Page 2 DONE! (2/5)
+⚡ API response in 23.9s (vs ~60-95s with Pro)
+📝 Response: 12215 chars
+✅ JSON extracted
+📊 49 polling stations
+
+✅ Page 5 DONE! (3/5)
+⚡ API response in 26.9s (vs ~60-95s with Pro)
+📝 Response: 14891 chars
+✅ JSON extracted
+📊 53 polling stations
+
+✅ Page 1 DONE! (4/5)
+⚡ API response in 27.7s (vs ~60-95s with Pro)
+📝 Response: 17652 chars
+✅ JSON extracted
+📊 27 polling stations
+
+✅ Page 4 DONE! (5/5)
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 166
+
+✅ Successfully processed 5/5 pages
+
+💾 Results saved: parsedData/AC_272.json (50,510 bytes)
+📊 Constituency: 272 - Radhanagari (Gen)
+📊 Total Electors: 335,111
+📊 Polling Stations: 166
+📊 Candidates: 23

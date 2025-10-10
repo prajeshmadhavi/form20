@@ -1,0 +1,108 @@
+⚡ ULTRA-FAST PROCESSING AC_145
+📁 PDF: LOKSABHA_2024/25 - Thane/AC_145.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 8 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+
+⚡ Processing 6 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/6 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1630x1012 pixels
+
+============================================================
+📄 PAGE 2/6 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/6 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1627x1012 pixels
+
+============================================================
+📄 PAGE 4/6 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1630x1012 pixels
+
+============================================================
+📄 PAGE 5/6 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1629x1012 pixels
+📐 Original size: 1629x1012 pixels
+
+============================================================
+📄 PAGE 6/6 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1630x1012 pixels
+✅ Compressed to: 1600x995 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x994 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 5.6s (vs ~60-95s with Pro)
+📝 Response: 1485 chars
+✅ JSON extracted
+
+✅ Page 5 DONE! (1/6)
+⚡ API response in 10.8s (vs ~60-95s with Pro)
+📝 Response: 3082 chars
+✅ JSON extracted
+📊 5 polling stations
+
+✅ Page 3 DONE! (2/6)
+⚡ API response in 10.9s (vs ~60-95s with Pro)
+📝 Response: 3325 chars
+✅ JSON extracted
+📊 7 polling stations
+
+✅ Page 6 DONE! (3/6)
+⚡ API response in 13.7s (vs ~60-95s with Pro)
+📝 Response: 6269 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 4 DONE! (4/6)
+⚡ API response in 31.1s (vs ~60-95s with Pro)
+📝 Response: 10913 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 1 DONE! (5/6)
+⚡ API response in 43.8s (vs ~60-95s with Pro)
+📝 Response: 15918 chars
+✅ JSON extracted
+📊 49 polling stations
+
+✅ Page 2 DONE! (6/6)
+
+📦 Merging results from 6 pages...
+📊 Total polling stations: 111
+
+✅ Successfully processed 6/6 pages
+
+💾 Results saved: parsedData/AC_145.json (49,774 bytes)
+📊 Constituency: 145 - Mira Bhayandar (Gen) Assembly Election
+📊 Polling Stations: 111
+📊 Candidates: 24

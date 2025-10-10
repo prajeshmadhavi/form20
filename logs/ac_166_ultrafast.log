@@ -1,0 +1,80 @@
+⚡ ULTRA-FAST PROCESSING AC_166
+📁 PDF: LOKSABHA_2024/27 - Mumbai North-West/AC_166.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 6 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+
+⚡ Processing 4 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/4 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 995x1404 pixels
+
+============================================================
+📄 PAGE 2/4 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+
+============================================================
+📄 PAGE 3/4 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 995x1400 pixels
+
+============================================================
+📄 PAGE 4/4 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 999x1404 pixels
+📐 Original size: 995x1400 pixels
+✅ Compressed to: 995x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 995x1400 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 995x1400 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 999x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 9.0s (vs ~60-95s with Pro)
+📝 Response: 2851 chars
+✅ JSON extracted
+📊 7 polling stations
+
+✅ Page 4 DONE! (1/4)
+⚡ API response in 9.4s (vs ~60-95s with Pro)
+📝 Response: 3147 chars
+✅ JSON extracted
+📊 12 polling stations
+
+✅ Page 2 DONE! (2/4)
+⚡ API response in 14.1s (vs ~60-95s with Pro)
+📝 Response: 7415 chars
+✅ JSON extracted
+📊 11 polling stations
+
+✅ Page 1 DONE! (3/4)
+⚡ API response in 37.0s (vs ~60-95s with Pro)
+📝 Response: 12338 chars
+✅ JSON extracted
+📊 33 polling stations
+
+✅ Page 3 DONE! (4/4)
+
+📦 Merging results from 4 pages...
+📊 Total polling stations: 63
+
+✅ Successfully processed 4/4 pages
+
+💾 Results saved: parsedData/AC_166.json (29,264 bytes)
+📊 Constituency: 166 - Andheri East (Gen)
+📊 Total Electors: 280,674
+📊 Polling Stations: 63
+📊 Candidates: 17

@@ -1,0 +1,95 @@
+⚡ ULTRA-FAST PROCESSING AC_53
+📁 PDF: LOKSABHA_2024/10 - Nagpur/AC_053.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 7 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+
+⚡ Processing 5 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/5 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+
+============================================================
+📄 PAGE 2/5 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x1986 pixels
+
+============================================================
+📄 PAGE 3/5 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1404x1986 pixels
+
+============================================================
+📄 PAGE 4/5 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1404x1986 pixels
+📐 Original size: 1404x1986 pixels
+
+============================================================
+📄 PAGE 5/5 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1404x1986 pixels
+✅ Compressed to: 1131x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1131x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1131x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1131x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1131x1600 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 7.1s (vs ~60-95s with Pro)
+📝 Response: 2078 chars
+✅ JSON extracted
+📊 1 polling stations
+
+✅ Page 5 DONE! (1/5)
+⚡ API response in 10.0s (vs ~60-95s with Pro)
+📝 Response: 3206 chars
+✅ JSON extracted
+📊 7 polling stations
+
+✅ Page 3 DONE! (2/5)
+⚡ API response in 21.8s (vs ~60-95s with Pro)
+📝 Response: 12132 chars
+✅ JSON extracted
+📊 20 polling stations
+
+✅ Page 2 DONE! (3/5)
+⚡ API response in 24.1s (vs ~60-95s with Pro)
+📝 Response: 9485 chars
+✅ JSON extracted
+📊 31 polling stations
+
+✅ Page 4 DONE! (4/5)
+⚡ API response in 35.1s (vs ~60-95s with Pro)
+📝 Response: 12831 chars
+✅ JSON extracted
+📊 41 polling stations
+
+✅ Page 1 DONE! (5/5)
+
+📦 Merging results from 5 pages...
+📊 Total polling stations: 100
+
+✅ Successfully processed 5/5 pages
+
+💾 Results saved: parsedData/AC_053.json (42,693 bytes)
+📊 Constituency: 53 - Nagpur South (Gen) Assembly Election
+📊 Total Electors: 372,654
+📊 Polling Stations: 100
+📊 Candidates: 22

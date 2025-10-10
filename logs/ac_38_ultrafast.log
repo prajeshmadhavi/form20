@@ -1,0 +1,48 @@
+⚡ ULTRA-FAST PROCESSING AC_38
+📁 PDF: LOKSABHA_2024/7 - Amravati (SC)/AC_038.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 4 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+
+⚡ Processing 2 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/2 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1404x993 pixels
+
+============================================================
+📄 PAGE 2/2 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1404x993 pixels
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1404x993 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 2.6s (vs ~60-95s with Pro)
+📝 Response: 184 chars
+✅ JSON extracted
+
+✅ Page 2 DONE! (1/2)
+⚡ API response in 3.3s (vs ~60-95s with Pro)
+📝 Response: 436 chars
+✅ JSON extracted
+
+✅ Page 1 DONE! (2/2)
+
+📦 Merging results from 2 pages...
+📊 Total polling stations: 0
+
+✅ Successfully processed 2/2 pages
+
+💾 Results saved: parsedData/AC_038.json (642 bytes)
+📊 Constituency: 38 - Amravati (Gen)
+📊 Total Electors: 346,688
+📊 Polling Stations: 0
+📊 Candidates: 4

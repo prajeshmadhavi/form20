@@ -1,0 +1,79 @@
+{
+  "Constituency Number": 7,
+  "constituency_name": "DHULE CITY",
+  "Total Number of Electors": 364771,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 681,
+      "Number of Rejected votes": 0,
+      "NOTA": 4,
+      "Total": 685,
+      "candidate_votes": [620, 52, 1, 1, 13, 24, 0, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 919,
+      "Number of Rejected votes": 0,
+      "NOTA": 11,
+      "Total": 930,
+      "candidate_votes": [767, 83, 1, 2, 7, 19, 0, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 3,
+      "Total Number of valid votes": 811,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 814,
+      "candidate_votes": [699, 85, 1, 1, 8, 17, 0, 0]
+    },
+    {
+      "Serial No. Of Polling Station": 4,
+      "Total Number of valid votes": 786,
+      "Number of Rejected votes": 0,
+      "NOTA": 7,
+      "Total": 793,
+      "candidate_votes": [684, 76, 4, 3, 12, 6, 1, 1]
+    },
+    {
+      "Serial No. Of Polling Station": 5,
+      "Total Number of valid votes": 744,
+      "Number of Rejected votes": 0,
+      "NOTA": 3,
+      "Total": 747,
+      "candidate_votes": [589, 144, 0, 1, 0, 7, 2, 1]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "AGRAWAL ANUPBHAYYAKRASH",
+      "Total Votes Polled": 3359
+    },
+    {
+      "candidate_name": "ANIL GOTE",
+      "Total Votes Polled": 440
+    },
+    {
+      "candidate_name": "ANAND SAHEBRAO",
+      "Total Votes Polled": 7
+    },
+    {
+      "candidate_name": "BAHAGIDAR JADHAV RUSHIKESH",
+      "Total Votes Polled": 8
+    },
+    {
+      "candidate_name": "ALIAS JITENDRA SHRISHAKANT",
+      "Total Votes Polled": 40
+    },
+    {
+      "candidate_name": "SHAILESH ALIAS ABDUL PADUL",
+      "Total Votes Polled": 73
+    }
+  ],
+  "Elected Person Name": "AGRAWAL ANUPBHAYYAKRASH",
+  "elected_person_votes": 3359,
+  "extraction_method": "vision_analysis",
+  "pages_processed": 1,
+  "data_quality": "high_confidence_extraction",
+  "note": "Complete candidate names and voting data extracted using vision LLM"
+}

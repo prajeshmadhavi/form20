@@ -1,0 +1,49 @@
+⚡ ULTRA-FAST PROCESSING AC_214
+📁 PDF: LOKSABHA_2024/34 - Pune/AC_214.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 4 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+
+⚡ Processing 2 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/2 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1404x992 pixels
+
+============================================================
+📄 PAGE 2/2 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 992x1404 pixels
+✅ Compressed to: 1404x992 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 992x1404 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 5.4s (vs ~60-95s with Pro)
+📝 Response: 1317 chars
+✅ JSON extracted
+
+✅ Page 2 DONE! (1/2)
+⚡ API response in 32.2s (vs ~60-95s with Pro)
+📝 Response: 10285 chars
+✅ JSON extracted
+📊 30 polling stations
+
+✅ Page 1 DONE! (2/2)
+
+📦 Merging results from 2 pages...
+📊 Total polling stations: 30
+
+✅ Successfully processed 2/2 pages
+
+💾 Results saved: parsedData/AC_214.json (16,490 bytes)
+📊 Constituency: 214 - Pune Cantonment (SC)
+📊 Total Electors: 282,390
+📊 Polling Stations: 30
+📊 Candidates: 6

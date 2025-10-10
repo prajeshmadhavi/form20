@@ -1,0 +1,260 @@
+⚡ ULTRA-FAST PROCESSING AC_26
+📁 PDF: LOKSABHA_2024/5 - Buldhana/AC_026.pdf
+🧵 Workers: 15 | DPI: 120 | Model: gemini-2.0-flash-exp
+📄 Converting PDF to images...
+📊 Converted 18 pages
+💾 Saved: page_01.png
+💾 Saved: page_02.png
+💾 Saved: page_03.png
+💾 Saved: page_04.png
+💾 Saved: page_05.png
+💾 Saved: page_06.png
+💾 Saved: page_07.png
+💾 Saved: page_08.png
+💾 Saved: page_09.png
+💾 Saved: page_10.png
+💾 Saved: page_11.png
+💾 Saved: page_12.png
+💾 Saved: page_13.png
+💾 Saved: page_14.png
+💾 Saved: page_15.png
+💾 Saved: page_16.png
+💾 Saved: page_17.png
+💾 Saved: page_18.png
+
+⚡ Processing 16 pages with 15 workers...
+
+============================================================
+📄 PAGE 1/16 (Thread: ThreadPoolExecutor-0_0)
+============================================================
+📂 Loading image: page_01.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 2/16 (Thread: ThreadPoolExecutor-0_1)
+============================================================
+📂 Loading image: page_02.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 3/16 (Thread: ThreadPoolExecutor-0_2)
+============================================================
+📂 Loading image: page_03.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 4/16 (Thread: ThreadPoolExecutor-0_3)
+============================================================
+📂 Loading image: page_04.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 5/16 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_05.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 6/16 (Thread: ThreadPoolExecutor-0_5)
+============================================================
+📂 Loading image: page_06.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 7/16 (Thread: ThreadPoolExecutor-0_6)
+============================================================
+📂 Loading image: page_07.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 8/16 (Thread: ThreadPoolExecutor-0_7)
+============================================================
+📂 Loading image: page_08.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 9/16 (Thread: ThreadPoolExecutor-0_8)
+============================================================
+📂 Loading image: page_09.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 10/16 (Thread: ThreadPoolExecutor-0_9)
+============================================================
+📂 Loading image: page_10.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 11/16 (Thread: ThreadPoolExecutor-0_10)
+============================================================
+📂 Loading image: page_11.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 12/16 (Thread: ThreadPoolExecutor-0_11)
+============================================================
+📂 Loading image: page_12.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 13/16 (Thread: ThreadPoolExecutor-0_12)
+============================================================
+📂 Loading image: page_13.png
+📐 Original size: 1680x1020 pixels
+
+============================================================
+📄 PAGE 14/16 (Thread: ThreadPoolExecutor-0_13)
+============================================================
+📂 Loading image: page_14.png
+
+============================================================
+📄 PAGE 15/16 (Thread: ThreadPoolExecutor-0_14)
+============================================================
+📂 Loading image: page_15.png
+📐 Original size: 1680x1020 pixels
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 20.3s (vs ~60-95s with Pro)
+📝 Response: 7327 chars
+✅ JSON extracted
+📊 19 polling stations
+
+============================================================
+📄 PAGE 16/16 (Thread: ThreadPoolExecutor-0_4)
+============================================================
+📂 Loading image: page_16.png
+
+✅ Page 5 DONE! (1/16)
+📐 Original size: 1680x1020 pixels
+✅ Compressed to: 1600x971 pixels
+⚡ Calling Gemini Flash API (attempt 1/2)...
+⚡ API response in 20.6s (vs ~60-95s with Pro)
+📝 Response: 7012 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 1 DONE! (2/16)
+⚡ API response in 20.6s (vs ~60-95s with Pro)
+📝 Response: 7301 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 12 DONE! (3/16)
+⚡ API response in 20.8s (vs ~60-95s with Pro)
+📝 Response: 7356 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 15 DONE! (4/16)
+⚡ API response in 21.2s (vs ~60-95s with Pro)
+📝 Response: 7324 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 4 DONE! (5/16)
+⚡ API response in 21.1s (vs ~60-95s with Pro)
+📝 Response: 7362 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 11 DONE! (6/16)
+⚡ API response in 21.5s (vs ~60-95s with Pro)
+📝 Response: 7284 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 8 DONE! (7/16)
+⚡ API response in 21.4s (vs ~60-95s with Pro)
+📝 Response: 7269 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 6 DONE! (8/16)
+⚡ API response in 21.6s (vs ~60-95s with Pro)
+📝 Response: 7382 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 9 DONE! (9/16)
+⚡ API response in 21.8s (vs ~60-95s with Pro)
+📝 Response: 7403 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 3 DONE! (10/16)
+⚡ API response in 22.0s (vs ~60-95s with Pro)
+📝 Response: 7330 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 7 DONE! (11/16)
+⚡ API response in 22.2s (vs ~60-95s with Pro)
+📝 Response: 7317 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 14 DONE! (12/16)
+⚡ API response in 22.9s (vs ~60-95s with Pro)
+📝 Response: 7413 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 13 DONE! (13/16)
+⚡ API response in 24.2s (vs ~60-95s with Pro)
+📝 Response: 14482 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 10 DONE! (14/16)
+⚡ API response in 24.3s (vs ~60-95s with Pro)
+📝 Response: 14433 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 2 DONE! (15/16)
+⚡ API response in 20.9s (vs ~60-95s with Pro)
+📝 Response: 7429 chars
+✅ JSON extracted
+📊 19 polling stations
+
+✅ Page 16 DONE! (16/16)
+
+📦 Merging results from 16 pages...
+📊 Total polling stations: 304
+
+✅ Successfully processed 16/16 pages
+
+💾 Results saved: parsedData/AC_026.json (137,197 bytes)
+📊 Constituency: 5 - Buldhana Parliamentary Constituency
+📊 Total Electors: 289,992
+📊 Polling Stations: 304
+📊 Candidates: 22

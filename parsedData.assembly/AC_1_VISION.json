@@ -1,0 +1,91 @@
+{
+  "Constituency Number": 1,
+  "constituency_name": "AKKALKUWA",
+  "Total Number of Electors": 319481,
+  "serial_no_wise_details": [
+    {
+      "Serial No. Of Polling Station": 1,
+      "Total Number of valid votes": 374,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 376,
+      "candidate_votes": [
+        73,
+        202,
+        16,
+        17,
+        8,
+        17,
+        0,
+        0,
+        40,
+        1
+      ]
+    },
+    {
+      "Serial No. Of Polling Station": 2,
+      "Total Number of valid votes": 252,
+      "Number of Rejected votes": 0,
+      "NOTA": 2,
+      "Total": 254,
+      "candidate_votes": [
+        45,
+        149,
+        12,
+        15,
+        6,
+        16,
+        0,
+        0,
+        8,
+        1
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_name": "Candidate_1",
+      "Total Votes Polled": 118
+    },
+    {
+      "candidate_name": "Candidate_2",
+      "Total Votes Polled": 351
+    },
+    {
+      "candidate_name": "Candidate_3",
+      "Total Votes Polled": 28
+    },
+    {
+      "candidate_name": "Candidate_4",
+      "Total Votes Polled": 32
+    },
+    {
+      "candidate_name": "Candidate_5",
+      "Total Votes Polled": 14
+    },
+    {
+      "candidate_name": "Candidate_6",
+      "Total Votes Polled": 33
+    },
+    {
+      "candidate_name": "Candidate_7",
+      "Total Votes Polled": 0
+    },
+    {
+      "candidate_name": "Candidate_8",
+      "Total Votes Polled": 0
+    },
+    {
+      "candidate_name": "Candidate_9",
+      "Total Votes Polled": 48
+    },
+    {
+      "candidate_name": "Candidate_10",
+      "Total Votes Polled": 2
+    }
+  ],
+  "Elected Person Name": "Candidate_2",
+  "extraction_method": "advanced_vision",
+  "pages_processed": 10,
+  "data_quality": "detailed_vision_extraction"
+}
